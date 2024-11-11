@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import path from 'path';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -23,6 +24,10 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  plugins: [
+    path.resolve(__dirname, './plugins/docusaurus-plugin-wowhead-tooltips'),
+  ],
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -39,10 +44,10 @@ const config: Config = {
       async: true, // Optional: load script asynchronously
     },
   ],*/
-  scripts: [
+  /*scripts: [
     "const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};",
     "https://wow.zamimg.com/js/tooltips.js"
-  ],
+  ],*/
 
 
   presets: [
