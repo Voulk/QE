@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Stats & Gearing
 
+> Nature does not hurry, yet everything is accomplished
+>
+> — Lao Tzu, grappling with his 14% Haste Resto Druid
+
 ## The Quick Answer?
 You can get pretty close to optimal by just strapping on your highest item level pieces with a lean toward Haste.
 
@@ -20,6 +24,7 @@ Intellect is our most important stat. Gaining 1% more intellect will in general 
 Each secondary stat goes up in value the more you have of the other secondaries, which when combined with the strength of intellect makes just picking your highest ilvl gear particularly strong. **So long as you have reasonable Haste, your secondary allocation will never hold you back.**
 ::: 
  
+---
 
 ## Ready to optimize?
 ![QE Live Intro](.\images\QELivePanel.png)
@@ -45,6 +50,8 @@ You **really** don't have to think too much about diminishing returns on your ge
 
 :::
 
+---
+
 ### Reagents
 - **Flask:** <span style={{color: '#B59D36'}}>[Flask of Tempered Swiftness](https://www.wowhead.com/spell=431972)</span>
 - Regular Gem Sockets: 1x Fierce Illimited Diamond. The rest Keen Ysemerald.
@@ -58,6 +65,7 @@ You **really** don't have to think too much about diminishing returns on your ge
 - Legs: Temporal Spellthread
 - Ring: Devotion of Haste
 
+---
 
 ### Trinkets
 You can get custom, personalized trinket rankings at QE Live. It also lets you compare trinket at specific levels, and is always the most up to date information available.
