@@ -7,19 +7,21 @@ import WH from '../src/components/HomepageFeatures/WowheadLink'
 # Spells
 
 ## Spells
-Resto Druids specialize in Heal over Time effects and this theme runs through most of our spells. This section can be long but the explanations are thorough, and the tricks spread throughout are valuable. If you are picking up a Resto Druid for the first time, I’d recommend reading the reference sheet for a much quicker explanation of each spell. Resto is an incredibly rewarding spec to master and I would strongly recommend it to prospective healers. Our spells have strong synergies with one another and you’ll build large windows of healing through our powerful cooldowns. Some of the below spells are technically talents, but we’ll be taking them in every build (except where noted).
+Resto Druids specialize in Heal over Time effects and this theme runs through most of our spells. This section can be long but the explanations are thorough, and the tricks spread throughout are valuable. If you are picking up a Resto Druid for the first time, I’d recommend reading the reference sheet for a much quicker explanation of each spell. 
+
+Resto is an incredibly rewarding spec to master and I would strongly recommend it to prospective healers. Our spells have strong synergies with one another and you’ll build large windows of healing through our powerful cooldowns. Some of the below spells are technically talents, but we’ll be taking them in every build (except where noted).
 
  
 
 ## The Hots
-**<WH>Rejuvenation</WH>**
+#### <WH>Rejuvenation</WH>
 
 ***Primary Role: Key builder in your ramp sequence. Can also be used as a filler HoT.***
 
 - Rejuvenation is a key piece of your “ramps” (we’ll cover what this means a little later). 
 - Generally you’ll cast a lot of these in a row before Flourish, or during Tree of Life. You can also cast them on damaged targets in between your big cooldowns, and this tier you can get away with casting a ton of them. Think of this as a medium-sized HoT that you’ll combine with other buttons to do huge healing.
 
-**<WH>Wild Growth</WH>**
+#### <WH>Wild Growth</WH>
 
 ***Primary Role: Powerful, efficient AoE heal. Also features in your ramp sequence.***
 
@@ -29,7 +31,7 @@ Resto Druids specialize in Heal over Time effects and this theme runs through mo
 
 > **You should know:** Even though Wild Growth is cast on an ally (like every other heal) it won’t necessarily hit that target. It instead will pick the six lowest health targets within 30 yards of them. This tends to be a good thing in most cases, but it’s worth knowing.
 
-**<WH>Efflorescence</WH>**
+#### <WH>Efflorescence</WH>
 
 ![REfflo Example](.\images\effloGraphic.jpg)
 
@@ -39,24 +41,24 @@ Targeted healing effect that heals allies in the green circle. It lasts for 30 s
 
 > **You should know:** When running Spring Blossoms, the Efflorescence heal will prioritize targets that don’t have the Spring Blossoms hot but Efflorescence is otherwise NOT a smart heal (and so could heal an ally at 90% life instead of one at 10%).
 
-**<WH>Lifebloom</WH>**
+#### <WH>Lifebloom</WH>
 
 ***Primary Role: Single target healing***
 
 Limited to one target at a time (two with Undergrowth). Aim for very high Lifebloom uptime – often on yourself for Photosynthesis value.
 
-> You should know: If you recast Lifebloom on a target with less than 4.5 seconds remaining it will proc the bloom portion of the heal. This is one of our maintenance spells since it does good healing and gives us free Regrowth casts through Omen of Clarity.
+> **You should know:** If you recast Lifebloom on a target with less than 4.5 seconds remaining it will proc the bloom portion of the heal. This is one of our maintenance spells since it does good healing and gives us free Regrowth casts through Omen of Clarity.
  
 ---
 
 ## The Direct Heals
-**Regrowth**
+#### <WH>Regrowth</WH>
 
 ***Primary Role: Spot heal. Also a powerful filler spell after a Flourish ramp or whenever you have a lot of Rejuvenations active.***
 
 Regrowth is a direct healing spell that we’re going to make cheap or free through the Abundance talent and Omen of Clarity procs. You can also cast it whenever someone is on the brink of death.
 
-**Swiftmend**
+#### Swiftmend
 
 ***Primary Role: Single target heal with a lot of effects attached.***
 
@@ -65,19 +67,19 @@ Instant heal on a 15 second cooldown. Removes a HoT from the target in the follo
 ---
 
 ## The Cooldowns
-**Tranquility**
+#### Tranquility
 
 Heals ALL allies within 40 yards and leaves a stacking hot on them for 8 seconds. This is a decent cooldown that we’ll usually assign alone as opposed to combining it with any of our other cooldowns.
 
 > Tip: Tranquility benefits from your Mastery, so throw out a Wild Growth before you cast Tranquility to give it a boost.
 
-**Flourish**
+#### Flourish
 
 ***Primary Role: Major healing cooldown***
 
 Extends all HoTs by 8 seconds and doubles your tick rate for 8 seconds. This increased tick rate is a buff on yourself which means any HoTs you apply after you cast Flourish will also benefit. This is actually your strongest healing cooldown and on a short 90 second cooldown. In raid you can easily have 20++ rejuv buffs active when you press it which will generate a ridiculous amount of healing. In Mythic+ Flourish can get you through any healing check.
 
-**Convoke the Spirits**
+#### Convoke the Spirits
 
 ***Primary Role: Healing cooldown***
 
@@ -86,13 +88,13 @@ Convoke is a special kind of spell. It casts 9-12 Druid spells over 3-4 seconds 
 --- 
 
 ## The Defensives
-**Barkskin**
+#### Barkskin
 
 ***Primary Role: Personal Defensive***
 
 Reduces the damage you take by 20% for 12 seconds. This is off the global cooldown, so get into the habit of casting it whenever you’re in danger. You can also look at dangerous overlaps in a fight and get into a habit of always pressing your defensive there.
 
-**Ironbark**
+#### Ironbark
 
 ***Primary Role: External cooldown***
 
@@ -101,17 +103,17 @@ Reduces the damage your target takes by 20% for 12 seconds and buffs your HoTs o
 ---
 
 ## Passives
-**Ysera's Gift**
+#### Ysera's Gift
 A free heal on you, or a raid member every 5 seconds. It doesn’t benefit from Haste or Versatility, isn’t increased by your Mastery, and cannot critically heal. It’s just free healing.
 
-**Omen of Clarity**
+#### Omen of Clarity
 Omen of Clarity rewards you with some free Regrowth casts for having Lifebloom up. You are likely to see 2-3 procs a minute, and if the raid is in reasonable health you can cast the free Regrowths on the tank to put up another HoT for your mastery. Aim to make use of as many procs as possible.
 
 --- 
 
 ## The Other Stuff
 
-**Innervate**
+#### Innervate
 
 Allows you, or a targeted ally to cast spells for free for 12 seconds. In raid it’s up to you and your group to decide if this is best on yourself or another healer.
 
@@ -120,11 +122,11 @@ Allows you, or a targeted ally to cast spells for free for 12 seconds. In raid i
 > **Tip:** Try not to time your Innervate as the big damage hits. Instead cast it 10 seconds beforehand to get a blanket of Rejuvenations out before the damage hits. Getting your HoTs out before damage hits is one of the keys to playing Resto Druid well.
 
 
-**Nature's Cure**
+#### Nature's Cure
 
 The Resto Druid dispel. Dispels are on an 8 second cooldown, and remove all negative effects on the target. As a Druid we can cleanse anything that isn’t a disease, and dungeons in particular have many status effects that you can dispel. Make sure this is keybound and used frequently.
 
-**Ursol's Vortex**
+#### Ursol's Vortex
 
 A frequently forgotten about utility spell that has many applications in dungeons (and a few in raid too). It forms a cyclone at the targeted location which pulls back in mobs that escape as well as slowing them down. You can get pretty creative with its use but some examples include:
 
