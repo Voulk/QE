@@ -21,7 +21,7 @@ const options = {
 type PDFFile = string | File | null;
 
 interface PdfEmbedProps {
-src: PDFFile;
+    src: PDFFile;
 }
 
 export default function PdfEmbed({src}: PdfEmbedProps): JSX.Element {
@@ -39,7 +39,7 @@ function highlightPattern(text: string, pattern: string) {
 }
 
 function changePage(offset: number) {
-setPageNumber((prevPageNumber) => prevPageNumber + offset);
+    setPageNumber((prevPageNumber) => prevPageNumber + offset);
 }
 
 function onItemClick({pageNumber: itemPageNumber}) {
@@ -47,16 +47,16 @@ setPageNumber(itemPageNumber);
 }
 
 function previousPage() {
-changePage(-1);
+    changePage(-1);
 }
 
 function nextPage() {
-changePage(1);
+    changePage(1);
 }
 
 const textRenderer = useCallback(
-(textItem: {str: string;}) => highlightPattern(textItem.str, searchText),
-[searchText]
+    (textItem: {str: string;}) => highlightPattern(textItem.str, searchText),
+    [searchText]
 );
 
 function onChange(event: {target: {value: SetStateAction<string>;};}): void {
@@ -65,20 +65,21 @@ setSearchText(event.target.value);
 
 return (
 <div className={styles.container}>
-<Document
-    file={src}
-    onLoadSuccess={onDocumentLoadSuccess}
-    options={options}
->
-    <div className={styles.documentViewer}>
-        {/*<Outline onItemClick={onItemClick}/> */}
-        <Page
-            pageNumber={pageNumber}
-            customTextRenderer={textRenderer}
-        />
-    </div>
-</Document>
-<div className={styles.pageControls}>
+    <Document
+        file={src}
+        onLoadSuccess={onDocumentLoadSuccess}
+        options={options}
+    >
+        <div className={styles.documentViewer}>
+            {/*<Outline onItemClick={onItemClick}/> */}
+            <Page
+                width={800}
+                pageNumber={pageNumber}
+                customTextRenderer={textRenderer}
+            />
+        </div>
+    </Document>
+{/*<div className={styles.pageControls}>
     <button
         disabled={pageNumber <= 1}
         onClick={previousPage}
@@ -96,7 +97,7 @@ return (
     >
         ›
     </button>
-</div>
+</div> */}
 {/*<div className={styles.searchControls}>
     <label htmlFor="search">Search:</label>
     <input

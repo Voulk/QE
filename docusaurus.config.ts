@@ -120,6 +120,10 @@ const config: Config = {
           href: '/nerubar-palace/',
           items: [
             {
+              label: 'Table of Contents',
+              href: '/nerubar-palace/',
+            },
+            {
               label: 'Ulgrax',
               href: '/nerubar-palace/ulgrax',
             },
