@@ -6,7 +6,11 @@ import WH from '../src/components/HomepageFeatures/WowheadLink'
 
 # Spells
 
-## Spells
+> By discovering nature, you discover yourself
+>
+> — Maxime Lagace, predicting the season 2 meta. 
+
+
 Resto Druids specialize in Heal over Time effects and this theme runs through most of our spells. This section can be long but the explanations are thorough, and the tricks spread throughout are valuable. If you are picking up a Resto Druid for the first time, I’d recommend reading the reference sheet for a much quicker explanation of each spell. 
 
 Resto is an incredibly rewarding spec to master and I would strongly recommend it to prospective healers. Our spells have strong synergies with one another and you’ll build large windows of healing through our powerful cooldowns. Some of the below spells are technically talents, but we’ll be taking them in every build (except where noted).
