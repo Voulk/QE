@@ -113,7 +113,23 @@ const config: Config = {
           label: 'Druid Guide',
         },
         {to: '/monk', label: 'Monk Guide', position: 'left'},
-        {to: '/palace', label: "Nerub'ar Palace", position: 'left'},
+        {
+          type: 'dropdown',
+          position: 'left',
+          label: 'Nerub\'ar Palace',
+          href: '/nerubar-palace/',
+          items: [
+            {
+              label: 'Ulgrax',
+              href: '/nerubar-palace/ulgrax',
+            },
+            {
+              label: 'Bloodbound Horror',
+              href: '/nerubar-palace/bloodboundhorror',
+            },
+            // ... more items
+          ],
+        },
         /*{
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
