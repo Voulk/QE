@@ -5,9 +5,11 @@ type WowheadLinkProps = {
 };
 
 const spellMap: Record<string, number> = {
-  WildGrowth: 48438,
+  'Wild Growth': 48438,
   Rejuvenation: 774,
-  HealingTouch: 5185,
+  Regrowth: 8936,
+  Efflorescence: 145205,
+  Lifebloom: 33763,
   // Add more spells here as needed
 };
 

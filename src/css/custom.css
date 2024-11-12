@@ -33,3 +33,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+blockquote {
+  margin-left: 1em;
+  border-left: 1px goldenrod solid;
+}
+
+blockquote > p {
+  text-indent: 0;
+  margin-left: 0.5em;
+	/*background-color: lightgrey; */
+}

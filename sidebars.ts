@@ -18,7 +18,7 @@ const sidebars: SidebarsConfig = {
 
   // But you can create a sidebar manually
   tutorialSidebar: [
-    'abilities',
+    'spells',
     {
       type: 'category',
       label: 'How to Play',
