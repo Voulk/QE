@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+sidebar_class_name: green
 ---
 
-# Talents & Builds
+# Mythic+
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

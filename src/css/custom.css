@@ -4,6 +4,11 @@
  * work well for content-centric websites.
  */
 
+ .hero {
+  background-image: url("/static/img/Banner.png");
+  color: white;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;

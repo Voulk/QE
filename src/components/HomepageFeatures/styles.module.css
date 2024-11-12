@@ -9,3 +9,13 @@
   height: 200px;
   width: 200px;
 }
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ddae36;
+  --ifm-color-primary-dark: #d4a224;
+  --ifm-color-primary-darker: #c89922;
+  --ifm-color-primary-darkest: #a57e1c;
+  --ifm-color-primary-light: #e1b74e;
+  --ifm-color-primary-lighter: #e3bc59;
+  --ifm-color-primary-lightest: #e9ca7d;
+}

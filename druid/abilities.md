@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Hi!'
+sidebar_label: 'Spells'
 sidebar_position: 3
 ---
 
 
-# Hello
+# Spells
 
 This is my **first Docusaurus document**!
