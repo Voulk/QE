@@ -95,7 +95,7 @@ const config: Config = {
         'Welcome to the new site!',
       backgroundColor: '#B59D36',
       textColor: '#E5E5E5',
-      isCloseable: false,
+      isCloseable: true,
     },
     navbar: {
       title: 'Questionably Epic',

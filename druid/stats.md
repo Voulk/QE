@@ -4,44 +4,60 @@ sidebar_position: 1
 
 # Stats & Gearing
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## The Quick Answer?
+You can get pretty close to optimal by just strapping on your highest item level pieces with a lean toward Haste.
 
-## Getting Started
+### Raid & Healing Focused Mythic+
+Intellect >>> Haste >> Mastery > Versatility >= Crit
 
-Get started by **creating a new site**.
+### Damage Focused Mythic+
+Intellect >>> Haste > Versatility = Crit > Mastery
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Think of mastery as your most powerful mythic+ healing stat, and least powerful DPS stat, you can make a decision from there based on your playstyle. Gearing for item level is still a strong and sound strategy. This is also quite a difficult healing season so you might want to bring more healing than you have in the past.
 
-### What you'll need
+:::tip[Notes on Stats]
+Intellect is our most important stat. Gaining 1% more intellect will in general increase your healing by 1%.
+Each secondary stat goes up in value the more you have of the other secondaries, which when combined with the strength of intellect makes just picking your highest ilvl gear particularly strong. **So long as you have reasonable Haste, your secondary allocation will never hold you back.**
+::: 
+ 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Ready to optimize?
+![QE Live Intro](.\images\QELivePanel.png)
 
-## Generate a new site right now
+Run your gear through Questionably Epic Live. It has full support for stat diminishing returns, item and set effects, and how your current gear influences how much each stat is worth. It'll also let you pick between healing focused and damage focused Mythic+ profiles.
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Diminishing Returns
+When you get to a certain amount of a stat you start getting a small penalty on any stats you accumulate above that. These are absolutely not stat caps, and Haste in particular is good enough that you'll happily continue to pick up pieces well past the first DR point. 
+**If you're wondering if you have too much haste the answer is almost definitely no.** You can use QE Live above to double check. Diminishing returns applies to all stat rating which includes any trinket procs. It does not apply to percentage gains like Bloodlust, Lycara's Teachings or Mark of the Wild.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+| Stat | First DR (-10%) | Second DR (-20%) | Third DR (-30%) |
+| --- | --- | --- | --- |
+| Haste | 19800 | 26400 | 33000 |
+| Mastery | 21000 | 28000 | 35000 |
+| Crit | 21000 | 28000 | 35000 |
+| Versatility | 23400 | 31200 | 39000 |
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+:::warning[Diminishing Returns]
 
-## Start your site
+You **really** don't have to think too much about diminishing returns on your gear. QE Live will take care of it for you, but as a Resto Druid you will also do well just gearing for priority stats without too much regard for how much you have of X. 
 
-Run the development server:
+:::
 
-```bash
-cd my-website
-npm run start
-```
+### Reagents
+- **Flask:** <span style={{color: '#B59D36'}}>[Flask of Tempered Swiftness](https://www.wowhead.com/spell=431972)</span>
+- Regular Gem Sockets: 1x Fierce Illimited Diamond. The rest Keen Ysemerald.
+- Weapon Rune: Howling Rune.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### Enchants
+- Weapon: Sophic Devotion – Dreaming Devotion is also very good on most raid bosses but is quite a bit weaker in Mythic+.
+- Cloak: Regenerative Leech
+- Chest: Waking Stats
+- Bracers: Devotion of Leech
+- Legs: Temporal Spellthread
+- Ring: Devotion of Haste
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Trinkets
+You can get custom, personalized trinket rankings at QE Live. It also lets you compare trinket at specific levels, and is always the most up to date information available.
