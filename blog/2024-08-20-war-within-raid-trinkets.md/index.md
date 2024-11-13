@@ -1,9 +1,17 @@
 ---
 slug: war-within-raid-trinkets
 title: War Within Raid Trinkets
+image: https://questionablyepic.com/wp-content/uploads/2024/08/Raid-Trinkets.png
 authors: [voulk]
 tags: [preview]
 ---
+
+![TT Picture](.\TWW-Raid-Trinkets.png)
+
+An indepth breakdown of all of the raid trinkets coming in Nerub'ar Palace in season 1 of The War Within. 
+
+
+<!-- truncate -->
 
 Season 1 of The War Within adds so many trinket choices that we’re going to break them down by drop location. We’ll cover the raid trinkets first (which are more complex on average) and then check out Dungeon and Delve options which have some powerful options this time around. The raid trinkets are more of a mixed bag. They’re very creative but this extra mental overhead can be a downside in some cases compared to simpler trinkets with similar throughput.
 

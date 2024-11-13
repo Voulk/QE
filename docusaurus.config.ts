@@ -65,6 +65,7 @@ const config: Config = {
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          blogTitle: "QE Articles",
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],

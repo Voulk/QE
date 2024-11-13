@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+import SideBySideFlex from "../src/components/SideBySideFlexBox"
+
 # Stats & Gearing
 
 > Nature does not hurry, yet everything is accomplished
@@ -11,16 +13,12 @@ sidebar_position: 1
 ## The Quick Answer?
 You can get pretty close to optimal by just strapping on your highest item level pieces with a lean toward Haste.
 
-<div style={{ display: 'flex', gap: '10px', width: '100%'  }}>
-    <div style={{ flex: '1', borderRadius: '8px', border: '2px  solid goldenrod', backgroundColor: '#54460A', padding: '8px' }}>
-        ### Raid & Healing Focused Mythic+
-        Intellect >>> Haste >> Mastery > Versatility > Crit
-    </div>
-    <div style={{ flex: '1', borderRadius: '8px', border: '2px solid green', backgroundColor: '#005117', padding: '8px' }}>
-        ### Damage Focused Mythic+
-        Intellect >>> Haste > Versatility = Crit > Mastery
-    </div>
-</div>
+<SideBySideFlex
+  leftTitle="Raid & Healing Focused Mythic+"
+  leftText="Intellect >>> Haste >> Mastery > Versatility > Crit"
+  rightTitle="Damage Focused Mythic+"
+  rightText="Intellect >>> Haste > Versatility = Crit > Mastery"
+/>
 
 
 

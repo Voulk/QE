@@ -141,7 +141,7 @@ We also have some damage spells like Moonfire, Sunfire, Wrath, and more dependin
 --- 
 
 ## Extra Info
-### Overwriting hots (nicknamed “Pandemic”)
+### Pandemic - Or, Overwriting Hots
 If you recast a hot that has less than 30% of its duration left on a target the remaining duration will be added to the refresh. So if you refresh a Lifebloom with 3 seconds remaining, that three seconds will be added to the 15 second fresh Lifebloom (for an 18 second total duration). This applies to all heal and damage over time effects which means there’s no cost to refreshing HoTs early within this zone. 30% is a little hard to remember so here are some proper numbers:
 
 - Lifebloom: 4.5s or less remaining.
