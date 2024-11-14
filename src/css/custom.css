@@ -44,3 +44,7 @@ blockquote > p {
   margin-left: 0.5em;
 	/*background-color: lightgrey; */
 }
+
+img[alt$="<"] {
+  float: left;
+}

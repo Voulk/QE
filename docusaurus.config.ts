@@ -26,6 +26,16 @@ const config: Config = {
 
   plugins: [
     path.resolve(__dirname, './plugins/docusaurus-plugin-wowhead-tooltips'),
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'monk',
+        path: 'monk',
+        routeBasePath: 'monk',
+        sidebarPath: './sidebarsMonk.ts',
+        // ... other options
+      },
+    ],
   ],
 
 
@@ -59,6 +69,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           path: 'druid',
           routeBasePath: 'druid',
+          //path: '',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -112,8 +123,17 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Druid Guide',
+          activeBasePath: 'druid',
         },
-        {to: '/monk', label: 'Monk Guide', position: 'left'},
+        /*{
+          type: 'docSidebar',
+          //sidebarId: 'monkSidebar',
+          position: 'left',
+          label: 'Monk Guide',
+          activeBasePath: 'monk',
+          docsPluginId: 'monk',
+        },*/
+        {to: '/monk/heroTalents', label: 'Monk Guide', position: 'left'},
         {
           type: 'dropdown',
           position: 'left',
