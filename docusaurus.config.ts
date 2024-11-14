@@ -30,8 +30,8 @@ const config: Config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'monk',
-        path: 'monk',
-        routeBasePath: 'monk',
+        path: 'mistweavermonk',
+        routeBasePath: 'mistweavermonk',
         sidebarPath: './sidebarsMonk.ts',
         // ... other options
       },
@@ -67,8 +67,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          path: 'druid',
-          routeBasePath: 'druid',
+          path: 'restodruid',
+          routeBasePath: 'restodruid',
           //path: '',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -123,7 +123,7 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Druid Guide',
-          activeBasePath: 'druid',
+          activeBasePath: 'restodruid',
         },
         /*{
           type: 'docSidebar',
@@ -133,7 +133,7 @@ const config: Config = {
           activeBasePath: 'monk',
           docsPluginId: 'monk',
         },*/
-        {to: '/monk/heroTalents', label: 'Monk Guide', position: 'left'},
+        {to: '/mistweavermonk/heroTalents', label: 'Monk Guide', position: 'left'},
         {
           type: 'dropdown',
           position: 'left',
