@@ -10,7 +10,7 @@ type SideBySideFlexProps = {
   };
 
 const SideBySideFlex: React.FC<SideBySideFlexProps> = ({leftTitle, rightTitle, leftText, rightText}) => {
-    const { isDarkTheme } = useColorMode();
+    const isDarkTheme = useColorMode().colorMode === 'dark';
     const color1 = isDarkTheme ? "goldenrod" : "#54460A";
     const color2 = isDarkTheme ? "#00A800" : "#005117";
 
