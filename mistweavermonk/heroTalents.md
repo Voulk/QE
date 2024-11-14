@@ -3,10 +3,14 @@ title: Hero Talents
 ---
 
 import FloatingImage from "../src/components/FloatingImage"
+import HeroTreeHeader from "../src/components/HeroTreeHeader"
 
 # Hero Talents: An Intro
 
-The War Within adds two “Hero Trees” for Mistweaver Monk: Conduit of the Celestials and Master of Harmony. Master of Harmony is currently tuned very poorly and it is very buggy/boring to play with so I will not really be talking about it since it’s just not competitive at all in raid. Conduit of the Celestials is going to be our premier hero talent choice. I will give a short introduction to each of the notable talents and how to play around with them in raid.
+This is an example of inline text with an image   and more text.
+
+
+The War Within adds two “Hero Trees” for Mistweaver Monk: <HeroTreeHeader src={require("./images/Conduit-Of-The-Celestials.png").default} alt="Description" /> and Master of Harmony. Master of Harmony is currently tuned very poorly and it is very buggy/boring to play with so I will not really be talking about it since it’s just not competitive at all in raid. Conduit of the Celestials is going to be our premier hero talent choice. I will give a short introduction to each of the notable talents and how to play around with them in raid.
 
 
 <FloatingImage title="Celestial Conduit" paragraph="The Keystone ability is CelestialConduit which is a very strong AoE heal/damage pulsing 90 second cooldown that does not have much synergy with the rest of the kit but does provide a lot of HPS for a 90 second cooldown. I recommend pairing Celestial Conduit with Shaohao's Lessons if you have it talented or with your Secret Infusion buff to maximize the amount of HPS it does in the short window. It is a channeled spell similar to how Essence Font functioned in the past. You can move with it but you can also cancel it with other effects so be wary of accidentally canceling early." image={require("./images/Celestial-Conduit.jpg").default} />
