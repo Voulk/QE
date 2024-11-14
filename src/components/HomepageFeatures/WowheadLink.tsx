@@ -4,6 +4,10 @@ type WowheadLinkProps = {
   spellName: string;
 };
 
+export const checkExists = (spellName: string) => {
+  return spellMap[spellName] !== undefined;
+};
+
 const spellMap: Record<string, number> = {
   'Wild Growth': 48438,
   Rejuvenation: 774,
@@ -11,6 +15,11 @@ const spellMap: Record<string, number> = {
   Efflorescence: 145205,
   Lifebloom: 33763,
   // Add more spells here as needed
+
+  // Monk spells
+  'CelestialConduit': 443028,
+  'Courage of the White Tiger': 443087,
+
 };
 
 const WowheadLink = ({ spellName }: WowheadLinkProps) => {
@@ -33,7 +42,7 @@ type WowheadShorthandProps = {
   };
   
 export const WH = ({ children }: WowheadShorthandProps) => {
-return <WowheadLink spellName={children} />;
+  return <WowheadLink spellName={children} />;
 };
 
 export default WH;

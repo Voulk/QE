@@ -1,5 +1,6 @@
 import React from 'react';
 import { useColorMode } from '@docusaurus/theme-common';
+import { checkExists, WH } from './HomepageFeatures/WowheadLink'; 
 
 
 type SideBySideFlexProps = {
@@ -16,6 +17,18 @@ const FloatingImage: React.FC<SideBySideFlexProps> = ({title, image, paragraph})
     const background1 = isDarkTheme ? "#54460A" : "goldenrod";
     const background2 = isDarkTheme ? "#005117" : "#00A800";
 
+
+
+    const renderParagraph = (text: string) => {
+        const parts = text.split(/(\s+)/); // Split by spaces but keep spaces
+        return parts.map((part, index) => {
+          if (checkExists((part.replace(/[.,!?]/g, '')))) { // Remove punctuation for matching
+            return <WH key={index}>{part}</WH>;
+          }
+          return part; // Return plain text otherwise
+        });
+      };
+
     return (
         <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'flex-start' }}>
         <img
@@ -25,7 +38,7 @@ const FloatingImage: React.FC<SideBySideFlexProps> = ({title, image, paragraph})
         />
         <div style={{ flex: '1', minWidth: '200px' }}> {/* Prevents text from shrinking too much */}
           <h4 style={{ color: '#00FF98' }}>{title}</h4>
-          <p>{paragraph}</p>
+          <p>{renderParagraph(paragraph)}</p>
         </div>
       </div>
     )
