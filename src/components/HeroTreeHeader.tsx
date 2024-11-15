@@ -1,22 +1,27 @@
 import React from 'react';
 
 type HeroTreeProps = {
-  src: string;
-  alt: string;
-  size?: number; // Default size for the image
+    heroTree: string; // Name of the hero tree
+    showImage? : boolean; // Whether to show the image or just show highlighted text.
+    size?: number; // Default size for the image
 };
 
 const heroTreeData = {
-    'Conduit of the Celestials': {'colour': '', image: './heroTreeImages/Conduit-Of-The-Celestials.png'},
+    'Conduit of the Celestials': {'colour': {dark: "#00CBFF", light: "#00CBFF"}, image: require("./heroTreeImages/conduit-of-the-celestials.png").default},
+    'Master of Harmony': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/master-of-harmony.png").default},
+    'Wildstalker': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/wildstalker.png").default},
+    'Keeper of the Grove': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/keeper-of-the-grove.png").default},
+    'Chronowarden': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/chronowarden.png").default},
+    'Flameshaper': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/flameshaper.png").default},
 }
 
 
-const HeroTreeHeader: React.FC<HeroTreeProps> = ({ src, alt, size = 20 }) => {
+const HeroTreeHeader: React.FC<HeroTreeProps> = ({ heroTree, showImage = true, size = 20 }) => {
   return (
     <span style={{ display: 'inline-flex', alignItems: 'baseline', gap: '5px' }}>
-        <img
-        src={src}
-        alt={alt}
+        {showImage ? <img
+        src={heroTreeData[heroTree].image}
+        alt={heroTree}
         style={{
             width: `${size}px`,
             height: `${size}px`,
@@ -24,8 +29,8 @@ const HeroTreeHeader: React.FC<HeroTreeProps> = ({ src, alt, size = 20 }) => {
             verticalAlign: 'bottom',
             margin: '0 2px',
         }}
-        />
-    <span style={{ lineHeight: '1' }}>{"Conduit of the Celestials"}</span></span>
+        /> : null}
+    <span style={{ lineHeight: '1', color: heroTreeData[heroTree].colour.dark }}>{heroTree}</span></span>
   );
 };
 
