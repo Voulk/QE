@@ -4,5 +4,11 @@ sidebar_position: 4
 
 # Talents & Builds
 
-Hello, run this:
-<a href='https://www.wowhead.com/talent-calc/embed/druid/restoration/keeper-of-the-grove/DARUURFACBVEUUVCgRRQBQPVUUBVRVREFRRCBFDFQFEFVVUCAA'></a>
+## Raid Build
+
+![Raid Build](.\images\DruidRaidBuild1105.png)
+Import Link: XXXX
+
+### Talent Choices
+#### Reforestation vs Power of the Archdruid
+

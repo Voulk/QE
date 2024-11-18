@@ -4,12 +4,37 @@ sidebar_class_name: green
 ---
 
 import React from 'react'
-import ReactPlayer from 'react-player/youtube'
+import ReactPlayer from 'react-player'
 import WH from '../src/components/HomepageFeatures/WowheadLink'
+
 
 # Raid
 
+
+
+<div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'flex-start' }}>
+  <ReactPlayer 
+    url="https://i.imgur.com/9S0L0SW.mp4" 
+    playing 
+    controls 
+    style={{ paddingRight: "12px" }} 
+    width="500px"
+    height="auto"
+  />
+<div style={{ flex: '1', minWidth: '200px' }}>
+    ### Header Example
+    Text example
+</div>
+</div>
+
+
+
+
 So, we’ve learned a little bit about our spells, but perhaps more importantly we must learn when to cast what. This can sometimes be encounter specific so think of these as general strategies that can work well in a wide variety of situations.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Raid Healing Strategy
 To raid heal as a Resto Druid you will learn to **anticipate damage**. This can be a very rewarding play style as you’ll find your numbers going steadily up as you learn how best to heal each boss. It can be easy as a new player to react to damage going out by casting Rejuvenations on damaged players which is acceptable but not optimal. Make sure you read the ramps section further down the page after you’ve finished this brief summary. Most of your HPS will come from combining your buttons.
