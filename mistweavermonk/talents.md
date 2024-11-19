@@ -24,35 +24,35 @@ Many talents have been changed slightly or reworked entirely coming into The War
 
 ## Key Talents
 
-<FloatingImage title="Crane Style" paragraph="Crane Style is a hugely important talent that synergizes extremely well with the buffs to our mastery and to Jade Bond. It is essential for getting enough CDR to push Celestial with Jade Bond down to a 2 minute CD." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Crane Style" paragraph="Crane Style is a hugely important talent that synergizes extremely well with the buffs to our mastery and to Jade Bond. It is essential for getting enough CDR to push Celestial with Jade Bond down to a 2 minute CD." image={require("./images/CraneStyle.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Zen Pulse" paragraph="Zen Pulse has been reworked entirely from an active button to a passive effect that amplifies the healing that your Vivify and Invigorating Mists cleave does which is increased by the number of Renewing Mist you currently have active when pressing Vivify. Zen Pulse can stack up twice and it helps fix the square root scaling issue that Invigorating Mists has. The proc rate of this talent is extremely low on its own however, you can forcibly proc it using Thunder Focus Tea because of Deep Clarity. The Deep Clarity proc activates once you consume your Thunder Focus Tea buff." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Zen Pulse" paragraph="Zen Pulse has been reworked entirely from an active button to a passive effect that amplifies the healing that your Vivify and Invigorating Mists cleave does which is increased by the number of Renewing Mist you currently have active when pressing Vivify. Zen Pulse can stack up twice and it helps fix the square root scaling issue that Invigorating Mists has. The proc rate of this talent is extremely low on its own however, you can forcibly proc it using Thunder Focus Tea because of Deep Clarity. The Deep Clarity proc activates once you consume your Thunder Focus Tea buff." image={require("./images/ZenPulse.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Chi Harmony" paragraph="Chi Harmony makes a return with a bit of a twist; it can no longer spread your Renewing Mist applied to the target for the duration of the Chi Harmony healing increase buff. This ends up being a blessing in disguise because it amplifies our spot healing by quite a bit. This talent shares a choice node with Lotus Infusion which is currently just weaker than Chi Harmony so it is not played." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Chi Harmony" paragraph="Chi Harmony makes a return with a bit of a twist; it can no longer spread your Renewing Mist applied to the target for the duration of the Chi Harmony healing increase buff. This ends up being a blessing in disguise because it amplifies our spot healing by quite a bit. This talent shares a choice node with Lotus Infusion which is currently just weaker than Chi Harmony so it is not played." image={require("./images/ChiHarmony.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Pool of Mists" paragraph="Pool of Mists makes a return from Warlords of Draenor. This talent helps to solve issues with RSK not resetting for Rising Mists making it a bit more consistent as well as adding more average Renewing Mist out through the CDR and the extra charge. It is a solid talent choice that took the spot of Clouded Focus on the choice node with Peer into Peace." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Pool of Mists" paragraph="Pool of Mists makes a return from Warlords of Draenor. This talent helps to solve issues with RSK not resetting for Rising Mists making it a bit more consistent as well as adding more average Renewing Mist out through the CDR and the extra charge. It is a solid talent choice that took the spot of Clouded Focus on the choice node with Peer into Peace." image={require("./images/PoolOfMists.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Jade Bond" paragraph="Jade Bond was buffed heavily which pushed it back into the spotlight for us if the right conditions are met. It is important to note that this guide is for those who want to min-max their gameplay as much as possible so the recommendation to play Jade Bond is under the assumption that you can get your Celestial down to a 2 minute cooldown. If you cannot get enough CDR to make your Celestial line up with 2 minute timers on a fight then it should not be played. Is it a major loss not playing Jade Bond? No, not really but it is still a loss if you do end up playing Gift when compared to min-maxed Jade Bond. TLDR: If you cannot hit a 2 minute Celestial then I recommend just playing Gift." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Jade Bond" paragraph="Jade Bond was buffed heavily which pushed it back into the spotlight for us if the right conditions are met. It is important to note that this guide is for those who want to min-max their gameplay as much as possible so the recommendation to play Jade Bond is under the assumption that you can get your Celestial down to a 2 minute cooldown. If you cannot get enough CDR to make your Celestial line up with 2 minute timers on a fight then it should not be played. Is it a major loss not playing Jade Bond? No, not really but it is still a loss if you do end up playing Gift when compared to min-maxed Jade Bond. TLDR: If you cannot hit a 2 minute Celestial then I recommend just playing Gift." image={require("./images/JadeBond.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Mending Proliferation" paragraph="Previously an unused talent has suddenly become very good due to a number of factors. This will be expanded on when talking about our tierset later." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Mending Proliferation" paragraph="Previously an unused talent has suddenly become very good due to a number of factors. This will be expanded on when talking about our tierset later." image={require("./images/MendingProliferation.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Rising Mist" paragraph="Welcome back the Lebron James of Mistweaver talents." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Rising Mist" paragraph="Welcome back the Lebron James of Mistweaver talents." image={require("./images/RisingMist.jpg").default} />
 
 &nbsp;
 
-<FloatingImage title="Rushing Wind Kick" paragraph="Rushing Wind Kick is a new talent that was added in 11.0.5 which replaces Rising Sun Kick with a ranged alternative that does significantly more damage and provides a buff to your Renewing Mist which increases the healing it does by 100% for 4 seconds. This talent interacts with all things that Rising Sun Kick would interact with and it will proc Rising Mists and Rapid Diffusion whether you hit a target or not." image={require("./images/Celestial-Conduit.jpg").default} />
+<FloatingImage title="Rushing Wind Kick" paragraph="Rushing Wind Kick is a new talent that was added in 11.0.5 which replaces Rising Sun Kick with a ranged alternative that does significantly more damage and provides a buff to your Renewing Mist which increases the healing it does by 100% for 4 seconds. This talent interacts with all things that Rising Sun Kick would interact with and it will proc Rising Mists and Rapid Diffusion whether you hit a target or not." image={require("./images/Rushing-Wind-Kick.jpg").default} />
 
 ### Honorable Mentions
 
