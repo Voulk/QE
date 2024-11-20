@@ -354,8 +354,8 @@ const spellMap: Record<string, number> = {
   'CelestialConduit': 443028,
   'Courage of the White Tiger': 443087,
 
-  'Renewing Mist': 0,
-  'Enveloping Mist': 0,
+  'Renewing Mist': 115151,
+  'Enveloping Mist': 124682,
   'Vivify': 0,
   'Soothing Mist': 0,
   'Ancient Teachings': 388023,
@@ -368,6 +368,8 @@ const spellMap: Record<string, number> = {
   'Mystic Touch': 0,
   'Touch of Death': 0,
   'Expel Harm': 0,
+
+  'Rising Mist': 0,
 
 
 };

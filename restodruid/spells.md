@@ -2,7 +2,6 @@
 sidebar_label: 'Spells'
 sidebar_position: 3
 ---
-import WH from '../src/components/HomepageFeatures/WowheadLink'
 
 # Spells
 

@@ -21,7 +21,6 @@ const sidebars: SidebarsConfig = {
     'heroTalents',
     'talents',
     'playstyleRaid',
-    'stats',
     'monkChanges'
   ]
 };

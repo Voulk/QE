@@ -1,5 +1,5 @@
 ---
-title: "How to Play - Raid"
+title: "How to Play & Stats"
 ---
 
 # How to Play - Raid
@@ -77,6 +77,19 @@ During downtime where there is no healing to be done you can simply just DPS whi
 ### Celestial Conduit
 
 This ability should be treated like a serious healing cooldown. It does a significant amount of your HPS overall and it can be paired with other healing cooldowns to effectively solo mechanics. It is important to keep in mind that following your Celestial Conduit you are going to gain a significant amount of CDR on your Renewing Mist, Rising Sun Kick / Rushing Wind Kick, Thunder Focus Tea, and Life Cocoon. All of these abilities should be utilized accordingly with the extra cooldown reduction.
+
+### Stats
+
+You can get pretty close to optimal by just strapping on your highest item level pieces with a lean toward Haste.
+
+<div style={{ flex: '1', borderRadius: '8px', border: '2px  solid', borderColor: "goldenrod", backgroundColor: "#54460A", padding: '8px' }}>
+    <h3>Raid Stat Priority</h3>
+    <p>Intellect >> Haste > Crit > Versatility > Mastery</p>
+</div>
+
+&nbsp;
+
+> Remember not to drop item level for secondaries. If you have a decent amount of haste then optimizing secondaries will do little for your performance.
 
 ### Rapidfire Questions
 **How impactful is our tier set?**

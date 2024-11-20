@@ -1,6 +1,6 @@
 import React from 'react';
 import { useColorMode } from '@docusaurus/theme-common';
-import { checkExists, WH } from './HomepageFeatures/WowheadLink'; 
+import { checkExists, WH } from './WowheadLink'; 
 
 
 type SideBySideFlexProps = {
@@ -19,7 +19,7 @@ const FloatingImage: React.FC<SideBySideFlexProps> = ({title, image, paragraph})
 
 
 
-    const renderParagraph = (text: string) => {
+    /*const renderParagraph = (text: string) => {
         const parts = text.split(/(\s+)/); // Split by spaces but keep spaces
         return parts.map((part, index) => {
           if (checkExists((part.replace(/[.,!?]/g, '')))) { // Remove punctuation for matching
@@ -27,7 +27,17 @@ const FloatingImage: React.FC<SideBySideFlexProps> = ({title, image, paragraph})
           }
           return part; // Return plain text otherwise
         });
-      };
+      };*/
+
+    const renderParagraph = (text: string) => {
+      return text.split(/(<WH>.*?<\/WH>)/g).map((part, index) => {
+        if (part.startsWith("<WH>") && part.endsWith("</WH>")) {
+          const content = part.slice(4, -5); // Remove <WH> and </WH>
+          return <WH key={index}>{content}</WH>;
+        }
+        return part; // Return plain text
+      });
+    };
 
     return (
         <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'flex-start' }}>

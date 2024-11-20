@@ -17,7 +17,7 @@ The War Within adds two *Hero Trees* for Mistweaver: <HeroTreeHeader heroTree="C
 
 &nbsp;
 
-<FloatingImage title="Courage of the White Tiger / Strength of the Black Ox" paragraph="Courage of the White Tiger and Strength of the Black Ox is where a majority of the power of CotC (Conduit of the Celestials) comes from. Courage passively procs as you do your normal rotation so we will be focusing on Strength of the Black Ox since it’ll impact our rotation. Strength of the Black Ox allows for your Enveloping Mist to be cast 50% quicker and grants small absorb shields to nearby allies based on your maximum HP. Due to Courage randomly proccing throughout a fight we will be weaving these reduced Enveloping Mist casts into our rotation. We’ll talk about that more in the Rotation section further down the page." image={require("./images/Courage-of-the-White-Tiger.jpg").default} />
+<FloatingImage title="Courage of the White Tiger / Strength of the Black Ox" paragraph="Courage of the White Tiger and Strength of the Black Ox is where a majority of the power of CotC (Conduit of the Celestials) comes from. Courage passively procs as you do your normal rotation so we will be focusing on Strength of the Black Ox since it’ll impact our rotation. Strength of the Black Ox allows for your <WH>Enveloping Mist</WH> to be cast 50% quicker and grants small absorb shields to nearby allies based on your maximum HP. Due to Courage randomly proccing throughout a fight we will be weaving these reduced Enveloping Mist casts into our rotation. We’ll talk about that more in the Rotation section further down the page." image={require("./images/Courage-of-the-White-Tiger.jpg").default} />
 
 &nbsp;
 

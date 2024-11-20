@@ -5,7 +5,6 @@ sidebar_class_name: green
 
 import React from 'react'
 import ReactPlayer from 'react-player'
-import WH from '../src/components/HomepageFeatures/WowheadLink'
 
 
 # Raid

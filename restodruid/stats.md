@@ -11,7 +11,7 @@ import SideBySideFlex from "../src/components/SideBySideFlexBox"
 > — Lao Tzu, grappling with his 14% Haste Resto Druid
 
 ## The Quick Answer?
-You can get pretty close to optimal by just strapping on your highest item level pieces with a lean toward Haste.
+
 
 <SideBySideFlex
   leftTitle="Raid & Healing Focused Mythic+"
