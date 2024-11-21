@@ -117,7 +117,29 @@ const config: Config = {
       },
       items: [
         {to: 'https://questionablyepic.com/live', label: "QE Live App", position: 'left'},
-        {to: '/blog', label: 'Articles', position: 'left'},
+        {
+          type: 'dropdown',
+          position: 'left',
+          label: 'Articles',
+          href: '/blog/',
+          items: [
+            {
+              label: 'War Within Raid Trinkets',
+              href: '/blog/war-within-raid-trinkets',
+            },
+            {
+              label: 'QE Mythic+ Addon',
+              href: '/blog/mythicplus-addon',
+            },
+            // ... more items
+            
+            {
+              label: 'More',
+              href: '/blog/',
+            },
+            
+          ],
+        },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
@@ -160,23 +182,27 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Monk Guide',
-        },*/
+        },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
-        },
+        },*/
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Gearing',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'QE Live',
+              to: '/live/',
+            },
+            {
+              label: 'How-to Guide',
+              href: 'https://www.wowhead.com/guide/how-to-use-qe-live-tool-guide',
             },
           ],
         },
@@ -184,16 +210,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Support the Site',
+              href: 'https://patreon.com/questionablyepic',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/jBSGHDm5G8',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Twitter',
+              href: 'https://x.com/qe_wow',
             },
           ],
         },
@@ -204,14 +230,10 @@ const config: Config = {
               label: 'Blog',
               to: '/blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Questionably Epic. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
