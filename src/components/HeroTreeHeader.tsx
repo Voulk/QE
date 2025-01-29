@@ -7,12 +7,12 @@ type HeroTreeProps = {
 };
 
 const heroTreeData = {
-    'Conduit of the Celestials': {'colour': {dark: "#00CBFF", light: "#00CBFF"}, image: require("./heroTreeImages/conduit-of-the-celestials.png").default},
-    'Master of Harmony': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/master-of-harmony.png").default},
-    'Wildstalker': {'colour': {dark: "#FF6A00", light: "#00CBFF"}, image: require("./heroTreeImages/wildstalker.png").default},
-    'Keeper of the Grove': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/keeper-of-the-grove.png").default},
-    'Chronowarden': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/chronowarden.png").default},
-    'Flameshaper': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./heroTreeImages/flameshaper.png").default},
+    'Conduit of the Celestials': {'colour': {dark: "#00CBFF", light: "#00CBFF"}, image: require("./HeroTreeImages/conduit-of-the-celestials.png").default},
+    'Master of Harmony': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./HeroTreeImages/master-of-harmony.png").default},
+    'Wildstalker': {'colour': {dark: "#FF6A00", light: "#00CBFF"}, image: require("./HeroTreeImages/wildstalker.png").default},
+    'Keeper of the Grove': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./HeroTreeImages/keeper-of-the-grove.png").default},
+    'Chronowarden': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./HeroTreeImages/chronowarden.png").default},
+    'Flameshaper': {'colour': {dark: "#15FF00", light: "#00CBFF"}, image: require("./HeroTreeImages/flameshaper.png").default},
 }
 
 
