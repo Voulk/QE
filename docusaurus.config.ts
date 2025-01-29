@@ -11,10 +11,10 @@ const config: Config = {
   favicon: 'img/QELogo.ico',
 
   // Set the production url of your site here
-  url: 'https://questionablyepic.com',
+  url: 'https://voulk.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/QE/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -23,6 +23,7 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  noIndex: true,
 
   plugins: [
     path.resolve(__dirname, './plugins/docusaurus-plugin-wowhead-tooltips'),
