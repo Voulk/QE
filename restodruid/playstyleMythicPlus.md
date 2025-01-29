@@ -51,7 +51,7 @@ Prepare the group for the AoE damage 3-6 seconds in advance. If you are new to a
 <div style={{ flex: '1', minWidth: '200px' }}>
     Note the preparation here. Big damage is coming up and so two lifeblooms are out and <WH>Efflorescence</WH> is down. Damage is further prepped for by casting <WH>Regrowth</WH> to put out three HoTs (via <WH>Rampant Growth</WH>). <WH>Convoke the Spirits</WH> is sufficient for the Shadow Decay. If <WH>Convoke the Spirits</WH> isn't up you can cast more <WH>Rejuvenation</WH> before the mechanic.
 </div>
-</div>
+</div> 
 
 
 ---
