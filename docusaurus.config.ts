@@ -116,7 +116,7 @@ const config: Config = {
         src: 'img/QELogo.ico',
       },
       items: [
-        {to: 'https://questionablyepic.com/live', label: "QE Live App", position: 'left'},
+        {href: 'https://questionablyepic.com/live', label: "QE Live App", position: 'left'},
         {
           type: 'dropdown',
           position: 'left',
@@ -160,19 +160,19 @@ const config: Config = {
           type: 'dropdown',
           position: 'left',
           label: 'Nerub\'ar Palace',
-          href: '/nerubar-palace/',
+          //href: '/nerubar-palace/',
           items: [
             {
               label: 'Table of Contents',
-              href: '/nerubar-palace/',
+              to: '/nerubar-palace/',
             },
             {
               label: 'Ulgrax',
-              href: '/nerubar-palace/ulgrax',
+              to: '/nerubar-palace/ulgrax',
             },
             {
               label: 'Bloodbound Horror',
-              href: '/nerubar-palace/bloodboundhorror',
+              to: '/nerubar-palace/bloodboundhorror',
             },
             // ... more items
           ],
@@ -198,7 +198,7 @@ const config: Config = {
           items: [
             {
               label: 'QE Live',
-              to: '/live/',
+              href: 'https://questionablyepic.com/live/',
             },
             {
               label: 'How-to Guide',

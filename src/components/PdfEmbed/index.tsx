@@ -1,22 +1,7 @@
-import type {JSX, SetStateAction} from "react";
-import {useCallback, useState} from "react";
-import {pdfjs, Document, Outline, Page} from "react-pdf";
-import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-import "react-pdf/dist/esm/Page/TextLayer.css";
-
+import type { JSX, SetStateAction } from "react";
+import { useCallback, useState, useEffect, lazy, Suspense } from "react";
+import BrowserOnly from "@docusaurus/BrowserOnly";
 import styles from "./style.module.css";
-import React from "react";
-
-pdfjs.GlobalWorkerOptions.workerSrc = new URL(
-// 'pdfjs-dist/legacy/build/pdf.worker.min.mjs',
-"pdfjs-dist/build/pdf.worker.min.mjs",
-import.meta.url
-).toString();
-
-const options = {
-    cMapUrl: `https://unpkg.com/pdfjs-dist@${pdfjs.version}/cmaps/`,
-    standardFontDataUrl: `https://unpkg.com/pdfjs-dist@${pdfjs.version}/standard_fonts`,
-};
 
 type PDFFile = string | File | null;
 
@@ -24,89 +9,48 @@ interface PdfEmbedProps {
     src: PDFFile;
 }
 
-export default function PdfEmbed({src}: PdfEmbedProps): JSX.Element {
-const [numPages, setNumPages] = useState<number>();
-const [pageNumber, setPageNumber] = useState(1);
-const [searchText, setSearchText] = useState("");
+// Lazy load react-pdf to avoid SSR conflicts
+const Document = lazy(() => import("react-pdf").then((mod) => ({ default: mod.Document })));
+const Page = lazy(() => import("react-pdf").then((mod) => ({ default: mod.Page })));
 
-function onDocumentLoadSuccess({numPages}) {
-    setNumPages(numPages);
-    setPageNumber(1);
+export default function PdfEmbed({ src }: PdfEmbedProps): JSX.Element {
+    return (
+        <BrowserOnly fallback={<div>Loading PDF...</div>}>
+            {() => <PdfViewer src={src} />}
+        </BrowserOnly>
+    );
 }
 
-function highlightPattern(text: string, pattern: string) {
-    return text.replace(pattern, (value) => `<mark>${value}</mark>`);
-}
+function PdfViewer({ src }: PdfEmbedProps) {
+    const [numPages, setNumPages] = useState<number>();
+    const [pageNumber, setPageNumber] = useState(1);
+    const [searchText, setSearchText] = useState("");
 
-function changePage(offset: number) {
-    setPageNumber((prevPageNumber) => prevPageNumber + offset);
-}
+    // Ensure pdf.worker.min.mjs is set correctly
+    useEffect(() => {
+        import("react-pdf").then(({ pdfjs }) => {
+            pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
+        });
+    }, []);
 
-function onItemClick({pageNumber: itemPageNumber}) {
-setPageNumber(itemPageNumber);
-}
+    function onDocumentLoadSuccess({ numPages }) {
+        setNumPages(numPages);
+        setPageNumber(1);
+    }
 
-function previousPage() {
-    changePage(-1);
-}
+    function changePage(offset: number) {
+        setPageNumber((prevPageNumber) => prevPageNumber + offset);
+    }
 
-function nextPage() {
-    changePage(1);
-}
-
-const textRenderer = useCallback(
-    (textItem: {str: string;}) => highlightPattern(textItem.str, searchText),
-    [searchText]
-);
-
-function onChange(event: {target: {value: SetStateAction<string>;};}): void {
-setSearchText(event.target.value);
-}
-
-return (
-<div className={styles.container}>
-    <Document
-        file={src}
-        onLoadSuccess={onDocumentLoadSuccess}
-        options={options}
-    >
-        <div className={styles.documentViewer}>
-            {/*<Outline onItemClick={onItemClick}/> */}
-            <Page
-                width={800}
-                pageNumber={pageNumber}
-                customTextRenderer={textRenderer}
-            />
-        </div>
-    </Document>
-{/*<div className={styles.pageControls}>
-    <button
-        disabled={pageNumber <= 1}
-        onClick={previousPage}
-        type="button"
-    >
-        ‹
-    </button>
-    <span>
-                {pageNumber} / {numPages}
-            </span>
-    <button
-        disabled={pageNumber >= numPages}
-        onClick={nextPage}
-        type="button"
-    >
-        ›
-    </button>
-</div> */}
-{/*<div className={styles.searchControls}>
-    <label htmlFor="search">Search:</label>
-    <input
-        type="search"
-        id="search"
-        value={searchText}
-        onChange={onChange}
-    />
-</div> */}
-</div>
-);
+    return (
+        <Suspense fallback={<div>Loading PDF Viewer...</div>}>
+            <div className={styles.container}>
+                <Document file={src} onLoadSuccess={onDocumentLoadSuccess}>
+                    <div className={styles.documentViewer}>
+                        <Page width={800} pageNumber={pageNumber} />
+                    </div>
+                </Document>
+            </div>
+        </Suspense>
+    );
 }
