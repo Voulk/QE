@@ -1,13 +1,15 @@
+# Nerub'ar Palace
+
 Nerub’ar Palace is a new eight boss raid. Blizzard is back to releasing Normal and Heroic difficulty raids first on September 10th (NA). The following week will mark the opening of Mythic difficulty, on September 17th.
 
 The following guides are designed around Heroic, with brief snippets at the bottom on Mythic mechanics.  The strategies within will work on normal mode as well with reduced mechanics – it’s always good to practice good habits!
 
 |  |  | 
 | --- | --- | 
-| [![](.\images\ulgrax.png)](./ulgrax) | ![](.\images\bloodboundhorror.png) | 
-| ![](.\images\sikran.png) | ![](.\images\rashanan.png) | 
-| ![](.\images\broodtwister.png) | ![](.\images\nexus-princess.png) | 
-| ![](.\images\silken-court.png) | ![](.\images\queen-ansurek.png) | 
+| [![](.\images\ulgrax.png)](./ulgrax) | [![](.\images\bloodboundhorror.png)](./bloodbound-horror) | 
+| [![](.\images\sikran.png)](./sikran) | [![](.\images\rashanan.png)](./rashanan) | 
+| [![](.\images\broodtwister.png)](./broodtwister-ovinax) | [![](.\images\nexus-princess.png)](./nexus-princess) | 
+| [![](.\images\silken-court.png)](./the-silken-court) | [![](.\images\queen-ansurek.png)](./queen-ansurek) | 
 
 
 ## Useful information
