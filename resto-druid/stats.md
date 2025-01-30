@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 import SideBySideFlex from "../src/components/SideBySideFlexBox"
+import ITEM from "../src/components/ItemLink"
 
 # Stats & Gearing
 
@@ -49,7 +50,7 @@ Run your gear through Questionably Epic Live. It has full support for stat dimin
 ### Reagents
 - **Flask:** <span style={{color: '#B59D36'}}>[Flask of Tempered Swiftness](https://www.wowhead.com/spell=431972)</span>
 - Weapon Rune: Howling Rune.
-- Food: Food Item.
+- Food: <ITEM>Feast</ITEM>
 - Augment Rune: Crystallized Augment Rune - Note that Dreambound Augment Rune from Dragonflight also still works for a very small but free int bonus.
 - Potion: Algari Mana Potion. Note that any potion that requires you sit and drink for 10 seconds is much worse now due to Master Shapeshifter.
 
