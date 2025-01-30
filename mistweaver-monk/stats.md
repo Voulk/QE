@@ -32,7 +32,7 @@ Each secondary stat goes up in value the more you have of the other secondaries,
 ---
 
 ## Ready to optimize?
-![QE Live Intro](..\restodruid\images\QELivePanel.png)
+![QE Live Intro](..\resto-druid\images\QELivePanel.png)
 
 Run your gear through Questionably Epic Live. It has full support for stat diminishing returns, item and set effects, and how your current gear influences how much each stat is worth. It'll also let you pick between healing focused and damage focused Mythic+ profiles.
 
