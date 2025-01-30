@@ -177,8 +177,33 @@ const config: Config = {
             },
             {
               label: 'Bloodbound Horror',
-              to: '/nerubar-palace/bloodboundhorror',
+              to: '/nerubar-palace/bloodbound-horror',
             },
+            {
+              label: 'Sikran',
+              to: '/nerubar-palace/sikran',
+            },
+            {
+              label: 'Rashanan',
+              to: '/nerubar-palace/rashanan',
+            },
+            {
+              label: "Broodtwister Ovi'nax",
+              to: '/nerubar-palace/broodtwister-ovinax',
+            },
+            {
+              label: 'Nexus Princess',
+              to: '/nerubar-palace/nexus-princess',
+            },
+            {
+              label: 'Silken Court',
+              to: '/nerubar-palace/the-silken-court',
+            },
+            {
+              label: 'Queen Ansurek',
+              to: '/nerubar-palace/queen-ansurek',
+            },
+
             // ... more items
           ],
         },
