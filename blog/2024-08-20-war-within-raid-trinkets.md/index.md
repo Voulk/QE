@@ -125,16 +125,14 @@ It’s still likely to be replaced by trinkets that require less thinking for si
 
 ### The Breakdown
 - #### You should know:
-You can continue getting charges of the little intellect buff while the large one is active. That means you’re constantly stacking the buff over a fight.
-There is no deduction for being a healing spec wearing a DPS trinket. You get the same power as a DPS wearing it.
-It procs off damaging spells including DoTs.
-Mistweaver does not get any value here unless you are using the Master of Harmony hero tree since baseline kicks and punches do not proc it.
-For Paladin it’ll proc off spell effects like Holy Shock and Consecration but not Crusader Strike or Judgment.
-For Druid it does proc off Moonfire cast by Grove Guardians.
+    - You can continue getting charges of the little intellect buff while the large one is active. That means you’re constantly stacking the buff over a fight.
+    - There is no deduction for being a healing spec wearing a DPS trinket. You get the same power as a DPS wearing it.
+    - It procs off damaging spells including DoTs.
+    - For Druid it does proc off Moonfire cast by Grove Guardians.
 
 - #### Numbers wise:
-Most of the power here comes from the on-use but the stacking int buff does give you even more flexibility around your usage and it slightly encourages using it less often rather than more (since your average stack count will be higher on the passive). If you proc the trinket on cooldown and use it every minute then the passive is worth about 500 intellect.
-The on-use portion is a fixed average instead. If you proc the trinket every six seconds then you’ll get an int buff for 9550 for every minute you’ve charged it. It also lasts quite a long time for a high average around ~3200.
+    - Most of the power here comes from the on-use but the stacking int buff does give you even more flexibility around your usage and it slightly encourages using it less often rather than more (since your average stack count will be higher on the passive). If you proc the trinket on cooldown and use it every minute then the passive is worth about 500 intellect.
+    - The on-use portion is a fixed average instead. If you proc the trinket every six seconds then you’ll get an int buff for 9550 for every minute you’ve charged it. It also lasts quite a long time for a high average around ~3200.
 
 ### Verdict: Outstanding but somewhat advanced
 Spymaster's Web is basically the perfect healing trinket with one catch – it only procs off DPS spells and as a result is only on DPS loot tables. It provides some benefit at all times and can be used incredibly flexibly to supercharge your healing during the moments you need it the most. A resto druid might use it every minute with Flourish and Grove Guardians, or if the raid is feeling safe at 1:00 then let it tick over and be even stronger during your second ramp. You can even make the decision dynamically during the fight.

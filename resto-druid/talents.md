@@ -14,12 +14,14 @@ import HeroTreeHeader from "../src/components/HeroTreeHeader"
 Import Link: XXXX
 
 ### Raid Talent Choices
-#### Reforestation vs Power of the Archdruid
-
 
 #### Convoke the Spirits vs Tree of Life
 
+This is a close, competitive choice and for most fights you can play whichever you prefer. Tree of Life is very good against longer form damage phases or phases where you need to heal and move a lot at the same time. Convoke the Spirits offers a sharper alternative. You'll combine every Convoke with Flourish and every second Tree of Life with Flourish.
+
 #### Regenerative Heartwood vs Unstoppable Growth
+
+You might assume that Unstoppable Growth is locked in but while we love Wild Growth, the talent is an incredibly small increase to it (about 5% per point). Instead, we'll take Regenerative Heartwood which lets us make one ally basically immortal on a short cooldown. This also tends to add more HPS and in a better way.
 
 --- 
 
@@ -32,18 +34,29 @@ In Mythic+ you have a ridiculous amount of choice over how you design your build
 <Tabs>
   <TabItem value="M+Rejuv" label="M+ Rejuv Build" default>
     ![Mythic+ Rejuv Build](.\images\DruidMythic+RejuvBuild1105.png)
+    Import Link: XXXX
     
-    ### Mythic+ Talent Choices
-    #### Liveliness vs Master Shapeshifter
-    
-    Liveliness adds more damage than Master Shapeshifter - especially as Wildstalker. Master Shapeshifters niche is sustaining your mana so you never have to drink. Personally I think it's better to have to drink occasionally than lose DPS but the option is there.
+    The Mythic+ Rejuvenation build is a fantastic choice for beginners since it lets you pour more healing into a given event at an efficiency cost which is rarely a negative when starting out. It also relies less on smart Lifebloom positioning and uptime though you'll still want to focus on that.
+
 
 
   </TabItem>
   <TabItem value="M+LB" label="M+ Lifebloom Build">
-    This is a Lifebloom build
+    ![Mythic+ Rejuv Build](.\images\DruidMythic+RejuvBuild1105.png)
+    Import Link: XXXX
+
+    The Lifebloom build is a more traditional Resto Druid build. It heals incredibly efficiently though requires strong lifebloom uptime and is slightly more difficult to play. 
   </TabItem>
 </Tabs>
+
+### Mythic+ Talent Choices
+#### Liveliness vs Master Shapeshifter
+
+Liveliness adds more damage than Master Shapeshifter - especially as Wildstalker. Master Shapeshifters niche is sustaining your mana so you never have to drink. Personally I think it's better to have to drink occasionally than lose DPS but the option is there.
+
+#### Power of the Archdruid vs Undergrowth
+
+The Rejuvenation build also has the option to forgo having two lifeblooms entirely by talenting into Power of the Archdruid instead. Whether a beginner or doing weekly keys it can be quite freeing to not have to worry about the uptime on three different buffs for most of the dungeon and Power of the Archdruid adds decent healing *on average*. The downside to the build is that it relies on chance, and when played well Lifebloom is one of your most powerful spells. High keys are often about being able to consistently bring a specific minimum amount of healing and relying on a proc isn't great for that. 
 
 ### <HeroTreeHeader heroTree="Wildstalker" /> vs <HeroTreeHeader heroTree="Keeper of the Grove" />
 It's quite common for a spec to have a "good" Hero tree and a "bad" one but this isn't the case for Resto Druid. Both trees have unique advantages, including but not exclusively limited to:
