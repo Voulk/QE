@@ -5,14 +5,16 @@ import styles from './styles.module.css';
 type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  img: any;
   description: JSX.Element;
   link: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'QE Live',
+    title: 'Questionably Epic Live',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    img: require('@site/static/img/QELiveExample.png').default,
     link: "https://questionablyepic.com/live",
     description: (
       <>
@@ -22,7 +24,8 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Resto Druid',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/druidtest.svg').default,
+    img: require('@site/static/img/druidtest2.png').default,
     link: "https://questionablyepic.com/druid/abilities",
     description: (
       <>
@@ -33,6 +36,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Mistweaver Monk',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    img: require('@site/static/img/monktest.png').default,
     link: "https://questionablyepic.com/live",
     description: (
       <>
@@ -43,6 +47,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Nerub\'ar Palace',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    img: require('@site/static/img/PalaceIcon.png').default,
     link: "https://questionablyepic.com/palace",
     description: (
       <>
@@ -52,12 +57,12 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description, link}: FeatureItem) {
+function Feature({title, Svg, description, link, img}: FeatureItem) {
   return (
     <div className={clsx('col col--3')}>
       <a href={link}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={img} className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

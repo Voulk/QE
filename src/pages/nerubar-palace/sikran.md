@@ -1,7 +1,7 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/1Ulgrax.pdf';
+import pdf from '../pdfs/3Sikran.pdf';
 
-# Ulgrax
+# Sikran
 ---
 
 <PdfEmbed src={pdf} />

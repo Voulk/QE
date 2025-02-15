@@ -31,8 +31,8 @@ const config: Config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'monk',
-        path: 'mistweavermonk',
-        routeBasePath: 'mistweavermonk',
+        path: 'mistweaver-monk',
+        routeBasePath: 'mistweaver-monk',
         sidebarPath: './sidebarsMonk.ts',
         // ... other options
       },
@@ -66,15 +66,15 @@ const config: Config = {
     [
       'classic',
       {
+        /*gtag: {
+          trackingID: 'G-EJKGNKKW9S',
+          anonymizeIP: true,
+        },*/
         docs: {
           sidebarPath: './sidebars.ts',
-          path: 'restodruid',
-          routeBasePath: 'restodruid',
+          path: 'resto-druid',
+          routeBasePath: 'resto-druid',
           //path: '',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           blogTitle: "QE Articles",
@@ -146,7 +146,7 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Druid Guide',
-          activeBasePath: 'restodruid',
+          activeBasePath: 'resto-druid',
         },
         /*{
           type: 'docSidebar',
@@ -156,7 +156,7 @@ const config: Config = {
           activeBasePath: 'monk',
           docsPluginId: 'monk',
         },*/
-        {to: '/mistweavermonk/heroTalents', label: 'Monk Guide', position: 'left'},
+        {to: '/mistweaver-monk/heroTalents', label: 'Monk Guide', position: 'left'},
         {
           type: 'dropdown',
           position: 'left',
@@ -173,8 +173,33 @@ const config: Config = {
             },
             {
               label: 'Bloodbound Horror',
-              to: '/nerubar-palace/bloodboundhorror',
+              to: '/nerubar-palace/bloodbound-horror',
             },
+            {
+              label: 'Sikran',
+              to: '/nerubar-palace/sikran',
+            },
+            {
+              label: 'Rashanan',
+              to: '/nerubar-palace/rashanan',
+            },
+            {
+              label: "Broodtwister Ovi'nax",
+              to: '/nerubar-palace/broodtwister-ovinax',
+            },
+            {
+              label: 'Nexus Princess',
+              to: '/nerubar-palace/nexus-princess',
+            },
+            {
+              label: 'Silken Court',
+              to: '/nerubar-palace/the-silken-court',
+            },
+            {
+              label: 'Queen Ansurek',
+              to: '/nerubar-palace/queen-ansurek',
+            },
+
             // ... more items
           ],
         },

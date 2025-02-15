@@ -1,7 +1,7 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/1Ulgrax.pdf';
+import pdf from '../pdfs/8QueenAnsurek.pdf';
 
-# Ulgrax
+# Queen Ansurek
 ---
 
 <PdfEmbed src={pdf} />

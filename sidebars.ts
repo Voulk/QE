@@ -22,7 +22,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'How to Play',
-      items: ['playstyleRaid', 'playstyleMythicPlus'],
+      items: ['raid', 'mythicplus'],
       collapsed: false,
     },
     'talents',
