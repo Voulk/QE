@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/4Rashanan.pdf';
+import pdf from '../pdfs/nerubar-palace/4Rashanan.pdf';
 
 # Rashanan
 ---

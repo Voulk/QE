@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/8QueenAnsurek.pdf';
+import pdf from '../pdfs/nerubar-palace/8QueenAnsurek.pdf';
 
 # Queen Ansurek
 ---

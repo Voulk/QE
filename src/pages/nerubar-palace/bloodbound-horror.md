@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/2BloodboundHorror.pdf';
+import pdf from '../pdfs/nerubar-palace/2BloodboundHorror.pdf';
 
 
 # BloodBound  
