@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/7SilkenCourt.pdf';
+import pdf from '../pdfs/nerubar-palace/7SilkenCourt.pdf';
 
 # Silken Court
 ---

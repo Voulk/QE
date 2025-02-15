@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from '../pdfs/1Ulgrax.pdf';
+import pdf from '../pdfs/nerubar-palace/1Ulgrax.pdf';
 
 # Ulgrax
 ---
