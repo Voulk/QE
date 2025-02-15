@@ -6,10 +6,10 @@ The following guides are designed around Heroic, with brief snippets at the bott
 
 |  |  | 
 | --- | --- | 
-| [![](.\images\ulgrax.png)](./ulgrax) | [![](.\images\bloodboundhorror.png)](./bloodbound-horror) | 
-| [![](.\images\sikran.png)](./sikran) | [![](.\images\rashanan.png)](./rashanan) | 
-| [![](.\images\broodtwister.png)](./broodtwister-ovinax) | [![](.\images\nexus-princess.png)](./nexus-princess) | 
-| [![](.\images\silken-court.png)](./the-silken-court) | [![](.\images\queen-ansurek.png)](./queen-ansurek) | 
+| [![](.\images\1Vexie.png)](./vexie) | [![](.\images\2Carnage.png)](./bloodbound-horror) | 
+| [![](.\images\3Rik.png)](./sikran) | [![](.\images\4Stix.png)](./rashanan) | 
+| [![](.\images\5Sprocket.png)](./broodtwister-ovinax) | [![](.\images\6OneArmed.png)](./nexus-princess) | 
+| [![](.\images\7MugZee.png)](./the-silken-court) | [![](.\images\8Gallywix.png)](./queen-ansurek) | 
 
 
 ## Useful information
