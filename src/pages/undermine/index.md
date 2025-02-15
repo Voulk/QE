@@ -4,16 +4,20 @@ The Liberation of Undermine is a new eight boss raid. The raid opens on all thre
 
 The following guides are designed around Heroic, with brief snippets at the bottom on Mythic mechanics.  The strategies within will work on Normal mode as well with reduced mechanics – it’s always good to practice good habits!
 
+## Boss Guides
 |  |  | 
 | --- | --- | 
-| [![](.\images\1Vexie.png)](./vexie) | [![](.\images\2Carnage.png)](./bloodbound-horror) | 
-| [![](.\images\3Rik.png)](./sikran) | [![](.\images\4Stix.png)](./rashanan) | 
-| [![](.\images\5Sprocket.png)](./broodtwister-ovinax) | [![](.\images\6OneArmed.png)](./nexus-princess) | 
-| [![](.\images\7MugZee.png)](./the-silken-court) | [![](.\images\8Gallywix.png)](./queen-ansurek) | 
+| [![](.\images\1Vexie.png)](./vexie) | [![](.\images\2Carnage.png)](./carnage) | 
+| [![](.\images\3Rik.png)](./rik) | [![](.\images\4Stix.png)](./stix) | 
+| [![](.\images\5Sprocket.png)](./sprocketmonger) | [![](.\images\6OneArmed.png)](./onearmedbandit) | 
+| [![](.\images\7MugZee.png)](./mugzee) | [![](.\images\8Gallywix.png)](./gallywix) | 
 
 
-## Useful information
-There is a new Raid [Renown Track](https://www.wowhead.com/guide/raids/liberation-of-undermine/gallagio-loyalty-rewards-club) that will provide a variety of perks as your Renown increases.  You can Reputation by killing bosses each week on any difficulty, with a cap of 1 Renown per week.  There is a catch up mechanic for those unable to raid every week. One of the biggest perks is a stacking 3% damage and healing buff that you receive on Week 4, 6, 10, 13, 16, and 19 (for a total of 18%).  This serves as a soft nerf of the raid as the season progresses.
+## Raid Information
+There is a new Raid [Renown Track](https://www.wowhead.com/guide/raids/liberation-of-undermine/gallagio-loyalty-rewards-club) that will provide a variety of perks as your Renown increases.  
+- You can Reputation by killing bosses each week on any difficulty, with a cap of 1 Renown per week.  
+- There is a catch up mechanic for those unable to raid every week. 
+- One of the biggest perks is a stacking 3% damage and healing buff that you receive on Week 4, 6, 10, 13, 16, and 19 (for a total of 18%).  This serves as a soft nerf of the raid as the season progresses.
 
 The raid is linear. There are 4 tiers of item level within the raid, increasing in base item level as you progress.
 - Boss 1: Vexie
@@ -21,7 +25,7 @@ The raid is linear. There are 4 tiers of item level within the raid, increasing 
 - Bosses 5-6: Stix Bunkjunker and The One-Armed Bandit
 - Bosses 7-8: Mug'Zee and Gallywix
 
-Very rare items are back and drop at a higher item level than other gear.
+Very rare items are back and drop at a higher base item level than other gear.
 - Cloak (Move Speed) - Sprocketmonger Lockenstock
 - Two-Handed Weapon (Secondary Stat Effect/On-Use) - The One-Armed Bandit
 - One-Handed Weapon (Fire Damage Effect) - Mug'Zee
