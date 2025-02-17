@@ -5,6 +5,6 @@ import pdf from './pdfs/03 Rik Reverb.pdf';
 # Rik Reverb
 ---
 
-[← Previous Boss](./carnage) • [Table of Contents](./) • [Next Boss →](./stix)
+[← Previous Boss](./cauldron-of-carnage) • [Table of Contents](./) • [Next Boss →](./stix-bunkjunker)
 
 <PdfEmbed src={pdf} />
