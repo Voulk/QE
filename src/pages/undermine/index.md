@@ -7,9 +7,9 @@ The following guides are designed around Heroic, with brief snippets at the bott
 ## Boss Guides
 |  |  | 
 | --- | --- | 
-| [![](.\images\1Vexie.png)](./vexie) | [![](.\images\2Carnage.png)](./carnage) | 
-| [![](.\images\3Rik.png)](./rik) | [![](.\images\4Stix.png)](./stix) | 
-| [![](.\images\5Sprocket.png)](./sprocketmonger) | [![](.\images\6OneArmed.png)](./onearmedbandit) | 
+| [![](.\images\1Vexie.png)](./vexie) | [![](.\images\2Carnage.png)](./cauldron-of-carnage) | 
+| [![](.\images\3Rik.png)](./rik-reverb) | [![](.\images\4Stix.png)](./stix-bunkjunker) | 
+| [![](.\images\5Sprocket.png)](./sprocketmonger-lockenstock) | [![](.\images\6OneArmed.png)](./one-armed-bandit) | 
 | [![](.\images\7MugZee.png)](./mugzee) | [![](.\images\8Gallywix.png)](./gallywix) | 
 
 

@@ -1,22 +1,25 @@
 
 
-# Recent Changes
+# An Intro to 11.1
 
-## What's changing going into The War Within
-There have been a ton of changes and here are some of the most significant:
+## What's changing going into 11.1
+There weren't too many changes for Mistweaver Monk in 11.1 in terms of playstyle. Instead we'll cover all changes from the start of the expansion to make it easier to jump back in for returning players:
 
-- Vivify direct healing has been increased by 56%.
-- Mastery: Gust of Mists has gotten a massive buff to its scaling per point as well as its healing.
-- Clouded Focus has been removed. 
-- Teachings of the Monastery is now baseline.
-- Mana Tea and mana costs overall have been adjusted to compensate for the removal of Clouded Focus.
-- Misty Peaks now extends existing Enveloping Mist instead of not being able to proc at all.
-- Zen Pulse was reworked. It now amplifies Invigorating Mists’ healing.
-- New talent: Crane Style.
-- Jade Bond was buffed heavily for both Chi-Ji and Yu’lon.
-- Hero talents were added.
-- Here is the full rundown of the notes if you want to read everything: https://www.wowhead.com/news/war-within-launch-patch-11-0-2-patch-notes-345734
 
-## 11.0.5 Changes
-- New Talent: Rushing Wind Kick. We’ll discuss this throughout the guide.
-- Ancient Teachings is now a baseline passive at a 30% conversion rate which can be increased with the new talent Jadefire Teachings to 160%.
+- Rushing Wind Kick was added as a choice node with Jadefire Teachings. It replaces Rising Sun Kick as a ranged alternative and also buffs your Renewing Mists for a short period of time. 
+- Jade Bond was changed to remove the variable cooldown reduction entirely and instead provide a substantial benefit to your Chi Cocoons created from summoning your Celestial. It also gives each Chi Cocoon a 4 second Enveloping Mist when removed. 
+- The cooldown of both Celestials is now 2 minutes.
+- Jade Empowerment and Dance of Chi-Ji were added to offer more DPS options in the tree. 
+- Sheilun’s Gift was moved further up the tree and a ST choice node talent was added to be shared with Legacy of Wisdom.
+- Ancient Teachings is now a baseline passive at 30% effectiveness, increased to 190% when talented into Jadefire Teachings. 
+- A bug with Misty Peaks/Mana Tea channel casting was fixed.
+- Mana Tea was nerfed by 15% .
+- Chi-Ji was nerfed by around 32% which hurt that playstyle significantly.
+
+## 11.1 Tier Set
+All healers in patch 11.1 were given a very similar tier set. Each of them have the Insurance mechanic and play around it in a different way. Mistweaver’s tier set is no different and it provides a substantial amount of additional healing just by playing your rotation normally. We'll make a few minor changes to our playstyle to get even more value. First, let's take a look at it: 
+img
+- **2pc**: Gives our healing spells a chance to apply a strong HoT called Insurance! It ticks every 3 seconds (modified by haste) and lasts for 15 seconds. If the target drops low they'll get a big instant heal and the HoT will disappear. You can expect 5 + haste procs per minute - before extras.
+- **4pc**: Renewing Mist now applies Insurance for 6 seconds too! This works with Rapid Diffusion which is a large part of why the tier set is so strong for us. The amount of healing Insurance does is also increased by up to 50% based on the number of Renewing Mists you have on your group. This value scales with party size so if you're in a group of 5 then 5 renewing mists will give you the full 50% increase whereas if you're in a raid of 10 people you'd need 10.
+
+Insurance makes up enough of our healing that it's worth playing around to maximize its value.
