@@ -160,7 +160,7 @@ const config: Config = {
         {
           type: 'dropdown',
           position: 'left',
-          label: 'Nerub\'ar Palace',
+          label: 'Undermine',
           //href: '/nerubar-palace/',
           items: [
             {
