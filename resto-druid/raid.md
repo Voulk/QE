@@ -12,10 +12,9 @@ import ReactPlayer from 'react-player'
 So, we’ve learned a little bit about our spells, but perhaps more importantly we must learn when to cast what. This can sometimes be encounter specific so think of these as general strategies that can work well in a wide variety of situations.
 
 &nbsp;
-&nbsp;
 
 ## Raid Healing Strategy
-To raid heal as a Resto Druid you will learn to **anticipate damage**. This can be a very rewarding play style as you’ll find your numbers going steadily up as you learn how best to heal each boss. It can be easy as a new player to react to damage going out by casting <WH>Rejuvenation</WH>s on damaged players which is acceptable but not optimal. 
+To raid heal as a Resto Druid you will learn to **anticipate damage**. This can be a very rewarding play style as you’ll find your numbers going steadily up as you learn how best to heal each boss. It can be easy as a new player to react to damage going out by casting <WH>Rejuvenation</WH>s on damaged players but you want to try and ascribe more meaning into your casts than that. 
 
 ## How to Ramp
 A ramp is a sequence of play where you prepare for damage on the raid (primarily with Rejuvenation) and then pay off your work with major cooldowns like Flourish. This healing pattern helps to cover the most dangerous moments of the fight, and lets your spells synergize with each other for massive payoffs. You might hear this style of healing referred to as "ramp based" or "preemptive". Most mistakes in raid are due to poorly sequencing these ramp sequences so study this section carefully.
@@ -23,7 +22,7 @@ A ramp is a sequence of play where you prepare for damage on the raid (primarily
 ### The Flourish Ramp
 ![Ramp Example](.\images\DruidRampNoBack.png)
 
-*Note that Rejuv and <WH>Regrowth</WH> numbers here are variable and are likely to greatly exceed those displayed above.*
+*Note that <WH>Rejuvenation</WH> and <WH>Regrowth</WH> numbers here are variable and are likely to greatly exceed those displayed above.*
 
 Your typical ramp sequence will look something like this:
 
@@ -43,6 +42,7 @@ The Wild Growth can be closer to Flourish, and your Grove Guardian timing is sli
 
 - Your Regrowth casts after Flourish are very fast and completely free. Casting as many of them as possible is a key part of doing good healing as a Resto Druid in The War Within.
 - You can include Innervate before you start your Rejuvenations to save even more mana. 
+- If you are using the <WH>Power of the Archdruid</WH> talent then you can cast one Rejuvenation after your Wild Growth cast and before your Flourish. 
 
 :::tip
 Always remember: Your job is to keep people alive, and you should throw everything into making sure that’s the case. Saving people who made a mistake can greatly speed up your progression.
