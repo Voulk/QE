@@ -110,6 +110,9 @@ const config: Config = {
       textColor: '#E5E5E5',
       isCloseable: true,
     },
+    colorMode: {
+      defaultMode: "dark",
+    },
     navbar: {
       title: 'Questionably Epic',
       logo: {
@@ -160,44 +163,44 @@ const config: Config = {
         {
           type: 'dropdown',
           position: 'left',
-          label: 'Nerub\'ar Palace',
+          label: 'Undermine',
           //href: '/nerubar-palace/',
           items: [
             {
               label: 'Table of Contents',
-              to: '/nerubar-palace/',
+              to: '/undermine/',
             },
             {
-              label: 'Ulgrax',
-              to: '/nerubar-palace/ulgrax',
+              label: 'Vexie and the Geargrinders',
+              to: '/undermine/vexie',
             },
             {
-              label: 'Bloodbound Horror',
-              to: '/nerubar-palace/bloodbound-horror',
+              label: 'Cauldron of Carnage',
+              to: '/undermine/cauldron-of-carnage',
             },
             {
-              label: 'Sikran',
-              to: '/nerubar-palace/sikran',
+              label: 'Rik Reverb',
+              to: '/undermine/rik-reverb',
             },
             {
-              label: 'Rashanan',
-              to: '/nerubar-palace/rashanan',
+              label: 'Stix Bunkjunker',
+              to: '/undermine/stix-bunkjunker',
             },
             {
-              label: "Broodtwister Ovi'nax",
-              to: '/nerubar-palace/broodtwister-ovinax',
+              label: "Spocketmonger Lockenstock",
+              to: '/undermine/sprocketmonger-lockenstock',
             },
             {
-              label: 'Nexus Princess',
-              to: '/nerubar-palace/nexus-princess',
+              label: 'One-Armed Bandit',
+              to: '/undermine/one-armed-bandit',
             },
             {
-              label: 'Silken Court',
-              to: '/nerubar-palace/the-silken-court',
+              label: "Mug'zee, Heads of Security",
+              to: '/undermine/mugzee',
             },
             {
-              label: 'Queen Ansurek',
-              to: '/nerubar-palace/queen-ansurek',
+              label: 'Chrome King Gallywix',
+              to: '/undermine/gallywix',
             },
 
             // ... more items

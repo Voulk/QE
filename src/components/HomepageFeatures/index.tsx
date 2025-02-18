@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Questionably Epic Live',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    img: require('@site/static/img/QELiveExample.png').default,
+    img: require('@site/static/img/QELiveExampleCircle.png').default,
     link: "https://questionablyepic.com/live",
     description: (
       <>
@@ -45,13 +45,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Nerub\'ar Palace',
+    title: 'Undermine',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    img: require('@site/static/img/PalaceIcon.png').default,
-    link: "https://questionablyepic.com/palace",
+    img: require('@site/static/img/GallywixCircle.png').default,
+    link: "https://questionablyepic.com/undermine",
     description: (
       <>
-        One page boss guides to teach you Nerub-ar Palace quickly and efficiently
+        One page boss guides to teach you the Liberation of Undermine raid in 11.1.
       </>
     ),
   },

@@ -36,7 +36,7 @@ In Mythic+ you have a ridiculous amount of choice over how you design your build
     ![Mythic+ Rejuv Build](.\images\DruidMythic+RejuvBuild1105.png)
     Import Link: XXXX
     
-    The Mythic+ Rejuvenation build is a fantastic choice for beginners since it lets you pour more healing into a given event at an efficiency cost which is rarely a negative when starting out. It also relies less on smart Lifebloom positioning and uptime though you'll still want to focus on that.
+    The Mythic+ Rejuvenation build (sometimes called LTB) is a fantastic choice for beginners since it lets you pour more healing into a given event at an efficiency cost which is rarely a negative when starting out. It also relies less on smart Lifebloom positioning and uptime though you'll still want to focus on that.
 
 
 

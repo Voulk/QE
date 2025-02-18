@@ -10,7 +10,7 @@ sidebar_position: 3
 > — Maxime Lagace, predicting the season 2 meta. 
 
 
-Resto Druids specialize in Heal over Time effects and this theme runs through most of our spells. This section can be long but the explanations are thorough, and the tricks spread throughout are valuable. If you are picking up a Resto Druid for the first time, I’d recommend reading the reference sheet for a much quicker explanation of each spell. 
+Resto Druids specialize in Heal over Time effects and this theme runs through most of our spells. This section can be long but the explanations are thorough, and the tricks spread throughout are valuable.
 
 Resto is an incredibly rewarding spec to master and I would strongly recommend it to prospective healers. Our spells have strong synergies with one another and you’ll build large windows of healing through our powerful cooldowns. Some of the below spells are technically talents, but we’ll be taking them in every build (except where noted).
 
@@ -24,7 +24,8 @@ Resto is an incredibly rewarding spec to master and I would strongly recommend i
 ***Primary Role: Key builder in your ramp sequence. Can also be used as a filler HoT.***
 
 - <WH>Rejuvenation</WH> is a key piece of your “ramp” (we’ll cover what this means a little later). 
-- Generally you’ll cast a lot of these in a row before <WH>Flourish</WH>, or during Tree of Life. You can also cast them on damaged targets in between your big cooldowns, and this tier you can get away with casting a ton of them. Think of this as a medium-sized HoT that you’ll combine with other buttons to do huge healing.
+- Generally you’ll cast a lot of these in a row before <WH>Flourish</WH>, or during Tree of Life. You can also cast them on damaged targets in between your big cooldowns, and you can get away with casting a ton of them. Think of this as a medium-sized HoT that you’ll combine with other buttons to do huge healing.
+- In **Mythic+** Rejuvenation takes a back seat but can still be a key button press. You'll use it to better prep for periods of high damage. Be careful you don't fall into a habit of trying to keep Rejuvenation up at all times.
 
 ### <WH>Wild Growth</WH>
 
@@ -42,7 +43,7 @@ Resto is an incredibly rewarding spec to master and I would strongly recommend i
 
 ***Primary Role: AoE maintenance healing. Keeper of the Grove not included.***
 
-Targeted healing effect that heals allies in the green circle. It lasts for 30 seconds and you’ll want to aim for 100% uptime (here’s a WeakAura to help). It’s very efficient. It’s large enough to hit both the tank and the melee group in most fights and that's often the recommended strategy. Haste increases the rate at which <WH>Efflorescence</WH> heals, which also adds more Spring Blossom HoTs across the raid (if talented). Increasing your Efflo uptime can have a big impact on your healing.
+Targeted healing effect that heals allies in the green circle. It lasts for 30 seconds and you’ll want to aim for 100% uptime. It’s very efficient and it’s large enough to hit both the tank and the melee group in most fights. Haste increases the rate at which <WH>Efflorescence</WH> heals, which also adds more Spring Blossom HoTs across the raid (if talented). Increasing your Efflo uptime can have a big impact on your healing.
 
 > **You should know:** When running <WH>Spring Blossoms</WH>, the <WH>Efflorescence</WH> heal will prioritize targets that don’t have the <WH>Spring Blossoms</WH> hot but <WH>Efflorescence</WH> is otherwise NOT a smart heal (and so could heal an ally at 90% life instead of one at 10%).
 
@@ -88,19 +89,21 @@ Heals ALL allies within 40 yards and leaves a stacking hot on them for 8 seconds
 
 ***Primary Role: Major healing cooldown***
 
-Extends all HoTs by 6 seconds and increases your HoT tick rate for 8 seconds. This increased tick rate is a buff on yourself which means any HoTs you apply *after* you cast <WH>Flourish</WH> will also benefit. This is a strong healing cooldown on a short 60 second cooldown. In raid you can easily have 14++ rejuv buffs active when you press it which will generate a lot of healing. The extension also means that you will be able to follow your Rejuvenation ramp with Regrowths for free. In Mythic+ <WH>Flourish</WH> is a rarer pick.
+Extends all HoTs by 6 seconds and increases your HoT tick rate for 8 seconds. This increased tick rate is a buff on yourself which means any HoTs you apply *after* you cast <WH>Flourish</WH> will also benefit. This is a strong healing cooldown on a short 60 second cooldown. In raid you can easily have 14++ rejuv buffs active when you press it which will generate a lot of healing. The extension also means that you will be able to follow your <WH>Rejuvenation</WH> ramp with <WH>Regrowths</WH> for free. In Mythic+ <WH>Flourish</WH> is only chosen in one of the two builds since it competes with the also excellent <WH>Photosynthesis</WH>
 
 ### <WH>Convoke the Spirits</WH>
 
 ***Primary Role: Healing cooldown***
 
-<WH>Convoke</WH> is a special kind of spell. It casts 12-16 Druid spells over 3-4 seconds and it’s semi-random which you get. This is a huge source of RNG but on average it’s a very good cooldown. With both <WH>Convoke</WH> talents you’ll also get a <WH>Flourish</WH> cast about 90% of the time across two casts. You’ll often combine <WH>Convoke</WH> with <WH>Flourish</WH> since their cooldowns line up perfectly.
+<WH>Convoke</WH> is a special kind of spell. It casts 12-16 Druid spells over 3-4 seconds and it’s semi-random which you get. It's a little RNG but on average it’s a very good cooldown. With both <WH>Convoke</WH> talents you’ll also get a <WH>Flourish</WH> cast about 90% of the time across two casts. You’ll often combine <WH>Convoke</WH> with <WH>Flourish</WH> since their cooldowns line up perfectly.
+
+> Tip: <WH>Convoke</WH> can also be used offensively - particularly in Mythic+. Shift to Cat Form before you cast it and you'll get a lot of DPS spells since the spell distribution is based on which form you're in.
 
 ### <WH>Incarnation: Tree of Life</WH>
 
 ***Primary Role: Healing cooldown***
 
-<WH>Incarnation: Tree of Life</WH> is a choice node with Convoke above. It lasts a lot longer than <WH>Convoke the Spirits</WH> which makes it perfect for 20-30s long healing windows like the Princess Ky'veza intermission. Its tooltip isn't great at telling you what you get so here's a list:
+<WH>Incarnation: Tree of Life</WH> is a choice node with <WH>Convoke</WH>. It lasts a lot longer than <WH>Convoke the Spirits</WH> which makes it perfect for 20-30s long healing windows. Its tooltip isn't great at telling you what you get so here's a list:
 - All healing buffed by 10%.
 - <WH>Rejuvenation</WH> mana cost reduced by 30%. <WH>Rejuvenation</WH> healing increased by 40%.
 - <WH>Regrowth</WH> is now instant cast.
@@ -141,7 +144,7 @@ Allows you, or a targeted ally to cast spells for free for 8 seconds. In raid it
 
 > **Tip:** <WH>Efflorescence</WH> and <WH>Wild Growth</WH> are both reasonably expensive spells that should be fit into your <WH>Innervate</WH> duration. <WH>Rejuvenation</WH>s are better value than <WH>Regrowth</WH>s unless the <WH>Rejuvenation</WH> will mostly overheal.
 
-> **Tip:** Try not to time your <WH>Innervate</WH> as the big damage hits. Instead cast it 8 seconds beforehand to get a blanket of <WH>Rejuvenation</WH>s out before the damage hits. Getting your HoTs out before damage hits is one of the keys to playing Resto Druid well.
+> **Tip:** Try not to time your <WH>Innervate</WH> as the big damage hits. Instead, cast it 8 seconds beforehand to get a blanket of <WH>Rejuvenation</WH>s out before the damage hits. Getting your HoTs out before damage hits is one of the keys to playing Resto Druid well.
 
 
 ### <WH>Nature's Cure</WH>
@@ -168,7 +171,7 @@ If you recast a hot that has less than 30% of its duration left on a target the 
  
 
 ### Mastery: Harmony
-The Resto Druid mastery has been through a few iterations since the stat was introduced, with its current version one of the best. Mastery: Harmony increases all healing done to the target by 4-20%+ for each HoT on them. This means that if you have a <WH>Lifebloom</WH> and a <WH>Rejuvenation</WH> on the target and 20% mastery, all healing you do to the target will be increased by 40% (20%x2). This includes the HoT themselves too so even a single rejuv will benefit from mastery.
+The Resto Druid mastery has been through a few iterations since the stat was introduced, with its current version one of the best. Mastery: Harmony increases all healing done to the target by 4-20%+ for each HoT on them. Each HoT is worth a little less mastery value than the one before it. 
 
 There are currently eleven spells that count toward it: 
 - <WH>Lifebloom</WH>
@@ -184,4 +187,17 @@ There are currently eleven spells that count toward it:
 - <WH>Symbiotic Bloom</WH> (Wildstalker)
 
 > HoTs from trinkets or other non-druid sources don’t count toward Mastery. The Wild Growth cast by <WH>Grove Guardians</WH> benefit from mastery but don't add a stack of their own (so your other healing will not be buffed).
+
+#### Mastery Diminished Returns
+In 11.1 a form of diminished value was added to mastery stacks (in exchange for a large buff). This is pretty mathy for a beginners page and it isn't essential knowledge so feel free to skip it.
+
+| Stack Number | Mastery Multiplier | 
+| --- | --- | 
+| 1 | 1 | 
+| 2 | 1.7 | 
+| 3 | 2.3 | 
+| 4 | 2.8 | 
+| 5 | 3.2 |
+
+So, we can see the first two stacks are particularly valuable and then it starts to fall off from there. Note that adding mastery stacks is still **always** a positive. In raid you will tend to average 2-3 stacks depending on whether you're in a cooldown phase or not. In Mythic+ you can average a bit higher during dangerous damage.
  

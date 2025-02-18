@@ -47,7 +47,11 @@ function PdfViewer({ src }: PdfEmbedProps) {
             <div className={styles.container}>
                 <Document file={src} onLoadSuccess={onDocumentLoadSuccess}>
                     <div className={styles.documentViewer}>
-                        <Page width={800} pageNumber={pageNumber} />
+                        <Page width={800} 
+                            pageNumber={pageNumber} 
+                            renderAnnotationLayer={false}
+                            renderTextLayer={false}
+                            />
                     </div>
                 </Document>
             </div>
