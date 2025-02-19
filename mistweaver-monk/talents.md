@@ -12,18 +12,55 @@ import TabItem from '@theme/TabItem';
 
 Many talents have been changed slightly or reworked entirely coming into The War Within. We'll take a look at some of those, but first let's check out which build we'll be running.
 
-![Monk Raid Talents](.\images\MonkBuildRaid1105.png)
+![Monk Raid Talents](.\images\MonkBuildRaid111.png)
 
-**Import Link:** C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzCzYYDzYmZZYDLzMb2mltlZmlFmRzMzAzwMMw2MzMMbjxgFTAAAAAQAWsMLLz2MzEAAYB
+**Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGmxMzywG2mZ2sNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTbzyMLzilZZZ2mZmgAAbA
 
 #### Alternative Builds
-##### Similar Build but with Gift of the Celestials
-- **Import Link:** C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwCzsMAmxMz2wGz2MzmtZZbZmZZhZ0MzMwMmZWYwyMmhZbMGsYCAAAAACwilZZZWmZmAAALA
+##### DPS Focused Build
 
-##### Healing Elixirs / Uplifted Spirits
+This build takes Jade Empowerment without taking Jadefire Teachings instead of taking Mending Proliferation. This build will see a good amount of play for those who are wishing to maximize their DPS contribution in progression raiding. You are sacrificing ~4% HPS by dropping Mending Proliferation in order to get 30% more DPS from Crackling Jade Lightning. I recommend this build on fights where you do not need that much HPS and DPS matters more. 
+- **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGbzYmZZYDbzMsNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTLzyMLzilZZZ2mZmgAAbA
+
+##### Sheilun’s Gift 
+
+This build takes Sheilun’s Gift instead of Dancing Mists but without any of the follow up talents. Sheilun’s Gift is an active that must be utilised correctly if you wish to have it out perform Dancing Mists but it can do better if a fight does a significant burst of AoE damage onto the raid that you can precast your SG into. With Sheilun’s Gift talented you will gain some bonus cooldown reduction from Heart of the Jade Serpent occasionally as well. This should be considered when you are calculating how much value it provides for you. For example: the heal absorb on One Armed Bandit.
     - **Import Link:** C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYWYGDgZmZsMsxsNzsZbW2WmZWWYGNzMDMjZmFGsMjZY2GjBLmAAAAAgAsYZWWmlZmJAAwC
 
-## Key Talents
+#### Single Target Sheilun’s Gift 
+
+This build also utilizes Sheilun's Gift but opts for the new talent added this patch called Emperor’s Favor. It makes Sheilun’s Gift do 150% increased healing and have no cast time but now it only hits a single target. This talent can be very good on fights with heavy amounts of priority target healing that needs to be done. For example: Queensbane on Nexus Princess. 
+    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmhxGmxMWeA22WmtZG2mlttZmlFmRzMzAzwMYw2MmhZbMmhFTAAAAAmlptZZmlZxyssMbzMTQAgNA
+
+#### Five Target Sheilun's Gift
+
+Similar to the previous build but with Legacy of Wisdom instead of Emperor’s Favor. This talent setup is good for fights with similar damage patterns mentioned in the first Sheilun’s Gift talent build. If you can guarantee low overhealing this talent setup can provide a significant amount of healing to 5 targets at a time. 
+    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmhxGmxMWeA2WWmtZG2mlttZmlFmRzMzAzwMYw2MmhZbMmhFTAAAAAmlptZZmlZxyssMbzMTQAgNA
+
+#### Jade Empowerment and Jadefire Teachings
+
+This build focuses on Ancient Teachings healing by pairing your buff window with Jade Empowerment to mix both damage and healing into the same window. It is important to note that when playing with this build your Thunder Focus Tea casts should be on RSK or Enveloping Mist exclusively unless you are in your Yu’lon window. You would treat your Crackling Jade Lightning cast as a legitimate healing cooldown with a 30 second CD. This build is good for fights with add cleave. 
+    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmhxCbzYmZZYDbzMsNLbbzMLLMjmZmBmhZwgtZMDz2YMDLmAAAAAMLTbzyMLzilZZZ2mZmgAAbA
+
+#### Chi-Ji and Jadefire Stomp 
+
+The bones of this build are good and it has a lot of potential - even more than initially anticipated. You'll play around Jade Empowerment and Chi-ji windows with an emphasis on Haste / Crit and consistent DPS uptime. Chi-ji was nerfed quite heavily going into 11.1 so I'd only recommend it for fights with add cleave or if you need more DPS.
+    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADbMzyYWMbzYGLYz2sNzgZbbbmZZhZ0MzMwMMDGsNjZY2GjZYxEAAAAgZZabWmZZWsMLLz2MzEEAYD
+
+
+### Common Talent Swaps
+
+- **Full Melee Builds**: Definitely an option for normal or heroic raiding but it will not be competitive with the casting focused Yu’lon builds. 
+- **Yu'lon's Whisper**: Received a number of buffs and is a viable alternative now. Just don't combine it with Energizing Brew.
+- **Uplifted Spirits**: Should be taken if you need the CDR on your Revival. Drop Yu’lon’s Whisper for it. 
+- **Healing Elixir:** If you feel it's needed for survival in a fight then exchange Yu’lon’s Whisper for it. 
+- **Lifecycles / Energizing Brew**: The math always supports Lifecycles being the better choice but if you do not need mana and want the faster drink time then play with Energizing Brew. 
+- **Gift of the Celestials**: Not currently viable in raid. It is just numerically weaker all around compared to Jade Bond. 
+- **Lotus Infusion**: Extremely weak compared to Chi Harmony because Chi Harmony buffs the tierset more than Lotus Infusion can. Should not be taken in 11.1
+- **Tear of Morning**: Essentially dead on arrival this tier. Our tier set scales with the amount of Renewing Mists out so Tear of Morning falls behind significantly and it was already struggling prior.
+- **Peer Into Peace**: Not really worth trying to make work in raid, just focus on playing with Pool of Mists. 
+
+## More Talent Information
 
 <FloatingImage title="Crane Style" paragraph="Crane Style is a hugely important talent that synergizes extremely well with the buffs to our mastery and to Jade Bond. It is essential for getting enough CDR to push Celestial with Jade Bond down to a 2 minute CD." image={require("./images/CraneStyle.jpg").default} />
 
@@ -38,10 +75,6 @@ Many talents have been changed slightly or reworked entirely coming into The War
 &nbsp;
 
 <FloatingImage title="Pool of Mists" paragraph="Pool of Mists makes a return from Warlords of Draenor. This talent helps to solve issues with RSK not resetting for Rising Mists making it a bit more consistent as well as adding more average Renewing Mist out through the CDR and the extra charge. It is a solid talent choice that took the spot of Clouded Focus on the choice node with Peer into Peace." image={require("./images/PoolOfMists.jpg").default} />
-
-&nbsp;
-
-<FloatingImage title="Jade Bond" paragraph="Jade Bond was buffed heavily which pushed it back into the spotlight for us if the right conditions are met. It is important to note that this guide is for those who want to min-max their gameplay as much as possible so the recommendation to play Jade Bond is under the assumption that you can get your Celestial down to a 2 minute cooldown. If you cannot get enough CDR to make your Celestial line up with 2 minute timers on a fight then it should not be played. Is it a major loss not playing Jade Bond? No, not really but it is still a loss if you do end up playing Gift when compared to min-maxed Jade Bond. TLDR: If you cannot hit a 2 minute Celestial then I recommend just playing Gift." image={require("./images/JadeBond.jpg").default} />
 
 &nbsp;
 
