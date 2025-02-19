@@ -18,10 +18,10 @@ const sidebars: SidebarsConfig = {
 
   // But you can create a sidebar manually
   monkSidebar: [
-    'heroTalents',
+    '11.1-FAQ',
+    'playstyle',
+    'herotalents',
     'talents',
-    'playstyleRaid',
-    'monkChanges'
   ]
 };
 

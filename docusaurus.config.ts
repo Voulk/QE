@@ -159,7 +159,7 @@ const config: Config = {
           activeBasePath: 'monk',
           docsPluginId: 'monk',
         },*/
-        {to: '/mistweaver-monk/heroTalents', label: 'Monk Guide', position: 'left'},
+        {to: '/mistweaver-monk/11.1-FAQ', label: 'Monk Guide', position: 'left'},
         {
           type: 'dropdown',
           position: 'left',
