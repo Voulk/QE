@@ -1,5 +1,7 @@
 ---
 title: Hero Talents
+image: https://i.imgur.com/f7nFFy2.png
+description: Learn how to play Mistweaver in the War Within. Updated for 11.1.
 ---
 
 import FloatingImage from "../src/components/FloatingImage"
