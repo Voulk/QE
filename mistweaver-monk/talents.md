@@ -19,17 +19,17 @@ Many talents have been changed slightly or reworked entirely coming into The War
 #### Alternative Builds
 ##### DPS Focused Build
 
-This build takes Jade Empowerment without taking Jadefire Teachings instead of taking Mending Proliferation. This build will see a good amount of play for those who are wishing to maximize their DPS contribution in progression raiding. You are sacrificing ~4% HPS by dropping Mending Proliferation in order to get 30% more DPS from Crackling Jade Lightning. I recommend this build on fights where you do not need that much HPS and DPS matters more. 
+This build takes <WH>Jade Empowerment</WH> without taking Jadefire Teachings instead of taking Mending Proliferation. This build will see a good amount of play for those who are wishing to maximize their DPS contribution in progression raiding. You are sacrificing ~4% HPS by dropping Mending Proliferation in order to get 30% more DPS from Crackling Jade Lightning. I recommend this build on fights where you do not need that much HPS and DPS matters more. 
 - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGbzYmZZYDbzMsNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTLzyMLzilZZZ2mZmgAAbA
 
 ##### Sheilun’s Gift 
 
-This build takes Sheilun’s Gift instead of Dancing Mists but without any of the follow up talents. Sheilun’s Gift is an active that must be utilised correctly if you wish to have it out perform Dancing Mists but it can do better if a fight does a significant burst of AoE damage onto the raid that you can precast your SG into. With Sheilun’s Gift talented you will gain some bonus cooldown reduction from Heart of the Jade Serpent occasionally as well. This should be considered when you are calculating how much value it provides for you. For example: the heal absorb on One Armed Bandit.
+This build takes Sheilun’s Gift instead of Dancing Mists but without any of the follow up talents. Sheilun’s Gift is an active that must be utilised correctly if you wish to have it out perform Dancing Mists but it can do better if a fight does a significant burst of AoE damage onto the raid that you can precast your SG into. With Sheilun’s Gift talented you will gain some bonus cooldown reduction from <WH>Heart of the Jade Serpent</WH> occasionally as well. This should be considered when you are calculating how much value it provides for you. For example: the heal absorb on One Armed Bandit.
     - **Import Link:** C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYWYGDgZmZsMsxsNzsZbW2WmZWWYGNzMDMjZmFGsMjZY2GjBLmAAAAAgAsYZWWmlZmJAAwC
 
 #### Single Target Sheilun’s Gift 
 
-This build also utilizes Sheilun's Gift but opts for the new talent added this patch called Emperor’s Favor. It makes Sheilun’s Gift do 150% increased healing and have no cast time but now it only hits a single target. This talent can be very good on fights with heavy amounts of priority target healing that needs to be done. For example: Queensbane on Nexus Princess. 
+This build also utilizes <WH>Sheilun's Gift</WH> but opts for the new talent added this patch called Emperor’s Favor. It makes Sheilun’s Gift do 150% increased healing and have no cast time but now it only hits a single target. This talent can be very good on fights with heavy amounts of priority target healing that needs to be done. For example: Queensbane on Nexus Princess. 
     - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmhxGmxMWeA22WmtZG2mlttZmlFmRzMzAzwMYw2MmhZbMmhFTAAAAAmlptZZmlZxyssMbzMTQAgNA
 
 #### Five Target Sheilun's Gift
@@ -39,26 +39,26 @@ Similar to the previous build but with Legacy of Wisdom instead of Emperor’s F
 
 #### Jade Empowerment and Jadefire Teachings
 
-This build focuses on Ancient Teachings healing by pairing your buff window with Jade Empowerment to mix both damage and healing into the same window. It is important to note that when playing with this build your Thunder Focus Tea casts should be on RSK or Enveloping Mist exclusively unless you are in your Yu’lon window. You would treat your Crackling Jade Lightning cast as a legitimate healing cooldown with a 30 second CD. This build is good for fights with add cleave. 
+This build focuses on <WH>Ancient Teachings</WH> healing by pairing your buff window with <WH>Jade Empowerment</WH> to mix both damage and healing into the same window. It is important to note that when playing with this build your <WH>Thunder Focus Tea</WH> casts should be on RSK or <WH>Enveloping Mist</WH> exclusively unless you are in your Yu’lon window. You would treat your Crackling Jade Lightning cast as a legitimate healing cooldown with a 30 second CD. This build is good for fights with add cleave. 
     - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmhxCbzYmZZYDbzMsNLbbzMLLMjmZmBmhZwgtZMDz2YMDLmAAAAAMLTbzyMLzilZZZ2mZmgAAbA
 
 #### Chi-Ji and Jadefire Stomp 
 
-The bones of this build are good and it has a lot of potential - even more than initially anticipated. You'll play around Jade Empowerment and Chi-ji windows with an emphasis on Haste / Crit and consistent DPS uptime. Chi-ji was nerfed quite heavily going into 11.1 so I'd only recommend it for fights with add cleave or if you need more DPS.
+The bones of this build are good and it has a lot of potential - even more than initially anticipated. You'll play around <WH>Jade Empowerment</WH> and <WH>Chi-ji</WH> windows with an emphasis on Haste / Crit and consistent DPS uptime. <WH>Chi-ji</WH> was nerfed quite heavily going into 11.1 so I'd only recommend it for fights with add cleave or if you need more DPS.
     - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADbMzyYWMbzYGLYz2sNzgZbbbmZZhZ0MzMwMMDGsNjZY2GjZYxEAAAAgZZabWmZZWsMLLz2MzEEAYD
 
 
 ### Common Talent Swaps
 
 - **Full Melee Builds**: Definitely an option for normal or heroic raiding but it will not be competitive with the casting focused Yu’lon builds. 
-- **Yu'lon's Whisper**: Received a number of buffs and is a viable alternative now. Just don't combine it with Energizing Brew.
-- **Uplifted Spirits**: Should be taken if you need the CDR on your Revival. Drop Yu’lon’s Whisper for it. 
-- **Healing Elixir:** If you feel it's needed for survival in a fight then exchange Yu’lon’s Whisper for it. 
-- **Lifecycles / Energizing Brew**: The math always supports Lifecycles being the better choice but if you do not need mana and want the faster drink time then play with Energizing Brew. 
-- **Gift of the Celestials**: Not currently viable in raid. It is just numerically weaker all around compared to Jade Bond. 
-- **Lotus Infusion**: Extremely weak compared to Chi Harmony because Chi Harmony buffs the tierset more than Lotus Infusion can. Should not be taken in 11.1
-- **Tear of Morning**: Essentially dead on arrival this tier. Our tier set scales with the amount of Renewing Mists out so Tear of Morning falls behind significantly and it was already struggling prior.
-- **Peer Into Peace**: Not really worth trying to make work in raid, just focus on playing with Pool of Mists. 
+- **<WH>Yu'lon's Whisper</WH>**: Received a number of buffs and is a viable alternative now. Just don't combine it with <WH>Energizing Brew</WH>.
+- **<WH>Uplifted Spirits</WH>**: Should be taken if you need the CDR on your <WH>Revival</WH>. Drop Yu’lon’s Whisper for it. 
+- **<WH>Healing Elixir</WH>:** If you feel it's needed for survival in a fight then exchange Yu’lon’s Whisper for it. 
+- **<WH>Lifecycles</WH> / <WH>Energizing Brew</WH>**: The math always supports <WH>Lifecycles</WH> being the better choice but if you do not need mana and want the faster drink time then play with <WH>Energizing Brew</WH>. 
+- **<WH>Gift of the Celestials</WH>**: Not currently viable in raid. It is just numerically weaker all around compared to <WH>Jade Bond</WH>. 
+- **<WH>Lotus Infusion</WH>**: Extremely weak compared to <WH>Chi Harmony</WH> because <WH>Chi Harmony</WH> buffs the tierset more than <WH>Lotus Infusion</WH> can. Should not be taken in 11.1
+- **<WH>Tear of Morning</WH>**: Essentially dead on arrival this tier. Our tier set scales with the amount of <WH>Renewing Mist</WH>s out so <WH>Tear of Morning</WH> falls behind significantly and it was already struggling prior.
+- **<WH>Peer into Peace</WH>**: Not really worth trying to make work in raid, just focus on playing with Pool of Mists. 
 
 ## More Talent Information
 
@@ -92,34 +92,34 @@ The bones of this build are good and it has a lot of potential - even more than 
 
 <Tabs>
 <TabItem value="Shaohao's Lesson" label="Shaohao's Lesson" default>
-Shaohao’s Lessons fell behind comparatively to the other competitive talents so for now it remains unplayed. You still want to talent into Sheilun's Gift to utilize the CDR component of CotC through Heart of the Jade Serpent. You would just use Sheilun's Gift as a normal heal.
+Shaohao’s Lessons fell behind comparatively to the other competitive talents so for now it remains unplayed. You still want to talent into <WH>Sheilun's Gift</WH> to utilize the CDR component of CotC through <WH>Heart of the Jade Serpent</WH>. You would just use <WH>Sheilun's Gift</WH> as a normal heal.
 </TabItem>
 <TabItem value="Misty Peaks">
-Misty Peaks was changed to extend existing Enveloping Mist by 2 seconds. This has really good synergy with our tierset and with Mending Proliferation.
+<WH>Misty Peaks</WH> was changed to extend existing <WH>Enveloping Mist</WH> by 2 seconds. This has really good synergy with our tierset and with Mending Proliferation.
 </TabItem>
 <TabItem value="Lifecycles">
-Lifecycles has perfect synergy with the playstyle of this build. It allows for a lot of extra Mana Tea stacks to be generated.
+<WH>Lifecycles</WH> has perfect synergy with the playstyle of this build. It allows for a lot of extra <WH>Mana Tea</WH> stacks to be generated.
 </TabItem>
 <TabItem value="Invoker's Delight" >
 Invoker’s Delight has caught a nerf coming into The War Within but is still a mandatory talent for this build. The haste granted has gone from 33% to 20% but as said before it is still extremely good.
 </TabItem>
 <TabItem value="Uplifted Spirits">
-Uplifted Spirits (optional) replaces Dancing Mists if the fight has good timers for a 2 minute Revival and if you get enough CDR to push Revival to sub 2 minutes. Not in the default build.
+<WH>Uplifted Spirits</WH> (optional) replaces Dancing Mists if the fight has good timers for a 2 minute <WH>Revival</WH> and if you get enough CDR to push <WH>Revival</WH> to sub 2 minutes. Not in the default build.
 </TabItem>
 </Tabs>
 
 <Tabs>
 <TabItem value="Healing Elixir" default>
-Healing Elixir got a bit of a change and is something that you can take if you feel like you really need the healing however, I do not recommend you play it just because Mistweaver is already extremely tanky as is. If you were to end up playing this I would recommend dropping Dancing Mists for it, if you have already dropped Dancing Mists then you can drop Chrysalis.
+<WH>Healing Elixir</WH> got a bit of a change and is something that you can take if you feel like you really need the healing however, I do not recommend you play it just because Mistweaver is already extremely tanky as is. If you were to end up playing this I would recommend dropping Dancing Mists for it, if you have already dropped Dancing Mists then you can drop Chrysalis.
 </TabItem>
 <TabItem value="Tear of Morning">
-Tear of Morning was nerfed quite a bit by the removal of Clouded Focus as well as the direct nerfs it received to forcibly push it out of the meta. It can be played but I do not recommend you play it if you wish to do the max amount of HPS.
+<WH>Tear of Morning</WH> was nerfed quite a bit by the removal of Clouded Focus as well as the direct nerfs it received to forcibly push it out of the meta. It can be played but I do not recommend you play it if you wish to do the max amount of HPS.
 </TabItem>
 <TabItem value="Soothing Mist / Peer into Peace">
-This is going to be contradictory to what I have said before but technically this playstyle is the highest HPS due to how much extra mana we have and how strong Soothing Mist is. However, the issue with this playstyle is that it is extremely unforgiving with forced movement mechanics which this upcoming raid has a lot of. I would recommend that you do not play these talents but if you do end up doing it you can DM me directly on Discord or ask me on my stream about minmaxing this playstyle.
+This is going to be contradictory to what I have said before but technically this playstyle is the highest HPS due to how much extra mana we have and how strong <WH>Soothing Mist</WH> is. However, the issue with this playstyle is that it is extremely unforgiving with forced movement mechanics which this upcoming raid has a lot of. I would recommend that you do not play these talents but if you do end up doing it you can DM me directly on Discord or ask me on my stream about minmaxing this playstyle.
 </TabItem>
 <TabItem value="Chi-ji + Ancient Teachings + Faeline Stomp" >
-This playstyle is fun and with the buffs to mastery it can definitely be good for normal/heroic clears if you want to turn your brain off but it is not competitive in mythic with other builds unfortunately. Ancient Teachings appears tuned around Mythic+ which leaves it on the weak side for raid.
+This playstyle is fun and with the buffs to mastery it can definitely be good for normal/heroic clears if you want to turn your brain off but it is not competitive in mythic with other builds unfortunately. <WH>Ancient Teachings</WH> appears tuned around Mythic+ which leaves it on the weak side for raid.
 </TabItem>
 </Tabs>
 

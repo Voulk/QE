@@ -11,7 +11,6 @@ import ReactPlayer from 'react-player'
 
 So, we’ve learned a little bit about our spells, but perhaps more importantly we must learn when to cast what. This can sometimes be encounter specific so think of these as general strategies that can work well in a wide variety of situations.
 
-&nbsp;
 
 ## Raid Healing Strategy
 To raid heal as a Resto Druid you will learn to **anticipate damage**. This can be a very rewarding play style as you’ll find your numbers going steadily up as you learn how best to heal each boss. It can be easy as a new player to react to damage going out by casting <WH>Rejuvenation</WH>s on damaged players but you want to try and ascribe more meaning into your casts than that. 
