@@ -93,7 +93,6 @@ Playing around <WH>Chi Harmony</WH> is crucial to maximizing your HPS. You want 
 <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'flex-start' }}>
   <ReactPlayer 
     url="https://youtu.be/laG7q6XJK70?si=HWf9wTjqwerZvMJk" 
-    playing 
     loop
     controls='false'
     style={{ paddingRight: "12px" }} 

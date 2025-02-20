@@ -25,7 +25,7 @@ The War Within adds two *Hero Trees* for Mistweaver: <HeroTreeHeader heroTree="C
 
 &nbsp;
 
-<FloatingImage title="Heart of the Jade Serpent" paragraph="Heart of the Jade Serpent gives us cooldown reduction on a number of abilities when we consume 10 stacks of Sheilun's Gift. The amount of stacks increases to 20 when Veil of Pride is talented. This buff is relatively low impact compared to some of the others but it does get amplified by the next talent which makes it something you want to play around." image={require("./images/Heart-of-the-Jade-Serpent.jpg").default} />
+<FloatingImage title="Heart of the Jade Serpent" paragraph="Heart of the Jade Serpent gives us cooldown reduction on a number of abilities based on the amount of clouds consumed per each cast of Sheilun's Gift. It’s 0.8 seconds per cloud with Shaohao’s Lessons and 0.4 seconds per cloud with Veil of Pride.  This buff is relatively low impact compared to some of the others but it does get amplified by the next talent which makes it something you want to play around." image={require("./images/Heart-of-the-Jade-Serpent.jpg").default} />
 
 &nbsp;
 
@@ -33,6 +33,6 @@ The War Within adds two *Hero Trees* for Mistweaver: <HeroTreeHeader heroTree="C
 
 &nbsp;
 
-<FloatingImage title="Inner Compass" paragraph="Inner Compass grants a stat buff according to whichever celestial last helped you. It does not grant all 4 buffs during your Celestial Conduit window. Unity Within ignores Inner Compass entirely." image={require("./images/Unity-Within.jpg").default} />
+<FloatingImage title="Inner Compass" paragraph="Inner Compass grants a stat buff according to whichever celestial last helped you. It does not grant all 4 buffs during your Celestial Conduit window. Unity Within ignores Inner Compass entirely." image={require("./images/Inner-Compass.jpg").default} />
 
 
