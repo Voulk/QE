@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 18
@@ -21,20 +19,30 @@ jobs:
         run: npm ci
       - name: Build website
         run: npm run build
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-files
+          path: build
 
   deploy:
     name: Deploy to Server
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to Server
-        uses: appleboy/ghaction-ssh@master
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
         with:
-          host: 192.245.157.90
-          username: fqsyuhuf
-          key: ${{ secrets.DEPLOY_KEY }}
-          port: 52836
-          script: |
-            rsync -chav \
-              -e 'ssh -p 52836' \
-              ./build/ /public_html/new/
+          name: build-files
+          path: build
+
+      - name: Setup SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -p 52836 192.245.157.90 >> ~/.ssh/known_hosts
+
+      - name: Deploy via SSH & Rsync
+        run: |
+          rsync -chav --delete -e "ssh -p 52836" build/ fqsyuhuf@192.245.157.90:/public_html/new/
