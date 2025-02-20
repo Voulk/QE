@@ -73,11 +73,6 @@ You can get custom, personalized trinket rankings on [QE Live](https://questiona
 
 ---
 
-## Embellishments
-Here is some embellishment advice.
-
----
-
 ## Cyrce's Circlet
 <ITEM>Cyrce's Circlet</ITEM> is a special effect ring that drops from the [Siren Isle](https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring) content. It's worth wearing at least at the start of season 2 - and might hold up for quite a long time. Here are the recommended gems:
 - **Thunder:** <ITEM>Stormbringer's Runed Citrine</ITEM>
