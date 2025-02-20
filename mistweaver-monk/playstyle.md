@@ -1,7 +1,7 @@
 ---
 title: "How to Play & Stats"
 image: /images/War-Within-Mistweaver.png
-description: "Learn how to play Mistweaver in the War Within. Updated for 11.1.
+description: Learn how to play Mistweaver in the War Within. Updated for 11.1.
 ---
 
 import ReactPlayer from 'react-player'
