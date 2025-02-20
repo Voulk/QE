@@ -25,12 +25,27 @@ function PdfViewer({ src }: PdfEmbedProps) {
     const [numPages, setNumPages] = useState<number>();
     const [pageNumber, setPageNumber] = useState(1);
     const [searchText, setSearchText] = useState("");
+    const [pdfWidth, setPdfWidth] = useState(800);
 
     // Ensure pdf.worker.min.mjs is set correctly
     useEffect(() => {
         import("react-pdf").then(({ pdfjs }) => {
             pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
         });
+
+        function handleResize() {
+            const calculatedWidth = getPDFWidth();
+            setPdfWidth(calculatedWidth);
+        }
+
+        handleResize();
+
+        // Add event listener for window resize
+        window.addEventListener('resize', handleResize);
+
+        return () => {
+            window.removeEventListener('resize', handleResize);
+        };
     }, []);
 
     function onDocumentLoadSuccess({ numPages }) {
@@ -42,12 +57,23 @@ function PdfViewer({ src }: PdfEmbedProps) {
         setPageNumber((prevPageNumber) => prevPageNumber + offset);
     }
 
+    function getPDFWidth() {
+        const screenWidth = window.innerWidth; // Get browser window width
+        const minWidth = 400;
+        const maxWidth = 800;
+
+        // Calculate a responsive width (example logic)
+        const calculatedWidth = Math.max(minWidth, Math.min(screenWidth - 50, maxWidth)); // Adjust 100 for margins
+
+        return calculatedWidth;
+    }
+
     return (
         <Suspense fallback={<div>Loading PDF Viewer...</div>}>
             <div className={styles.container}>
                 <Document file={src} onLoadSuccess={onDocumentLoadSuccess}>
                     <div className={styles.documentViewer}>
-                        <Page width={800} 
+                        <Page width={pdfWidth} 
                             pageNumber={pageNumber} 
                             renderAnnotationLayer={false}
                             renderTextLayer={false}

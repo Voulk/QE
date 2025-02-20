@@ -14,7 +14,7 @@ module.exports = function (context) {
           {
             tagName: 'script',
             innerHTML: `
-              const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
+              const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: false};
 
               document.addEventListener('readystatechange', event => {
                 if (event.target.readyState === "complete") {
