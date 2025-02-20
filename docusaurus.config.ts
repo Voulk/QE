@@ -11,19 +11,17 @@ const config: Config = {
   favicon: 'img/QELogo.ico',
 
   // Set the production url of your site here
-  url: 'https://voulk.github.io/',
+  url: 'https://questionablyepic.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/QE/',
+  baseUrl: '/',
 
-  // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'QE', // Usually your GitHub org/user name.
   projectName: 'Questionably Epic', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  noIndex: true,
 
   plugins: [
     path.resolve(__dirname, './plugins/docusaurus-plugin-wowhead-tooltips'),
@@ -83,11 +81,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -100,8 +93,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/QE-Social-Card.jpg',
     announcementBar: {
       id: 'support_us',
       content:
