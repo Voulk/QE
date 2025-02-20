@@ -45,4 +45,4 @@ jobs:
 
       - name: Deploy via SSH & Rsync
         run: |
-          rsync -chav --delete -e "ssh -p 52836" build/ fqsyuhuf@192.245.157.90:/public_html/new/
+          rsync -chav --delete -e "ssh -p 52836" build/ fqsyuhuf@192.245.157.90:/home/fqsyuhuf/public_html/new/
