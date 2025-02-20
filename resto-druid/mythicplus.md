@@ -62,6 +62,5 @@ Sometimes you will get time to prepare for single target damage, and other times
 - As damage starts to tick, cast <WH>Swiftmend</WH> then <WH>Regrowth</WH>. You can delay the <WH>Regrowth</WH> cast half a second to wait for the DoT to tick if necessary. 
 - Follow up with further <WH>Regrowth</WH>s. 
 
-### Single Target Healing Example
 
 ---
