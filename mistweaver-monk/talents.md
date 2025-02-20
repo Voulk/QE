@@ -88,38 +88,4 @@ The bones of this build are good and it has a lot of potential - even more than 
 
 <FloatingImage title="Rushing Wind Kick" paragraph="Rushing Wind Kick is a new talent that was added in 11.0.5 which replaces Rising Sun Kick with a ranged alternative that does significantly more damage and provides a buff to your Renewing Mist which increases the healing it does by 100% for 4 seconds. This talent interacts with all things that Rising Sun Kick would interact with and it will proc Rising Mists and Rapid Diffusion whether you hit a target or not." image={require("./images/Rushing-Wind-Kick.jpg").default} />
 
-### Honorable Mentions
-
-<Tabs>
-<TabItem value="Shaohao's Lesson" label="Shaohao's Lesson" default>
-Shaohao’s Lessons fell behind comparatively to the other competitive talents so for now it remains unplayed. You still want to talent into <WH>Sheilun's Gift</WH> to utilize the CDR component of CotC through <WH>Heart of the Jade Serpent</WH>. You would just use <WH>Sheilun's Gift</WH> as a normal heal.
-</TabItem>
-<TabItem value="Misty Peaks">
-<WH>Misty Peaks</WH> was changed to extend existing <WH>Enveloping Mist</WH> by 2 seconds. This has really good synergy with our tierset and with Mending Proliferation.
-</TabItem>
-<TabItem value="Lifecycles">
-<WH>Lifecycles</WH> has perfect synergy with the playstyle of this build. It allows for a lot of extra <WH>Mana Tea</WH> stacks to be generated.
-</TabItem>
-<TabItem value="Invoker's Delight" >
-Invoker’s Delight has caught a nerf coming into The War Within but is still a mandatory talent for this build. The haste granted has gone from 33% to 20% but as said before it is still extremely good.
-</TabItem>
-<TabItem value="Uplifted Spirits">
-<WH>Uplifted Spirits</WH> (optional) replaces Dancing Mists if the fight has good timers for a 2 minute <WH>Revival</WH> and if you get enough CDR to push <WH>Revival</WH> to sub 2 minutes. Not in the default build.
-</TabItem>
-</Tabs>
-
-<Tabs>
-<TabItem value="Healing Elixir" default>
-<WH>Healing Elixir</WH> got a bit of a change and is something that you can take if you feel like you really need the healing however, I do not recommend you play it just because Mistweaver is already extremely tanky as is. If you were to end up playing this I would recommend dropping Dancing Mists for it, if you have already dropped Dancing Mists then you can drop Chrysalis.
-</TabItem>
-<TabItem value="Tear of Morning">
-<WH>Tear of Morning</WH> was nerfed quite a bit by the removal of Clouded Focus as well as the direct nerfs it received to forcibly push it out of the meta. It can be played but I do not recommend you play it if you wish to do the max amount of HPS.
-</TabItem>
-<TabItem value="Soothing Mist / Peer into Peace">
-This is going to be contradictory to what I have said before but technically this playstyle is the highest HPS due to how much extra mana we have and how strong <WH>Soothing Mist</WH> is. However, the issue with this playstyle is that it is extremely unforgiving with forced movement mechanics which this upcoming raid has a lot of. I would recommend that you do not play these talents but if you do end up doing it you can DM me directly on Discord or ask me on my stream about minmaxing this playstyle.
-</TabItem>
-<TabItem value="Chi-ji + Ancient Teachings + Faeline Stomp" >
-This playstyle is fun and with the buffs to mastery it can definitely be good for normal/heroic clears if you want to turn your brain off but it is not competitive in mythic with other builds unfortunately. <WH>Ancient Teachings</WH> appears tuned around Mythic+ which leaves it on the weak side for raid.
-</TabItem>
-</Tabs>
 

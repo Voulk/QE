@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Resto Druid',
     Svg: require('@site/static/img/druidtest.svg').default,
     img: require('@site/static/img/druidtest2.png').default,
-    link: "https://questionablyepic.com/druid/abilities",
+    link: "https://questionablyepic.com/resto-druid/spells",
     description: (
       <>
         Upgrade your Druid gameplay with the QE comprehensive guide to raid and Mythic+. Updated for 11.1!
@@ -37,7 +37,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Mistweaver Monk',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     img: require('@site/static/img/monktest.png').default,
-    link: "https://questionablyepic.com/live",
+    link: "https://questionablyepic.com/mistweaver-monk/11.1-FAQ",
     description: (
       <>
         Get into Mistweaver Monk with an in-depth one-page guide covering talents, playstyle, stats and more.
