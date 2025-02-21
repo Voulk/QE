@@ -5,6 +5,6 @@ import pdf from './pdfs/04 Stix Bunkjunker.pdf';
 # Stix Bunkjunker
 ---
 
-[← Previous Boss](./rik-reverb) • [Table of Contents](./) • [Next Boss →](./sprocketmonger-lockenstock)
+[← Previous Boss](/undermine/rik-reverb) • [Table of Contents](/undermine/) • [Next Boss →](/undermine/sprocketmonger-lockenstock)
 
 <PdfEmbed src={pdf} />

@@ -9,6 +9,18 @@ interface PdfEmbedProps {
     src: PDFFile;
 }
 
+// Polyfill for Promise.withResolvers()
+if (!Promise.withResolvers) {
+    Promise.withResolvers = function () {
+        let resolve, reject;
+        const promise = new Promise((res, rej) => {
+            resolve = res;
+            reject = rej;
+        });
+        return { promise, resolve, reject };
+    };
+}
+
 // Lazy load react-pdf to avoid SSR conflicts
 const Document = lazy(() => import("react-pdf").then((mod) => ({ default: mod.Document })));
 const Page = lazy(() => import("react-pdf").then((mod) => ({ default: mod.Page })));
@@ -71,7 +83,7 @@ function PdfViewer({ src }: PdfEmbedProps) {
     return (
         <Suspense fallback={<div>Loading PDF Viewer...</div>}>
             <div className={styles.container}>
-                <Document file={src} onLoadSuccess={onDocumentLoadSuccess}>
+                <Document file={src} onLoadSuccess={onDocumentLoadSuccess} onLoadError={() => <div>Sorry, we were unable to load the PDF. If possible, try an updated browser.</div>}>
                     <div className={styles.documentViewer}>
                         <Page width={pdfWidth} 
                             pageNumber={pageNumber} 

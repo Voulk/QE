@@ -64,11 +64,7 @@ The bones of this build are good and it has a lot of potential - even more than 
 
 ## More Talent Information
 
-<FloatingImage title="Crane Style" paragraph="Crane Style is a hugely important talent that synergizes extremely well with the buffs to our mastery and to Jade Bond. It is essential for getting enough CDR to push Celestial with Jade Bond down to a 2 minute CD." image={require("./images/CraneStyle.jpg").default} />
-
-&nbsp;
-
-<FloatingImage title="Zen Pulse" paragraph="Zen Pulse has been reworked entirely from an active button to a passive effect that amplifies the healing that your Vivify and Invigorating Mists cleave does which is increased by the number of Renewing Mist you currently have active when pressing Vivify. Zen Pulse can stack up twice and it helps fix the square root scaling issue that Invigorating Mists has. The proc rate of this talent is extremely low on its own however, you can forcibly proc it using Thunder Focus Tea because of Deep Clarity. The Deep Clarity proc activates once you consume your Thunder Focus Tea buff." image={require("./images/ZenPulse.jpg").default} />
+<FloatingImage title="Zen Pulse" paragraph="Zen Pulse has been reworked from an active button to a passive effect that amplifies the healing that your Vivify and Invigorating Mists cleave does which is increased by the number of Renewing Mist you currently have active when pressing Vivify. Zen Pulse can stack up twice and it helps fix the square root scaling issue that Invigorating Mists has. The proc rate of this talent is extremely low on its own however, you can forcibly proc it using Thunder Focus Tea because of Deep Clarity. The Deep Clarity proc activates once you consume your Thunder Focus Tea buff." image={require("./images/ZenPulse.jpg").default} />
 
 &nbsp;
 
@@ -88,6 +84,6 @@ The bones of this build are good and it has a lot of potential - even more than 
 
 &nbsp;
 
-<FloatingImage title="Rushing Wind Kick" paragraph="Rushing Wind Kick is a new talent that was added in 11.0.5 which replaces Rising Sun Kick with a ranged alternative that does significantly more damage and provides a buff to your Renewing Mist which increases the healing it does by 100% for 4 seconds. This talent interacts with all things that Rising Sun Kick would interact with and it will proc Rising Mists and Rapid Diffusion whether you hit a target or not." image={require("./images/Rushing-Wind-Kick.jpg").default} />
+<FloatingImage title="Rushing Wind Kick" paragraph="Rushing Wind Kick is a new talent that was added in 11.0.5 which replaces Rising Sun Kick with a ranged alternative that does significantly more damage and provides a buff to your Renewing Mist which increases the healing it does by 150% for 4 seconds. This talent interacts with all things that Rising Sun Kick would interact with and it will proc Rising Mists and Rapid Diffusion whether you hit a target or not." image={require("./images/Rushing-Wind-Kick.jpg").default} />
 
 
