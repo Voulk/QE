@@ -1,6 +1,6 @@
 ---
 title: "How to Play & Stats"
-image: /images/War-Within-Mistweaver.png
+image: https://i.imgur.com/b8hPvXi.png
 description: Learn how to play Mistweaver in the War Within. Updated for 11.1.
 ---
 
@@ -26,8 +26,9 @@ When <WH>Rising Mist</WH> is talented, <WH>Rising Sun Kick</WH> / <WH>Rushing Wi
 4. <WH>Rising Sun Kick</WH> / <WH>Rushing Wind Kick</WH>
 5. <WH>Thunder Focus Tea</WH>
 6. <WH>Enveloping Mist</WH> with a Strength proc
-7. <WH>Vivify</WH> when it makes sense to heal someone
-8. <WH>Tiger Palm</WH> if you have nothing else going on
+7. <WH>Renewing Mist</WH>
+8. <WH>Vivify</WH> when it makes sense to heal someone
+9. <WH>Tiger Palm</WH> if you have nothing else going on
 
 
 ## Celestial Rotation
