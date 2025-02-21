@@ -19,7 +19,7 @@ Resto is an incredibly rewarding spec to master and I would strongly recommend i
  
 
 ## The Hots
-### <WH>Rejuvenation</WH>
+### Rejuvenation
 
 ***Primary Role: Key builder in your ramp sequence. Can also be used as a filler HoT.***
 
@@ -27,7 +27,7 @@ Resto is an incredibly rewarding spec to master and I would strongly recommend i
 - Generally you’ll cast a lot of these in a row before <WH>Flourish</WH>, or during Tree of Life. You can also cast them on damaged targets in between your big cooldowns, and you can get away with casting a ton of them. Think of this as a medium-sized HoT that you’ll combine with other buttons to do huge healing.
 - In **Mythic+** Rejuvenation takes a back seat but can still be a key button press. You'll use it to better prep for periods of high damage. Be careful you don't fall into a habit of trying to keep Rejuvenation up at all times.
 
-### <WH>Wild Growth</WH>
+### Wild Growth
 
 ***Primary Role: Powerful, efficient AoE heal. Also features in your ramp sequence.***
 
@@ -37,7 +37,7 @@ Resto is an incredibly rewarding spec to master and I would strongly recommend i
 
 > **You should know:** Even though <WH>Wild Growth</WH> can be cast on an ally (like every other heal) it won’t necessarily hit that target. It instead will pick the six lowest health targets within 30 yards of them. This also means you can cast it on an enemy.
 
-### <WH>Efflorescence</WH>
+### Efflorescence
 
 ![REfflo Example](.\images\effloGraphic.jpg)
 
@@ -47,7 +47,7 @@ Targeted healing effect that heals allies in the green circle. It lasts for 30 s
 
 > **You should know:** When running <WH>Spring Blossoms</WH>, the <WH>Efflorescence</WH> heal will prioritize targets that don’t have the <WH>Spring Blossoms</WH> hot but <WH>Efflorescence</WH> is otherwise NOT a smart heal (and so could heal an ally at 90% life instead of one at 10%).
 
-### <WH>Lifebloom</WH>
+### Lifebloom
 
 ***Primary Role: Single target healing***
 
@@ -58,13 +58,13 @@ Limited to one target at a time (two with <WH>Undergrowth</WH>). Aim for very hi
 ---
 
 ## The Direct Heals
-### <WH>Regrowth</WH>
+### Regrowth
 
 ***Primary Role: Spot heal. Also a powerful filler spell after a <WH>Flourish</WH> ramp or whenever you have a lot of <WH>Rejuvenation</WH>s active.***
 
 <WH>Regrowth</WH> is a direct healing spell that we’re going to make cheap or free through the <WH>Abundance</WH> talent and <WH>Omen of Clarity</WH> procs. You can also cast it whenever someone is on the brink of death. <WH>Abundance</WH> also causes Regrowth to crit almost always, which is one of the reasons Crit is such a poor stat for us in raid.
 
-### <WH>Swiftmend</WH>
+### Swiftmend
 
 ***Primary Role: Single target heal with a lot of effects attached.***
 
@@ -79,19 +79,19 @@ Instant heal on a 15 second cooldown. Removes a HoT from the target in the follo
 ---
 
 ## The Cooldowns
-### <WH>Tranquility</WH>
+### Tranquility
 
 Heals ALL allies within 40 yards and leaves a stacking hot on them for 8 seconds. This is a decent cooldown that we’ll usually assign alone as opposed to combining it with any of our other cooldowns. It's also often used for its cooldown reduction effect via the <WH>Dreamstate</WH> talent.
 
 > Tip: <WH>Tranquility</WH> benefits from your Mastery, so throw out a <WH>Wild Growth</WH> before you cast <WH>Tranquility</WH> to give it a boost.
 
-### <WH>Flourish</WH>
+### Flourish
 
 ***Primary Role: Major healing cooldown***
 
 Extends all HoTs by 6 seconds and increases your HoT tick rate for 8 seconds. This increased tick rate is a buff on yourself which means any HoTs you apply *after* you cast <WH>Flourish</WH> will also benefit. This is a strong healing cooldown on a short 60 second cooldown. In raid you can easily have 14++ rejuv buffs active when you press it which will generate a lot of healing. The extension also means that you will be able to follow your <WH>Rejuvenation</WH> ramp with <WH>Regrowths</WH> for free. In Mythic+ <WH>Flourish</WH> is only chosen in one of the two builds since it competes with the also excellent <WH>Photosynthesis</WH>
 
-### <WH>Convoke the Spirits</WH>
+### Convoke the Spirits
 
 ***Primary Role: Healing cooldown***
 
@@ -99,7 +99,7 @@ Extends all HoTs by 6 seconds and increases your HoT tick rate for 8 seconds. Th
 
 > Tip: <WH>Convoke</WH> can also be used offensively - particularly in Mythic+. Shift to Cat Form before you cast it and you'll get a lot of DPS spells since the spell distribution is based on which form you're in.
 
-### <WH>Incarnation: Tree of Life</WH>
+### Incarnation: Tree of Life
 
 ***Primary Role: Healing cooldown***
 
@@ -113,13 +113,13 @@ Extends all HoTs by 6 seconds and increases your HoT tick rate for 8 seconds. Th
 --- 
 
 ## The Defensives
-### <WH>Barkskin</WH>
+### Barkskin
 
 ***Primary Role: Personal Defensive***
 
 Reduces the damage you take by 20% for 8-12 seconds. This is off the global cooldown, so get into the habit of casting it whenever you’re in danger. You can also look at dangerous overlaps in a fight and aim to press your defensive there every single pull.
 
-### <WH>Ironbark</WH>
+### Ironbark
 
 ***Primary Role: External cooldown***
 
@@ -128,17 +128,17 @@ Reduces the damage your target takes by 20% for 12 seconds. Use this whenever ta
 ---
 
 ## Passives
-### <WH>Ysera's Gift</WH>
-A free heal on you, or a raid member every 5 seconds. It doesn’t benefit from Haste or Versatility, isn’t increased by your Mastery, and cannot critically heal. It’s just free healing.
+### Ysera's Gift
+<WH>Ysera's Gift</WH> is a free heal on you, or a raid member every 5 seconds. It doesn’t benefit from Haste or Versatility, isn’t increased by your Mastery, and cannot critically heal. It’s just free healing.
 
-### <WH>Omen of Clarity</WH>
+### Omen of Clarity
 <WH>Omen of Clarity</WH> rewards you with some free <WH>Regrowth</WH> casts for having <WH>Lifebloom</WH> up. Once again, it's just free healing.
 
 --- 
 
 ## The Other Stuff
 
-### <WH>Innervate</WH>
+### Innervate
 
 Allows you, or a targeted ally to cast spells for free for 8 seconds. In raid it’s up to you and your group to decide if this is best on yourself or another healer but the standard is to keep it for yourself.
 
@@ -147,11 +147,11 @@ Allows you, or a targeted ally to cast spells for free for 8 seconds. In raid it
 > **Tip:** Try not to time your <WH>Innervate</WH> as the big damage hits. Instead, cast it 8 seconds beforehand to get a blanket of <WH>Rejuvenation</WH>s out before the damage hits. Getting your HoTs out before damage hits is one of the keys to playing Resto Druid well.
 
 
-### <WH>Nature's Cure</WH>
+### Nature's Cure
 
 Our dispel. Dispels are on an 8 second cooldown, and remove all negative effects on the target. As a Druid we can cleanse anything that isn’t a disease, and dungeons in particular have many status effects that you can dispel. Make sure this is keybound and used frequently.
 
-### <WH>Ursol's Vortex</WH>
+### Ursol's Vortex
 
 A frequently forgotten about utility spell that has many applications in dungeons (and a few in raid too). It forms a cyclone at the targeted location which pulls back in mobs that escape as well as slowing them down. You can get pretty creative with its use but some examples include:
 - Keeping mobs away from the tank in Mythic+ dungeons.

@@ -19,7 +19,7 @@ There is a new Raid [Renown Track](https://www.wowhead.com/guide/raids/liberatio
 - There is a catch up mechanic for those unable to raid every week. 
 - One of the biggest perks is a stacking 3% damage and healing buff that you receive on Week 4, 6, 10, 13, 16, and 19 (for a total of 18%).  This serves as a soft nerf of the raid as the season progresses.
 
-The raid is linear. There are 4 tiers of item level within the raid, increasing in base item level as you progress.
+The raid includes 4 tiers of item level, increasing its starting base level as you progress.
 - Boss 1: Vexie
 - Bosses 2-4: Cauldron of Carnage, Rik Reverb, and Sprocketmonger Lockenstock
 - Bosses 5-6: Stix Bunkjunker and The One-Armed Bandit
