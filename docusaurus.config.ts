@@ -112,7 +112,7 @@ const config: Config = {
         src: 'img/QELogo.ico',
       },
       items: [
-        {href: 'https://questionablyepic.com/live', label: "QE Live App", position: 'left'},
+        {href: 'https://questionablyepic.com/live', label: "QE Live App", position: 'left', target: '_self'},
         {
           type: 'dropdown',
           position: 'left',
