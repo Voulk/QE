@@ -64,10 +64,10 @@ const config: Config = {
     [
       'classic',
       {
-        /*gtag: {
+        gtag: {
           trackingID: 'G-EJKGNKKW9S',
           anonymizeIP: true,
-        },*/
+        },
         docs: {
           sidebarPath: './sidebars.ts',
           path: 'resto-druid',
