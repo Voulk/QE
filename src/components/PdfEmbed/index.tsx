@@ -42,7 +42,7 @@ function PdfViewer({ src }: PdfEmbedProps) {
     // Ensure pdf.worker.min.mjs is set correctly
     useEffect(() => {
         import("react-pdf").then(({ pdfjs }) => {
-            pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
+            pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/legacy/build/pdf.worker.min.mjs`;
         });
 
         function handleResize() {
