@@ -9,9 +9,6 @@ import HeroTreeHeader from "../src/components/HeroTreeHeader"
 
 # Hero Talents: An Intro
 
-This is an example of inline text with an image   and more text.
-
-
 The War Within adds two *Hero Trees* for Mistweaver: <HeroTreeHeader heroTree="Conduit of the Celestials"/> and <HeroTreeHeader heroTree="Master of Harmony"/>. Unfortunately, <HeroTreeHeader heroTree="Master of Harmony" showImage={false} /> is currently tuned very poorly and it is very buggy/boring to play with so I will not really be talking about it since it’s just not competitive at all in raid. <HeroTreeHeader heroTree="Conduit of the Celestials" showImage={false} /> is going to be our premier hero talent choice. I will give a short introduction to each of the notable talents and how to play around with them in raid.
 
 
