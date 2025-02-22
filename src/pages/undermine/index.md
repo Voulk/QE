@@ -15,7 +15,7 @@ The following guides are designed around Heroic, with brief snippets at the bott
 
 ## Raid Information
 There is a new Raid [Renown Track](https://www.wowhead.com/guide/raids/liberation-of-undermine/gallagio-loyalty-rewards-club) that will provide a variety of perks as your Renown increases.  
-- You can Reputation by killing bosses each week on any difficulty, with a cap of 1 Renown per week.  
+- You earn Reputation by killing bosses each week on any difficulty, with a cap of 1 Renown per week.  
 - There is a catch up mechanic for those unable to raid every week. 
 - One of the biggest perks is a stacking 3% damage and healing buff that you receive on Week 4, 6, 10, 13, 16, and 19 (for a total of 18%).  This serves as a soft nerf of the raid as the season progresses.
 
