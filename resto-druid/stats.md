@@ -50,7 +50,7 @@ Run your gear through Questionably Epic Live. It has full support for stat dimin
 - **Potion:** <ITEM>Algari Mana Potion</ITEM> / <ITEM>Tempered Potion</ITEM>. Note that any potion that requires you sit and drink for 10 seconds is much worse now due to Master Shapeshifter.
 
 ### Enchants
-- **Weapon:** <ITEM>Fiery Resolve</ITEM>
+- **Weapon:** <ITEM>Fiery Resolve</ITEM> / <ITEM>Radiant Power</ITEM>
 - **Cloak:** <ITEM>Chant of Leeching Fangs</ITEM>
 - **Chest:** <ITEM>Crystalline Radiance</ITEM>
 - **Bracers:** <ITEM>Chant of Armored Leech</ITEM>
@@ -74,12 +74,12 @@ You can get custom, personalized trinket rankings on [QE Live](https://questiona
 ---
 
 ## Cyrce's Circlet
-<ITEM>Cyrce's Circlet</ITEM> is a special effect ring that drops from the [Siren Isle](https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring) content. It's worth wearing at least at the start of season 2 - and might hold up for quite a long time. Here are the recommended gems:
+<ITEM>Cyrce's Circlet</ITEM> is a special effect ring that drops from the [Siren Isle](https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring) content. You'll wear it in season 2 until its inevitable nerf. Here are the recommended gems:
 - **Thunder:** <ITEM>Stormbringer's Runed Citrine</ITEM>
 - **Sea:** <ITEM>Fathomdweller's Runed Citrine</ITEM>
 - **Wind:** <ITEM>Legendary Skipper's Citrine</ITEM>
 
-You can trade overall raid value for some minor HPS by slotting <ITEM>Old Salt's Bardic Citrine</ITEM>
+You can trade overall raid value for some minor HPS by slotting <ITEM>Old Salt's Bardic Citrine</ITEM>.
 
 
 ---

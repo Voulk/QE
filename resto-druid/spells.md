@@ -166,7 +166,7 @@ We also have some damage spells like <WH>Moonfire</WH>, <WH>Sunfire</WH>, <WH>Wr
 If you recast a hot that has less than 30% of its duration left on a target the remaining duration will be added to the refresh. So if you refresh a <WH>Lifebloom</WH> with 3 seconds remaining, that three seconds will be added to the 15 second fresh <WH>Lifebloom</WH> (for an 18 second total duration). This applies to all heal and damage over time effects which means there’s no cost to refreshing HoTs early within this zone. 30% is a little hard to remember so here are some proper numbers:
 
 - <WH>Lifebloom</WH>: 4.5s or less remaining.
-- <WH>Rejuvenation</WH>: 4.5s or less remaining.
+- <WH>Rejuvenation</WH>: 4.5s or less remaining (5.1s or less if you're talented into <WH>Germination</WH>).
 - <WH>Regrowth</WH>: 3.6s or less remaining.
  
 
