@@ -16,6 +16,7 @@ const itemMap = {
 
     // Enchants
     "Fiery Resolve": 223778,
+    "Radiant Power": 223781,
     "Chant of Leeching Fangs": 223737,
     "Crystalline Radiance": 223692,
     "Chant of Armored Leech": 223719,

@@ -13,9 +13,9 @@ Healing as a Resto Druid in Mythic+ is somewhat similar as healing a raid except
 ***Including most general pulls without notably dangerous mobs.***
 
 ![Maintenance Example](.\images\Druid-Maintenance.png)
-- <WH>Lifebloom</WH> is one of your most important spells. During low damage pulls you can just keep one on the tank by default. As damage ramps up put both on players that will take a lot of damage - often two DPS players. Uptime is extremely important since due to <WH>Photosynthesis</WH> (and to a lesser degree <WH>Verdancy</WH>).
-- Put <WH>Efflorescence</WH> down. Try and cover as many people as you can. There’s a real priority on being GCD efficient since the fewer you spend healing the more you can spend on damage. <WH>Efflorescence</WH> heals over a very long period of time and the <WH>Spring Blossoms</WH> HoTs gives you valuable mastery value.
-- Use <WH>Regrowth</WH> and <WH>Wild Growth</WH> to keep people healthy. Let your HoTs do most of the work. If they’re sitting on 80% health in <WH>Efflorescence</WH> then they’re fine. Both <WH>Efflorescence</WH>a nd <WH>Wild Growth</WH> are very GCD efficient. Remember that with <WH>Lifebloom</WH> out you’ll get more than one <WH>Regrowth</WH> HoT per cast via <WH>Rampant Growth</WH>.
+- <WH>Lifebloom</WH> is one of your most important spells. During low damage pulls you can just keep one on the tank by default. As damage ramps up put both on players that will take a lot of damage - often two DPS players. Uptime is extremely important due to <WH>Photosynthesis</WH> (and to a lesser degree <WH>Verdancy</WH>).
+- Put <WH>Efflorescence</WH> down. Try and cover as many people as you can. There’s a real priority on being GCD efficient since the fewer you spend healing the more you can spend on damage. <WH>Efflorescence</WH> heals over a very long period of time and the <WH>Spring Blossoms</WH> HoTs give you valuable mastery value.
+- Use <WH>Regrowth</WH> and <WH>Wild Growth</WH> to keep people healthy. Let your HoTs do most of the work. If they’re sitting on 80% health in <WH>Efflorescence</WH> then they’re fine. Both <WH>Efflorescence</WH> and <WH>Wild Growth</WH> are very GCD efficient. Remember that with <WH>Lifebloom</WH> out you’ll get more than one <WH>Regrowth</WH> HoT per cast via <WH>Rampant Growth</WH>.
 - You’ll be able to focus a lot on damage on these packs.
 
 
