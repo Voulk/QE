@@ -120,7 +120,11 @@ const config: Config = {
           href: '/blog/',
           items: [
             {
-              label: 'War Within Raid Trinkets',
+              label: 'Season Two Raid Trinkets',
+              href: '/blog/season-two-raid-trinkets',
+            },
+            {
+              label: 'Season One Raid Trinkets',
               href: '/blog/war-within-raid-trinkets',
             },
             {
