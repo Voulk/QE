@@ -44,6 +44,14 @@ const itemMap = {
     "Legendary Skipper's Citrine": 228646,
     "Mariner's Hallowed Citrine": 228644,
     "Old Salt's Bardic Citrine": 228643,
+
+    "Eye of Kezan": 230198,
+    "Gallagio Bottle Service": 230188,
+    "House of Cards": 230027,
+    "Mug's Moxie Jug": 230192,
+    "Reverb Radio": 230194,
+    "Mister Pick-me-up": 230196,
+    "Mister Pick-Me-Up": 230196,
 }
 
 export const checkExists = (itemName: string) => {
@@ -61,7 +69,7 @@ const ItemLink = ({ itemName }: ItemLinkProps) => {
   }
 
   return (
-    <a href={`https://www.wowhead.com/item=${itemId}`} target="_blank" rel="noopener noreferrer">
+    <a href={`https://www.wowhead.com/ptr-2/item=${itemId}`} target="_blank" rel="noopener noreferrer">
       {itemName}
     </a>
   );
