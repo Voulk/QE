@@ -26,7 +26,8 @@ Almost every raid trinket (except <ITEM>Eye of Kezan</ITEM>) on the PTR is curre
 There are two trinket archetypes in modern WoW:
 - Trinkets with passive intellect and a *small* effect. You expect these effects to do 2-3% of your healing. 
 - Trinkets with passive secondary stats and a **large** effect. You expect these effects to do 5% of your healing.
-When looking at how much something does on your meter you need to adjust your expectations for whether it was a small effect or a large one. Gallagio Bottle Service does 4% of your healing and Mr Pick-me-up does 3% then that's indeed a large win for the latter.
+
+When looking at how much something does on your meter you need to adjust your expectations for whether it was a small effect or a large one. If <ITEM>Gallagio Bottle Service</ITEM> does 4% of your healing and <ITEM>Mister Pick-me-up</ITEM> does 3% then that's a large win for the latter.
 
 
 ---
@@ -80,7 +81,7 @@ This is a very awkward trinket for them to nail the tuning on. It doesn't have i
 
 To double the size of the hit here, this trinket is not overtuned at all. In fact it does similar healing to Mr Pick-me-up which doesn't lock you out of your casts and also has a full intellect budget. Because the channel time is so long this is also a rare bad trinket that **I don't want them to buff**. I want to press my rotation during the most dangerous damage of the fight, I don't want to press a trinket instead. 
 
-The only possible salvage in my opinion is to make the channel occur whether you are pressing spells or not (so basically a 5s buff instead of a 5s channel) but that's a striking change that it's late in the PTR for.
+The only possible salvage in my opinion is to make the channel occur whether you are pressing spells or not (so basically a 5s buff instead of a 5s channel) but that's a striking change and the seasons release is nigh.
 
 --- 
 
