@@ -1,6 +1,7 @@
 ---
 slug: season-two-raid-trinkets
 title: Season 2 Raid Trinkets
+description: Learn more about the raid trinkets that drop in Nerub'ar Palace!
 image: https://i.imgur.com/PfgtA4J.png
 authors: [voulk]
 tags: [preview]

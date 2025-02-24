@@ -3,7 +3,7 @@ slug: war-within-raid-trinkets
 title: War Within Raid Trinkets
 image: https://questionablyepic.com/wp-content/uploads/2024/08/Raid-Trinkets.png
 authors: [voulk]
-description: Learn more about the raid trinkets that drop in Liberation of Undermine!
+description: Learn more about the raid trinkets that drop in Nerub'ar Palace!
 tags: [preview]
 ---
 
