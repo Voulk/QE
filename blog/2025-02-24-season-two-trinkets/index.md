@@ -1,13 +1,13 @@
 ---
 slug: season-two-raid-trinkets
 title: Season 2 Raid Trinkets
-description: Learn more about the raid trinkets that drop in Nerub'ar Palace!
+description: Learn more about the raid trinkets that drop in Liberation of Undermine!
 image: https://i.imgur.com/PfgtA4J.png
 authors: [voulk]
 tags: [preview]
 ---
 
-![TT Picture](./11.1TrinketBanner.png)
+![Learn more about the raid trinkets that drop in Liberation of Undermine!](./11.1TrinketBanner.png)
 
 An indepth breakdown of all of the raid trinkets coming in Liberation of Undermine in Season 2 of The War Within.
 
