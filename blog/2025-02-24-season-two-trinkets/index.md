@@ -148,7 +148,7 @@ They've also wisely buffered against overhealing a bit by adding a damage portio
     - If your spec presses buttons with any regularity (sorry Preservation) then it's quite easy to stack this up quickly. Even casting GCD-length spells with 20% haste will get you to 12 or so stacks + the free one you start with. That's an average of ~6000 crit per proc and you can expect a 30-40% uptime depending on bug fixes. Not bad.
 
 #### Verdict: Average? Average is good
-I honestly enjoy a trinket that pushes the "always be casting" creed by rewarding you further with extra stats. There isn't a ton to say on this trinket except that if you like crit and don't have 4 second casts in your kit then you'll probably like this. It's a particularly good fall back option if you don't have access to the S-tier trinkets like Eye of Rezan or if none of the other competitive trinkets like House of Cards fit your spec well.
+I honestly enjoy a trinket that pushes the "always be casting" creed by rewarding you further with extra stats. There isn't a ton to say on this trinket except that if you like crit and don't have 4 second casts in your kit then you'll probably like this. It's a particularly good fall back option if you don't have access to the S-tier trinkets like <ITEM>Eye of Kezan</ITEM> or if none of the other competitive trinkets like <ITEM>House of Cards</ITEM> fit your spec well.
 
 
 ---
@@ -158,7 +158,7 @@ I honestly enjoy a trinket that pushes the "always be casting" creed by rewardin
 ![Reverb Radio](./ReverbRadio.jpg)
 
 **Initial Rating: <span style={{color: 'yellow'}}>B+</span>**
-<p style={{lineHeight: '110%'}}>**Dropped By: Mug'zee, Heads of Security**</p>
+<p style={{lineHeight: '110%'}}>**Dropped By: Rik Reverb**</p>
 
 #### The Breakdown
 - #### You should know:
