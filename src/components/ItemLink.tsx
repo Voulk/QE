@@ -52,6 +52,10 @@ const itemMap = {
     "Reverb Radio": 230194,
     "Mister Pick-me-up": 230186,
     "Mister Pick-Me-Up": 230186,
+
+    "Signet of the Priory": 219308,
+    "Carved Blazikon Wax": 219305,
+    "Burin of the Candle King": 219306,
 }
 
 export const checkExists = (itemName: string) => {
