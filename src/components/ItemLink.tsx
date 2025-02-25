@@ -50,8 +50,8 @@ const itemMap = {
     "House of Cards": 230027,
     "Mug's Moxie Jug": 230192,
     "Reverb Radio": 230194,
-    "Mister Pick-me-up": 230196,
-    "Mister Pick-Me-Up": 230196,
+    "Mister Pick-me-up": 230186,
+    "Mister Pick-Me-Up": 230186,
 }
 
 export const checkExists = (itemName: string) => {
