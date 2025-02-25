@@ -10,7 +10,7 @@ import HeroTreeHeader from "../src/components/HeroTreeHeader"
 
 ## Raid Build
 
-![Raid Build](.\images\DruidRaidBuild1105.png)
+![Raid Build](.\images\DruidRaidBuild111.png)
 **Import Link:** CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZBDjttxyitZAAAAAAAAAAAAsMDYGGzoZGwMmZmZGmptZAAAAAAGAAMgllxCmmZWGAAgAWYMAmB
 
 ### Raid Talent Choices
@@ -27,15 +27,15 @@ You might assume that <WH>Unstoppable Growth</WH> is locked in but while we love
 
 ## Mythic+ Build
 
-In Mythic+ you have a ridiculous amount of choice over how you design your build. You can lean into <WH>Rejuvenation</WH>, which is an easy playstyle that should come naturally to raiders and newer players. Or, you can run a more traditional <WH>Lifebloom</WH> heavy build that's more GCD efficient, but requires an experienced pilot. For most I'd recommend the former but both see heavy play in higher keys. 
+In Mythic+ you have a ridiculous amount of choice over how you design your build. You can lean into <WH>Rejuvenation</WH>, which is an easy playstyle that should come naturally to raiders and newer players. Or, you can run a more traditional <WH>Lifebloom</WH> heavy build that's more GCD efficient, but requires an experienced pilot. For most I'd recommend the former but both see heavy play.
 
-> While we'll call these the "Rejuv" and "<WH>Lifebloom</WH>" builds, both spells are still used in both builds. 
+> While we'll call these the "Rejuv" and "Lifebloom" builds, both spells are still used in both builds. 
 
 <Tabs>
   <TabItem value="M+Rejuv" label="M+ Rejuv Build" default>
-    ![Mythic+ Rejuv Build](.\images\DruidMythic+RejuvBuild1107.png)
+    ![Mythic+ Rejuv Build](.\images\DruidMythic+RejuvBuild111.png)
     **Import Link:** 
-    - CkGAAAAAAAAAAAAAAAAAAAAAAsZmZGLMzMzsY2GGGbLjlFbzAAAAAAAAAAAAYZwgZwMCGzYMzMjZhpNGAAAAAwAAwMAAEAAwsNzWz2ML2wMDgB
+    - CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmBwsMzyMzwwMAAAAAgBAwAWWGLYamZZAAACYhxMDYmNMmB
     
     The Mythic+ <WH>Rejuvenation</WH> build (sometimes called LTB) is a fantastic choice for beginners since it lets you pour more healing into a given event at an efficiency cost which is rarely a negative when starting out. It also relies less on smart <WH>Lifebloom</WH> positioning and uptime though you'll still want to focus on that.
 
@@ -43,9 +43,9 @@ In Mythic+ you have a ridiculous amount of choice over how you design your build
 
   </TabItem>
   <TabItem value="M+LB" label="M+ Lifebloom Build">
-    ![Mythic+ Rejuv Build](.\images\DruidMythic+LifebloomBuild1107.png)
+    ![Mythic+ Rejuv Build](.\images\DruidMythic+LifebloomBuild111.png)
     **Import Link:** 
-    - CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZmFz2wDwYZZstYbGAAAAAAAAAAAALDGMDmRwYGjZmZMLMtxAAAAAAGAAzMAAEAAwsNzWz2ML2wMDMM
+    - CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbwYDmMMzMmFzyMDzYmZAAAAAAAgBAACAAY2mZrZbmFbMmBGmFQD
 
     The <WH>Lifebloom</WH> build is a more traditional Resto Druid build. It heals incredibly efficiently though requires strong lifebloom uptime and is slightly more difficult to play. 
   </TabItem>
