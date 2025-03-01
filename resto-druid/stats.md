@@ -66,21 +66,24 @@ Run your gear through Questionably Epic Live. It has full support for stat dimin
 
 The thought process here is to wear one of a few different types of gems to maximize the value of our meta gem, <ITEM>Elusive Blasphemite</ITEM>. Gem value is quite low this expansion so there's minimal loss in trading a few Haste + Mastery gems to get some extra movement speed. Fill your remaining slots with <ITEM>Masterful Emerald</ITEM>. 
 
----
-
-## Trinkets
-You can get custom, personalized trinket rankings on [QE Live](https://questionablyepic.com/live). It also lets you compare trinket at specific levels, and is always the most up to date information available.
 
 ---
 
 ## Cyrce's Circlet
-<ITEM>Cyrce's Circlet</ITEM> is a special effect ring that drops from the [Siren Isle](https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring) content. You'll wear it in season 2 until its inevitable nerf. Here are the recommended gems:
+<ITEM>Cyrce's Circlet</ITEM> is a special effect ring that drops from the [Siren Isle](https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring) content. You'll replace it with a 675+ Haste ring. Here are the recommended gems:
 - **Thunder:** <ITEM>Stormbringer's Runed Citrine</ITEM>
 - **Sea:** <ITEM>Fathomdweller's Runed Citrine</ITEM>
-- **Wind:** <ITEM>Legendary Skipper's Citrine</ITEM>
+- **Wind:** <ITEM>Windsinger's Runed Citrine</ITEM>
 
-You can trade overall raid value for some minor HPS by slotting <ITEM>Old Salt's Bardic Citrine</ITEM>.
+<ITEM>Cyrce's Circlet</ITEM> scales with the amount of mastery rating you have on gear, which means you will use it longer the more mastery you have. You can use [QE Live](https://questionablyepic.com/live) if you want a precise result and the chart below to give you a more general idea:
 
+![Circlet Chart](./images/CircletQE.png)
+
+
+---
+
+## Trinkets
+You can get custom, personalized trinket rankings on [QE Live](https://questionablyepic.com/live). It also lets you compare trinket at specific levels, and is always the most up to date information available.
 
 ---
 

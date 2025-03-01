@@ -44,6 +44,7 @@ const itemMap = {
     "Legendary Skipper's Citrine": 228646,
     "Mariner's Hallowed Citrine": 228644,
     "Old Salt's Bardic Citrine": 228643,
+    "Windsinger's Runed Citrine": 228644,
 
     "Eye of Kezan": 230198,
     "Gallagio Bottle Service": 230188,
