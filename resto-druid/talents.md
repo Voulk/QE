@@ -11,7 +11,7 @@ import HeroTreeHeader from "../src/components/HeroTreeHeader"
 ## Raid Build
 
 ![Raid Build](.\images\DruidRaidBuild111.png)
-**Import Link:** CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZBDjttxyitZAAAAAAAAAAAAsMDYGGzoZGwMmZmZGmptZAAAAAAGAAMgllxCmmZWGAAgAWYMAmB
+**Import Link:** CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmZAmlZWmZGGmBAAAAAMAAGwyyYBTzMLDAAQALMmZAzshRD
 
 ### Raid Talent Choices
 
@@ -35,7 +35,7 @@ In Mythic+ you have a ridiculous amount of choice over how you design your build
   <TabItem value="M+Rejuv" label="M+ Rejuv Build" default>
     ![Mythic+ Rejuv Build](.\images\DruidMythic+RejuvBuild111.png)
     **Import Link:** 
-    - CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmBwsMzyMzwwMAAAAAgBAwAWWGLYamZZAAACYhxMDYmNMmB
+    - CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYZbmZmxiZbMYstMzyitZAAAAAAAAAAAAsNIbwkhZmxsYWmZsMjZmBAAAAAAAAAABAAMbzs1sNziNGzAMzCoB
     
     The Mythic+ <WH>Rejuvenation</WH> build (sometimes called LTB) is a fantastic choice for beginners since it lets you pour more healing into a given event at an efficiency cost which is rarely a negative when starting out. It also relies less on smart <WH>Lifebloom</WH> positioning and uptime though you'll still want to focus on that.
 
@@ -45,7 +45,7 @@ In Mythic+ you have a ridiculous amount of choice over how you design your build
   <TabItem value="M+LB" label="M+ Lifebloom Build">
     ![Mythic+ Rejuv Build](.\images\DruidMythic+LifebloomBuild111.png)
     **Import Link:** 
-    - CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbwYDmMMzMmFzyMDzYmZAAAAAAAgBAACAAY2mZrZbmFbMmBGmFQD
+    - CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbQ2gJDzMjZxsMzYZGzMDAAAAAAAMAAQAAAz2MbNbzsYjxMwwsAaA
 
     The <WH>Lifebloom</WH> build is a more traditional Resto Druid build. It heals incredibly efficiently though requires strong lifebloom uptime and is slightly more difficult to play. 
   </TabItem>
