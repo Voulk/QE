@@ -27,7 +27,7 @@ This build takes <WH>Jade Empowerment</WH> without taking Jadefire Teachings ins
 ##### Sheilun’s Gift 
 
 This build takes Sheilun’s Gift instead of Dancing Mists but without any of the follow up talents. Sheilun’s Gift is an active that must be utilised correctly if you wish to have it out perform Dancing Mists but it can do better if a fight does a significant burst of AoE damage onto the raid that you can precast your SG into. With Sheilun’s Gift talented you will gain some bonus cooldown reduction from <WH>Heart of the Jade Serpent</WH> occasionally as well. This should be considered when you are calculating how much value it provides for you. For example: the heal absorb on One Armed Bandit.
-    - **Import Link:** C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYWYGDgZmZsMsxsNzsZbW2WmZWWYGNzMDMjZmFGsMjZY2GjBLmAAAAAgAsYZWWmlZmJAAwC
+    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGmxMWG2sNbzMsNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTLzyMLzilZZZ2mZmgAAbA 
 
 #### Single Target Sheilun’s Gift 
 
