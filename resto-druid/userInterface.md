@@ -30,7 +30,7 @@ WeakAuras is a crazy powerful addon that can perform almost any task. I'd advise
 
 **Why you want it:** A key to healing efficiently as a Druid is to have an Efflorescence down 100% of the time on most fights, especially if you take the Spring Blossoms talent. High lifebloom uptime is also essential due to the Photosynthesis talent. This Weak Aura will make it very obvious when you need to recast them by binding them to your cursor.
 
-**Combo Package:** https://wago.io/CursorCombo
+**Combo Package:** https://wago.io/cursorcombo
 
 ### Abundance Tracker
 ![Abundance Tracker](.\images\abundance-tracker.png)
