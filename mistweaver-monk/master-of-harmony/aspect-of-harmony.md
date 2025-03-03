@@ -17,7 +17,7 @@ import SideBySideFlex from "../../src/components/SideBySideFlexBox"
 
 As you heal or deal damage, 30% of your healing and 10% of your damage—or 40% with Way of a <WH>Way of a Thousand Strikes</WH>—is stored as Vitality.
 
-:::note[NOTE]
+:::info[NOTE]
 This doesn’t reduce your healing or damage output—you still deal 100% of your normal throughput.
 :::
 

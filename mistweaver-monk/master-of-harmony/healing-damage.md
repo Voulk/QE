@@ -92,6 +92,6 @@ With current tuning, I would still avoid using <WH>Spinning Crane Kick</WH> rota
 <FloatingImage title="What NOT to do" paragraph='Activating <WH>Thunder Focus Tea</WH> and then using damaging abilities outside of <WH>Tiger Palm</WH>, <WH>Blackout Kick</WH>, and <WH>Rising Sun Kick</WH> when intending to spend Vitality on damage.
 As shown, the <WH short="DoT">Aspect of Harmony DoT</WH> never applied because <WH>Crackling Jade Lightning</WH> isnt part of the <WH>Harmonic Gambit</WH>, resulting in zero Vitality being consumed from your reservoir.' image={require("../images/moh/Intensify-Damage-Nope.gif").default} />
 
-:::note[Reminder]
+:::info[Reminder]
 Any unused Vitality disappears if not fully consumed!
 :::

@@ -29,7 +29,7 @@ Intensify is a silly word for (approximately) doubling the value of your <WH>Asp
 
 <FloatingImage direction="ltr" title="Intensify" paragraph='In the example to the left, I dealt damage to the target applying an <WH>Aspect of Harmony HoT</WH> with a 5.9k tick. My <WH>Spinning Crane Kick</WH> is being used to intensify the <WH short="DoT">Aspect of Harmony DoT</WH>, doubling each time intensify procs. 5.9k » 11k » 23k » 47k » 95k » 191k » 382k » 764k » 1.5m' image={require("../images/moh/Intensify-Damage-Slow.gif").default} />
 
-:::note[NOTE]
+:::info[NOTE]
 If you have 0 vitality left, spread and intensification cannot occur as it requires vitality to pull from.
 
 At the current moment, we do not know the percent chance of  spread or intensification happening.
