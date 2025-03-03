@@ -50,3 +50,7 @@ blockquote > p {
 img[alt$="<"] {
   float: left;
 }
+
+table tr {
+  border-top: none;
+}
