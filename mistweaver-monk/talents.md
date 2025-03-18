@@ -19,15 +19,15 @@ Many talents have been changed slightly or reworked entirely coming into The War
 **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGmxMzywG2mZ2sNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTbzyMLzilZZZ2mZmgAAbA
 
 #### Alternative Builds
+##### Sheilun's Gift and Shaohao's Lessons 
+
+This build takes both Sheilun's Gift and <WH>Shaohao's Lessons</WH> and opts to take out a point in <WH>Misty Peaks</WH>. This build is our strongest build for maximizing HPS currently because Shaohao's has significant value inside our Celestial window. You want to use Sheilun's Gift to amplify your cooldowns as much as possible. Try to use Sheilun's Gift before Yu'lon with Lesson of Fear (haste) or with Lesson of Despair (crit). You can also use Sheilun's Gift to buff your Zen Pulse windows if you recognize you are going to get significant value from that. I recommend using this build on basically every fight where you are looking to maximize your HPS:
+    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGmxMWG2sNbzMsNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTLzyMLzilZZZ2mZmgAAbA 
+
 ##### DPS Focused Build
 
 This build takes <WH>Jade Empowerment</WH> without taking Jadefire Teachings instead of taking Mending Proliferation. This build will see a good amount of play for those who are wishing to maximize their DPS contribution in progression raiding. You are sacrificing ~4% HPS by dropping Mending Proliferation in order to get 30% more DPS from Crackling Jade Lightning. I recommend this build on fights where you do not need that much HPS and DPS matters more. 
-- **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGbzYmZZYDbzMsNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTLzyMLzilZZZ2mZmgAAbA
-
-##### Sheilun’s Gift 
-
-This build takes Sheilun’s Gift instead of Dancing Mists but without any of the follow up talents. Sheilun’s Gift is an active that must be utilised correctly if you wish to have it out perform Dancing Mists but it can do better if a fight does a significant burst of AoE damage onto the raid that you can precast your SG into. With Sheilun’s Gift talented you will gain some bonus cooldown reduction from <WH>Heart of the Jade Serpent</WH> occasionally as well. This should be considered when you are calculating how much value it provides for you. For example: the heal absorb on One Armed Bandit.
-    - **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzywGmxMWG2sNbzMsNLbbzMLLMjmZmBmhZwwsNjZY2YMDLmAAAAAMLTLzyMLzilZZZ2mZmgAAbA 
+- **Import Link:** C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAAjZhZgN2mxMzyDwmtZbmhtZZbbmZZhZ0MzMwMMDGsNjZY2YmZYxEAAAAgZZaZWmZZWsMLLz2MzEEAYD
 
 #### Single Target Sheilun’s Gift 
 
