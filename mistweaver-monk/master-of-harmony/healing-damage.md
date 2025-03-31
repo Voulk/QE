@@ -28,8 +28,6 @@ Direct sources include but are not limited to:
 
 Assume everything works except <WH>Ancient Teachings</WH>.
 
-<FloatingImage title="Injured Target" paragraph='Injured target receiving the <WH short="HoT">Aspect of Harmony HoT</WH> immediately upon <WH>Renewing Mist</WH> healing.' image={require("../images/moh/Aspect-Healing.gif").default} />
-
 ### HoT management
 ###### Tracked by Spell ID: **450769**  
 
