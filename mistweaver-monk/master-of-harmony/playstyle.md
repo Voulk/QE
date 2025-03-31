@@ -37,7 +37,7 @@ At this point, you can continue normal healing with <WH>Vivify</WH> and/or plann
 If any Vitality remains unused, <WH>Purified Spirit</WH> will activate, distributing the leftover amount evenly across the raid as a HoT.
 
 ### Current Tuning
-Currently, Master of Harmony is tuned quite poorly and doesn't see play in Raids. The recent change to Aspect of Harmony applying via overhealing made it even worse for healing as you're wasting the heal on full HP targets.
+Currently, Master of Harmony is tuned quite poorly and doesn't see play in Raids. The recent change to Aspect of Harmony applying via overhealing made it even worse for healing as you're wasting the heal on full HP targets. I'd stick with <HeroTreeHeader heroTree="Conduit of the Celestials" showImage={false}/> in all cases.
 
 ### Video Explanation
 For a detailed breakdown of raid healing with <HeroTreeHeader heroTree="Master of Harmony" showImage={false}/>, I highly recommend watching [Sweggles' video](https://www.youtube.com/watch?v=nw21Br5v8x8) before attempting it yourself.
