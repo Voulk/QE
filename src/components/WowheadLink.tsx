@@ -3,7 +3,7 @@ import spellMap from '@site/src/components/SpellLinks.json';
 
 type WowheadLinkProps = {
   spellName: string;
-  short?: string; // Optional short name field
+  short?: string;
 };
 
 export const checkExists = (spellName: string) => {
@@ -17,19 +17,19 @@ const WowheadLink = ({ spellName, short }: WowheadLinkProps) => {
 
   if (!spellId) {
     console.warn(`Spell "${spellName}" not found in spellMap.`);
-    return <span>{spellName}</span>; // Fallback to plain text if spell is not found
+    return <span>{spellName}</span>;
   }
 
   return (
     <a href={`https://www.wowhead.com/spell=${spellId}`} target="_blank" rel="noopener noreferrer">
-      {short || spellName}{/* Use shortName if provided, otherwise fallback to spellName */}
+      {short || spellName}
     </a>
   );
 };
 
 type WowheadShorthandProps = {
   children: string;
-  short?: string; // Optional short name field for shorthand component
+  short?: string; 
 };
 
 export const WH = ({ children, short }: WowheadShorthandProps) => {
