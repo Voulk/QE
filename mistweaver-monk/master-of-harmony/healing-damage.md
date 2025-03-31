@@ -28,11 +28,6 @@ Direct sources include but are not limited to:
 
 Assume everything works except <WH>Ancient Teachings</WH>.
 
-#### Quirks
-The <WH short="HoT">Aspect of Harmony HoT</WH> application is… a bit odd! It can only be applied when you are actually healing an **injured target**. This means that <WH short="HoT">Aspect of Harmony HoT</WH> will NOT apply to someone who is 100% health. An implication of this is that healing absorbs will not allow you to apply the HoT on the target since you are healing the healing absorb, not the actual target.
-
-<FloatingImage title="Full HP Target" paragraph='Full HP Target not receiving the <WH short="HoT">Aspect of Harmony HoT</WH> regardless of overhealing.' image={require("../images/moh/Aspect-Healing-FullHP.gif").default} />
-
 <FloatingImage title="Injured Target" paragraph='Injured target receiving the <WH short="HoT">Aspect of Harmony HoT</WH> immediately upon <WH>Renewing Mist</WH> healing.' image={require("../images/moh/Aspect-Healing.gif").default} />
 
 ### HoT management
@@ -74,23 +69,20 @@ Talenting into <WH>Harmonic Gambit</WH> allows for <WH>Tiger Palm</WH>, <WH>Blac
 ### Application
 40% of the damage you deal is converted into the total amount of the DoT on the targets you’ve dealt damage to but ONLY from <WH>Tiger Palm</WH>, <WH>Blackout Kick</WH>, and <WH>Rising Sun Kick</WH>.
 
-#### Quirks
-The <WH short="DoT">Aspect of Harmony DoT</WH> application follows similar application rules as the <WH short="HoT">Aspect of Harmony HoT</WH>. It can only be applied when you are dealing **DIRECT** damage to the target, meaning absorb shields will not allow you to apply the <WH short="DoT">Aspect of Harmony DoT</WH> on the target since you are dealing damage to the absorb shield, not the target.
-
 ### DoT management
 ###### Tracked by Spell ID: 450763 
 
 <FloatingImage title="Tiger Palm, Blackout Kick, Rising Sun Kick" paragraph='I continuously strike my target with <WH>Tiger Palm</WH>, <WH>Blackout Kick</WH>, and <WH>Rising Sun Kick</WH>, directly contributing to the <WH short="DoT">Aspect of Harmony DoT</WH>’s damage. Since I keep attacking while the <WH short="DoT">Aspect of Harmony DoT</WH> is active, my future abilities benefit from the 20% <WH>Coalescence</WH> damage increase, and 40% of each hit continues stacking onto the target, refreshing the <WH short="DoT">Aspect of Harmony DoT</WH>’s duration. This cycle persists until either my <WH short="Withdraw">Aspect of Harmony Withdraw</WH> window ends or my Vitality is fully depleted.' image={require("../images/moh/Aspect-Damage.gif").default} />
 
 
-<FloatingImage direction="rtl" title="Intensify" paragraph='I applied <WH>Aspect of Harmony DoT</WH> onto my target through one <WH>Tiger Palm</WH> and continued to “intensify” the <WH short="DoT">Aspect of Harmony DoT</WH> by <WH>Spinning Crane Kick</WH>. Although that ability isnt mentioned in the <WH>Harmonic Gambit</WH> tooltip, <WH>Coalescence</WH> intensification applies to any damage dealt.' image={require("../images/moh/Intensify-Damage.gif").default} />
+<FloatingImage direction="rtl" title="Intensify" paragraph="I applied <WH>Aspect of Harmony DoT</WH> onto my target through one <WH>Tiger Palm</WH> and continued to “intensify” the <WH short='DoT'>Aspect of Harmony DoT</WH> by <WH>Spinning Crane Kick</WH>. Although that ability isn't mentioned in the <WH>Harmonic Gambit</WH> tooltip, <WH>Coalescence</WH> intensification applies to any damage dealt." image={require("../images/moh/Intensify-Damage.gif").default} />
 
 > This happens naturally with your regular <WH>Tiger Palm</WH>, <WH>Blackout Kick</WH>, and <WH>Rising Sun Kick</WH> rotation, as well. 
 With current tuning, I would still avoid using <WH>Spinning Crane Kick</WH> rotationally. 
 
 
-<FloatingImage title="What NOT to do" paragraph='Activating <WH>Thunder Focus Tea</WH> and then using damaging abilities outside of <WH>Tiger Palm</WH>, <WH>Blackout Kick</WH>, and <WH>Rising Sun Kick</WH> when intending to spend Vitality on damage.
-As shown, the <WH short="DoT">Aspect of Harmony DoT</WH> never applied because <WH>Crackling Jade Lightning</WH> isnt part of the <WH>Harmonic Gambit</WH>, resulting in zero Vitality being consumed from your reservoir.' image={require("../images/moh/Intensify-Damage-Nope.gif").default} />
+<FloatingImage title="What NOT to do" paragraph="Activating <WH>Thunder Focus Tea</WH> and then using damaging abilities outside of <WH>Tiger Palm</WH>, <WH>Blackout Kick</WH>, and <WH>Rising Sun Kick</WH> when intending to spend Vitality on damage.
+As shown, the <WH short='DoT'>Aspect of Harmony DoT</WH> never applied because <WH>Crackling Jade Lightning</WH> isn't part of <WH>Harmonic Gambit</WH>, resulting in zero Vitality being consumed from your reservoir." image={require("../images/moh/Intensify-Damage-Nope.gif").default} />
 
 :::info[Reminder]
 Any unused Vitality disappears if not fully consumed!
