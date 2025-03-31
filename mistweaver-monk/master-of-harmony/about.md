@@ -9,16 +9,17 @@ import FloatingImage from "../../src/components/FloatingImage"
 
 ## Author Note
 
-Hi, I'm Swirl. :) <HeroTreeHeader heroTree="Master of Harmony" showImage={false}/> has gotten an absolute ton of attention since the buff mid Season 1 of The War Within. There's been a lot of speculation and questions regarding how the tree works and what best practices come along with it -- so I wrote this guide to move that along!
+Hi, I'm Swirl. :) Since the mid-Season 1 buff to <HeroTreeHeader heroTree="Master of Harmony"/>, the tree has gained an absolute ton of attention. With its somewhat mysterious mechanics sparking plenty of speculation and questions, I’ve put together this guide to help clear things up!
 
 #### TLDR:
-> Press spells, gain resource.  
-> Press TFT, spend resource by pressing more spells.  
-> Press even more spells after resource is spent.
+> Press spells → gain resource.  
+> Press Thunder Focus Tea → begin spending resource by pressing more spells.  
+> Press even more spells after resource is fully spent → deal extra healing and damage.  
+> Repeat!
 
 ## About Master of Harmony
 
-<HeroTreeHeader heroTree="Master of Harmony"/> is a hero tree centered around the <WH>Aspect of Harmony</WH>, where you generate and spend a new resource called **Vitality** to enhance your healing—or damage if you talent into <WH>Harmonic Gambit</WH>—bolstering the rest of your abilities.
+<HeroTreeHeader heroTree="Master of Harmony"/> is a hero tree centered around <WH>Aspect of Harmony</WH>, where you generate and spend a new resource called **Vitality** to enhance your healing—or damage if you talent into <WH>Harmonic Gambit</WH>—bolstering the rest of your abilities.
 
 You accumulate Vitality as a portion of all healing and damage you deal, up to a cap equal to your maximum health.
 
