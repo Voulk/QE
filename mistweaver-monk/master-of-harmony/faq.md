@@ -6,9 +6,6 @@ description: Learn how to play Mistweaver in the War Within. Updated for 11.1.
 
 import HeroTreeHeader from "../../src/components/HeroTreeHeader"
 
-#### Why isn’t <HeroTreeHeader heroTree="Master of Harmony" showImage={false}/> applying an <WH>Aspect of Harmony HoT</WH> when I use <WH>Thunder Focus Tea</WH>?
-> Ensure you’re healing an injured target, as it won’t apply to allies at full health.
-
 #### My vitality isn’t full, and I have no cooldowns left, but I have <WH>Thunder Focus Tea</WH> charges for an incoming damage phase. Should I use it?
 > Yes! Use <WH>Thunder Focus Tea</WH> as you normally would, gain a <WH>Jade Empowerment</WH> charge, and keep healing your group regardless of vitality.
 
@@ -28,7 +25,7 @@ import HeroTreeHeader from "../../src/components/HeroTreeHeader"
 > No, unfortunately not. While <WH short="DoT">Aspect of Harmony DoT</WH> does boost your damage, that extra damage isn’t factored into <WH>Ancient Teachings</WH> healing. Additionally, if an <WH>Ancient Teachings</WH> heal heals someone with the <WH short="HoT">Aspect of Harmony HoT</WH>, they won't receive extra healing from it. This is likely a bug on the healing amp side.
 
 ####  Should my <WH>Aspect of Harmony HoT</WH> appear as low healing on my logs?
-> In raids, no—it should be one of your highest HPS entries. In Mythic+, yes, lower healing values are expected—around 1% HPS depending on the dungeon.
+> In raids, no—it should be one of your highest HPS entries. In Mythic+, yes, lower healing values are expected—around 1-3% HPS depending on the dungeon.
 
 ####  What’s the deal with <WH>Balanced Stratagem</WH>?
-> Don’t stress over <WH>Balanced Stratagem</WH>—treat it as a passive bonus. In most situations where it could be optimized, you won’t have the freedom to hold globals or alter your rotation to buff a specific spell.
+> Don’t stress over <WH>Balanced Stratagem</WH>—treat it as a passive bonus. In most situations where it could be optimized, you won’t have the freedom to hold globals or alter your rotation to buff a specific spell. I personally don't track it in any capacity.
