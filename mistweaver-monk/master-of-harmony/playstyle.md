@@ -36,6 +36,9 @@ At this point, you can continue normal healing with <WH>Vivify</WH> and/or plann
 
 If any Vitality remains unused, <WH>Purified Spirit</WH> will activate, distributing the leftover amount evenly across the raid as a HoT.
 
+### Current Tuning
+Currently, Master of Harmony is tuned quite poorly and doesn't see play in Raids. The recent change to Aspect of Harmony applying via overhealing made it even worse for healing as you're wasting the heal on full HP targets.
+
 ### Video Explanation
 For a detailed breakdown of raid healing with <HeroTreeHeader heroTree="Master of Harmony" showImage={false}/>, I highly recommend watching [Sweggles' video](https://www.youtube.com/watch?v=nw21Br5v8x8) before attempting it yourself.
 
@@ -51,7 +54,7 @@ When using <WH>Aspect of Harmony</WH> for healing, the focus is on applying the 
 
 #### Why This Works
 
-<WH>Aspect of Harmony</WH> HoT benefits from <WH>Coalescence</WH>, meaning spells like <WH>Sheilun’s Gift</WH> and <WH>Revival</WH> (as well as all other healing abilities) receive a significant boost, further increasing overall healing output.
+<WH>Aspect of Harmony HoT</WH> benefits from <WH>Coalescence</WH>, meaning spells like <WH>Sheilun’s Gift</WH> and <WH>Revival</WH> (as well as all other healing abilities) receive a significant boost, further increasing overall healing output.
 
 ### Shifting to Damage
 
@@ -68,22 +71,19 @@ These rotations are not all encapsulating - some are better than others, some ar
 ### Pure Healing
 > Assume <WH>Thunder Focus Tea</WH> is pressed as damage to your party occurs.
 
-<!-- i hate this implementation of the timeline but i wanted to get it done quick
-probably want a masterofharmony/timelines/timeline.json as a parameter into timeline
-i do really like wowhead's implementation of the timeline tho -->
-<Timeline spellsIndex="0" />
-<Timeline spellsIndex="1" />
-<Timeline spellsIndex="2" />
+<Timeline spellNames={["Renewing Mist", "Renewing Mist", "Thunder Focus Tea", "Enveloping Mist", "Vivify", "Vivify", "Vivify"]} />
+<Timeline spellNames={["Thunder Focus Tea", "Sheilun's Gift"]} />
+<Timeline spellNames={["Enveloping Mist", "Enveloping Mist", "Enveloping Mist", "Thunder Focus Tea", "Revival"]} />
 
 ### Pure Damage <font size="1">(kinda)</font>
-> <WH>Aspect of Harmony</WH> can still apply the <WH short="HoT">Aspect of Harmony HoT</WH> onto injured party members from existing HoTs, <WH>Gust of Mists</WH> from <WH>Crane Style</WH>, <WH>Rapid Diffusion</WH> creating new <WH>Renewing Mist</WH>s, <WH>Coalescence</WH>'s intensify and more!
-<Timeline spellsIndex="3" />
-<Timeline spellsIndex="4" />
-<Timeline spellsIndex="5" />
-
+> <WH>Aspect of Harmony</WH> can still apply the <WH short="HoT">Aspect of Harmony HoT</WH> onto party members from existing HoTs, <WH>Gust of Mists</WH> from <WH>Crane Style</WH>, <WH>Rapid Diffusion</WH> creating new <WH>Renewing Mist</WH>s, <WH>Coalescence</WH>'s intensify and more!
+<Timeline spellNames={["Thunder Focus Tea", "Tiger Palm", "Rising Sun Kick", "Tiger Palm", "Rising Sun Kick", "Blackout Kick"]} />
+<Timeline spellNames={["Thunder Focus Tea", "Tiger Palm", "Rising Sun Kick", "Tiger Palm", "Rising Sun Kick", "Blackout Kick", "Crackling Jade Lightning"]} />
+<Timeline spellNames={["Thunder Focus Tea", "Rising Sun Kick", "Crackling Jade Lightning", "Rising Sun Kick"]} />
 
 ### Both
 > Assume <WH>Thunder Focus Tea</WH> is pressed as damage to your party occurs.
-<Timeline spellsIndex="6" />
-<Timeline spellsIndex="7" />
-<Timeline spellsIndex="8" />
+<Timeline spellNames={["Tiger Palm", "Tiger Palm", "Chi-Ji", "Thunder Focus Tea", "Enveloping Mist", "Blackout Kick", "Enveloping Mist", "Rising Sun Kick", "Blackout Kick", "Enveloping Mist"]} />
+<Timeline spellNames={["Renewing Mist", "Renewing Mist", "Thunder Focus Tea", "Rising Sun Kick", "Vivify", "Rising Sun Kick", "Vivify"]} />
+<Timeline spellNames={["Enveloping Mist", "Enveloping Mist", "Enveloping Mist", "Thunder Focus Tea", "Rising Sun Kick", "Sheilun's Gift", "Rising Sun Kick", "Tiger Palm", "Tiger Palm", "Blackout Kick"]} />
+
