@@ -20,6 +20,7 @@ const sidebars: SidebarsConfig = {
   monkSidebar: [
     '11.1-FAQ',
     'playstyle',
+    'chiji',
     'herotalents',
     'talents',
     {
