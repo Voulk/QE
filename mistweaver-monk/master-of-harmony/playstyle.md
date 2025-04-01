@@ -36,6 +36,9 @@ At this point, you can continue normal healing with <WH>Vivify</WH> and/or plann
 
 If any Vitality remains unused, <WH>Purified Spirit</WH> will activate, distributing the leftover amount evenly across the raid as a HoT.
 
+### Thunder Focus Tea Usage
+Reference the [Raid 11.1 FAQ](../11.1-FAQ#thunder-focus-tea) for recommendations on what spells to consume <WH>Thunder Focus Tea</WH> with.
+
 ### Current Tuning
 Currently, Master of Harmony is tuned quite poorly and doesn't see play in Raids. The recent change to Aspect of Harmony applying via overhealing made it even worse for healing as you're wasting the heal on full HP targets. I'd stick with <HeroTreeHeader heroTree="Conduit of the Celestials" showImage={false}/> in all cases.
 
@@ -65,6 +68,16 @@ When <WH>Aspect of Harmony</WH> isn't needed for healing, you can instead funnel
 
 Most of the time, you’ll be balancing both healing and damage simultaneously, unless a situation demands full commitment to one or the other.
 
+### Thunder Focus Tea Usage
+Consuming <WH>Thunder Focus Tea</WH> inside of Mythic+ dungeons will continue to be situational dependent on the scenario you are in, taking <WH>Secret Infusion</WH> into account but there are a few quirks with Vitality and spending the resource.
+- <WH>Rising Sun Kick</WH>—the default choice. Additional damage, additional <WH>Ancient Teachings</WH> healing, additional <WH>Chi Harmony</WH> <WH>Renewing Mist</WH>s created through <WH>Rapid Diffusion</WH>. 
+  - Do note, if you want to use <WH>Aspect of Harmony</WH> for healing, you run the risk of dumping vitality into damage unintentionally by applying and continually dealing damage into an <WH>Aspect of Harmony DoT</WH>.
+- <WH>Enveloping Mist</WH>—a useful instant heal and application of the <WH>Enveloping Mist</WH> HoT. Applies an <WH>Aspect of Harmony HoT</WH> immediately upon healing, creates a new <WH>Chi Harmony</WH> <WH>Renewing Mist</WH> through <WH>Rapid Diffusion</WH>. Reduces the risk of vitality dumping into damage.
+- <WH>Expel Harm</WH>—personal defensive, but adds a lot of vitality into your <WH>Aspect of Harmony HoT</WH> even considering overhealing. Use this only if you don't have a defensive available and are unable to live a damage instance.
+- <WH>Renewing Mist</WH>—the least used option of the bunch. Works great during rot fights to extend the duration of <WH>Renewing Mist</WH> with <WH>Rising Mist</WH>, but does not strengthen your healing as much as Crit and Versatility will through the other <WH>Secret Infusion</WH> buffs.
+- <WH>Vivify</WH>— avoid at all costs. Does nothing but makes <WH>Vivify</WH> free and the mastery you gain via <WH>Secret Infusion</WH> is not giving the correct amount currently.
+
+For the most part, stick with <WH>Enveloping Mist</WH> when you need healing and <WH>Rising Sun Kick</WH> when you'd like to deal damage.
 
 ## Timeline of Events
 These rotations are not all encapsulating - some are better than others, some are just examples of what you can do to make use of <WH>Aspect of Harmony</WH>.

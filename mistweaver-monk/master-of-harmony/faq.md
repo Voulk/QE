@@ -9,6 +9,9 @@ import HeroTreeHeader from "../../src/components/HeroTreeHeader"
 #### My vitality isn’t full, and I have no cooldowns left, but I have <WH>Thunder Focus Tea</WH> charges for an incoming damage phase. Should I use it?
 > Yes! Use <WH>Thunder Focus Tea</WH> as you normally would, gain a <WH>Jade Empowerment</WH> charge, and keep healing your group regardless of vitality.
 
+#### What do I spend <WH>Thunder Focus Tea</WH> on?
+> Reference the [Raid 11.1 FAQ](../11.1-FAQ#thunder-focus-tea) or the [Mythic+ Playstyle Shifts](playstyle#thunder-focus-tea-usage-1) sections of the respective Mistweaver guides.
+
 #### Why doesn’t <WH>Rushing Wind Kick</WH> apply <WH>Aspect of Harmony DoT</WH>?
 > Seemingly an oversight on <WH>Harmonic Gambit</WH>’s spelldata - it does not allow for <WH>Aspect of Harmony DoT</WH> to apply through <WH>Rushing Wind Kick</WH>.
 
