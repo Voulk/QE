@@ -12,9 +12,6 @@ import HeroTreeHeader from "../../src/components/HeroTreeHeader"
 #### What do I spend <WH>Thunder Focus Tea</WH> on?
 > Reference the [Raid 11.1 FAQ](../11.1-FAQ#thunder-focus-tea) or the [Mythic+ Playstyle Shifts](playstyle#thunder-focus-tea-usage-1) sections of the respective Mistweaver guides.
 
-#### Why doesn’t <WH>Rushing Wind Kick</WH> apply <WH>Aspect of Harmony DoT</WH>?
-> Seemingly an oversight on <WH>Harmonic Gambit</WH>’s spelldata - it does not allow for <WH>Aspect of Harmony DoT</WH> to apply through <WH>Rushing Wind Kick</WH>.
-
 ####  Should I tab target mobs to apply <WH>Aspect of Harmony DoT</WH>?
 > No need! <WH>Blackout Kick</WH> should distribute the DoT fairly evenly among a pack of mobs.
 
