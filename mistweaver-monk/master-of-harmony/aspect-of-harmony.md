@@ -38,4 +38,4 @@ To maximize effectiveness, the goal is to spend your entire Vitality pool before
 I strongly suggest using a WeakAura to track your vitality:  
 | [Progress Bar](https://wago.io/H-BqbpSOt)         |  [Icon](https://wago.io/51Hb_dq-7)    |
 | --------                                          | -------                               |
-| ![Progress Bar](..\images\moh\WAProgressBar.gif)  |  ![Icon](..\images\moh\WAIcon.png)    |
+| [![Progress Bar](..\images\moh\WAProgressBar.gif)](https://wago.io/H-BqbpSOt)  |  [![Icon](..\images\moh\WAIcon.png)](https://wago.io/51Hb_dq-7)    |
