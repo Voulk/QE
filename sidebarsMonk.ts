@@ -23,6 +23,21 @@ const sidebars: SidebarsConfig = {
     'chiji',
     'herotalents',
     'talents',
+    {
+      type: 'category',
+      label: 'Master of Harmony',
+      items: [
+        'master-of-harmony/about',
+        'master-of-harmony/aspect-of-harmony',
+        'master-of-harmony/healing-damage',
+        'master-of-harmony/coalescence',
+        'master-of-harmony/playstyle',
+        'master-of-harmony/cheat-sheet',
+        'master-of-harmony/tips-and-tricks',
+        'master-of-harmony/faq'
+      ],
+      collapsed: true,
+    },
   ]
 };
 
