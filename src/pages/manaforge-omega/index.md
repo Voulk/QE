@@ -1,3 +1,9 @@
+---
+title: Manaforge Omega
+image: https://i.imgur.com/KUYYksS.png
+description: One page PDF boss guides for the Manaforge Omega raid
+---
+
 # Manaforge Omega
 
 The Manaforge Omega is a new eight boss raid. The raid opens on all three difficulties (Normal, Heroic, and Mythic) on August 12th (NA).
@@ -21,7 +27,7 @@ There is a new Raid [Renown Track](https://www.wowhead.com/guide/raids/manaforge
 The raid includes 3 tiers of item level, increasing its starting base level as you progress.
 - **Tier 1 (Bosses 1-3):** Plexus Sentinel, Loom'ithar, and Soulbinder Naazindhri all drop loot at 697 IL in heroic.
 - **Tier 2 (Bosses 4-6):** Forgeweaver Araz, The Soul Hunters, and Fractillus all drop loot at 701 IL in heroic.
-- **Tier 3 (Bosses 7-8):** Nexus-King Salhadaar and Dimensius all drop loot at 705 IL in heroic.
+- **Tier 3 (Bosses 7-8):** Nexus-King Salhadaar and Dimensius all drop loot at 704 IL in heroic.
 
 Notably while there are cantrip/unique items, there are no "Very Rare" drops this tier, so these items will not drop with the bonus item level of past rare items.
 - **Boots (The Soul Hunters):** Increases the power of your Cloak, causing it to trigger 50% more frequently.

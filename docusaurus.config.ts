@@ -161,7 +161,7 @@ const config: Config = {
           position: 'left',
           label: 'Manaforge Omega',
           href: '/manaforge-omega/',
-          //href: '/nerubar-palace/',
+          to: '/manaforge-omega/',
           items: [
             {
               label: 'Table of Contents',
