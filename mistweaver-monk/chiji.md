@@ -1,7 +1,7 @@
 ---
 title: How to Play Chi-ji
 image: https://i.imgur.com/b8hPvXi.png
-description: Learn how to play the Chi-ji Mistweaver Build in the War Within. Updated for 11.1.
+description: Learn how to play the Chi-ji Mistweaver Monk Build in the War Within. Updated for 11.1 Season 2.
 ---
 
 
