@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/05Soulhunters.pdf';
+import pdf from './pdfs/05SoulHunters.pdf';
 
 
 # The Soul Hunters
