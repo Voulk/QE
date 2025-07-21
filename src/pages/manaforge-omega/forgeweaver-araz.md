@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/04forgeweaver.pdf';
+import pdf from './pdfs/04Forgeweaver.pdf';
 
 
 # Forgeweaver Araz

@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/01plexus.pdf';
+import pdf from './pdfs/01Plexus.pdf';
 
 
 # Plexus Sentinel 

@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/02loomithar.pdf';
+import pdf from './pdfs/02Loomithar.pdf';
 
 
 # Loom'ithar

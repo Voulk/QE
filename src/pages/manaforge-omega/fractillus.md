@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/06fractillus.pdf';
+import pdf from './pdfs/06Fractillus.pdf';
 
 
 # Fractillus

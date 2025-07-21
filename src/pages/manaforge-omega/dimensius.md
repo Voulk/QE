@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/08dimensius.pdf';
+import pdf from './pdfs/08Dimensius.pdf';
 
 
 # Dimensius

@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/03soulbinder.pdf';
+import pdf from './pdfs/03Soulbinder.pdf';
 
 
 # Soulbinder Naazindhri
