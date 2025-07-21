@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/07Nexusking.pdf';
+import pdf from './pdfs/07NexusKing.pdf';
 
 
 # Nexus King Salhadaar
