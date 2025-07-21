@@ -159,45 +159,45 @@ const config: Config = {
         {
           type: 'dropdown',
           position: 'left',
-          label: 'Undermine',
-          href: '/undermine/',
+          label: 'Manaforge Omega',
+          href: '/manaforge-omega/',
           //href: '/nerubar-palace/',
           items: [
             {
               label: 'Table of Contents',
-              to: '/undermine/',
+              to: '/manaforge-omega/',
             },
             {
-              label: 'Vexie and the Geargrinders',
-              to: '/undermine/vexie',
+              label: 'Plexus Sentinel',
+              to: '/manaforge-omega/plexus-sentinel',
             },
             {
-              label: 'Cauldron of Carnage',
-              to: '/undermine/cauldron-of-carnage',
+              label: 'Loom\'ithar',
+              to: '/manaforge-omega/loomithar',
             },
             {
-              label: 'Rik Reverb',
-              to: '/undermine/rik-reverb',
+              label: 'Soulbinder Naazindhri',
+              to: '/manaforge-omega/soulbinder-naazindhri',
             },
             {
-              label: 'Stix Bunkjunker',
-              to: '/undermine/stix-bunkjunker',
+              label: 'Forgeweaver Araz',
+              to: '/manaforge-omega/forgeweaver-araz',
             },
             {
-              label: "Spocketmonger Lockenstock",
-              to: '/undermine/sprocketmonger-lockenstock',
+              label: "The Soul Hunters",
+              to: '/manaforge-omega/soul-hunters',
             },
             {
-              label: 'One-Armed Bandit',
-              to: '/undermine/one-armed-bandit',
+              label: 'Fractillus',
+              to: '/manaforge-omega/fractillus',
             },
             {
-              label: "Mug'zee, Heads of Security",
-              to: '/undermine/mugzee',
+              label: "Nexus King Salhadaar",
+              to: '/manaforge-omega/nexus-king-salhadaar',
             },
             {
-              label: 'Chrome King Gallywix',
-              to: '/undermine/gallywix',
+              label: 'Dimensius',
+              to: '/manaforge-omega/dimensius',
             },
 
             // ... more items
