@@ -1,3 +1,9 @@
+---
+title: Manaforge Omega
+image: https://i.imgur.com/KUYYksS.png
+description: One page PDF boss guides for the Manaforge Omega raid
+---
+
 # Manaforge Omega
 
 The Manaforge Omega is a new eight boss raid. The raid opens on all three difficulties (Normal, Heroic, and Mythic) on August 12th (NA).
