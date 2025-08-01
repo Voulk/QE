@@ -33,7 +33,7 @@ Notably while there are cantrip/unique items, there are no "Very Rare" drops thi
 - **Boots (The Soul Hunters):** Increases the power of your Cloak, causing it to trigger 50% more frequently.
 - **Ring (Dimensius):** Causes the power of your Cloak to also reduce Cosmic damage taken by 50% for 20 seconds or until a certain amount of damage has been absorbed.
 - **Set Bonus -** Caster Trinket (Fractillus) and Weapon (Soulbinder for 2H Staff, Fractillus for dagger, or Nexus King for 1H Sword): The weapons will cause bonus damage or grant absorb shields, increased to be 200% more effective if paired with the Diamantine Voidcore trinket.
-- **2H Agi/Strength Mace (Nexus-King):** Currently no known power gain, but han an on-use ability that auto loots and *crushes* nearby corpses, turning them into vendorable K'aresh Dust junk.
+- **2H Agi/Strength Mace (Nexus-King):** Currently no known power gain at this time, but has an on-use ability that auto loots and *crushes* nearby corpses, turning them into vendorable K'aresh Dust junk.
 
 Five bosses drop Tier Tokens:
 - Loom'thar *(Legs)*
