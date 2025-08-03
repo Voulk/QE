@@ -159,6 +159,7 @@ In raid I don't think it's worth giving up almost 8000 intellect for a shield ef
 Realistically I can't rate such a significant burst of healing too low because there have been many bosses where improving your healing in a few specific windows are your only real objective to killing the boss. I'm not sure I'd wear it on every fight though, and if you are progressing a little later in the tier you might find a more sustained healing bonus to be more valuable for you. Any specs that won't align well with two minute cooldowns will also want to pass. Some specs might also find the 1.5 minute cooldown <ITEM>Lily of the Eternal Weave</ITEM> to be more useful - it's also less all-in on the on-use so your healing won't have such a large variance between in and out of cooldowns.
 
 
-
 ---
+
+[If you enjoy QE content like this trinket preview, or if QE Live has helped you over the years, consider the Questionably Epic Patreon. Contributions from the community have made the last eight years of content possible. ](https://www.patreon.com/questionablyepic)
 
