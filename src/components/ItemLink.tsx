@@ -12,10 +12,12 @@ const itemMap = {
     "Algari Mana Potion": 212241,
     "Tempered Potion": 212265,
     "Crystallized Augment Rune": 224572,
+    "Ethereal Augment Rune": 243191,
     "Dreambound Augment Rune": 211495,
 
     // Enchants
     "Fiery Resolve": 223778,
+    "Stormrider's Fury": 223762,
     "Radiant Power": 223781,
     "Chant of Leeching Fangs": 223737,
     "Crystalline Radiance": 223692,
@@ -58,6 +60,13 @@ const itemMap = {
     "Signet of the Priory": 219308,
     "Carved Blazikon Wax": 219305,
     "Burin of the Candle King": 219306,
+
+    "Lily of the Eternal Weave": 242494,
+    "Araz's Ritual Forge": 242402,
+    "Astral Antenna": 242395,
+    "Diamantine Voidcore": 242392,
+    "Loomithar's Living Silk": 242392,
+    "Nexus-King's Command": 242400,
 }
 
 export const checkExists = (itemName: string) => {
