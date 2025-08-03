@@ -58,6 +58,13 @@ const itemMap = {
     "Signet of the Priory": 219308,
     "Carved Blazikon Wax": 219305,
     "Burin of the Candle King": 219306,
+
+    "Lily of the Eternal Weave": 242494,
+    "Araz's Ritual Forge": 242402,
+    "Astral Antenna": 242395,
+    "Diamantine Voidcore": 242392,
+    "Loomithar's Living Silk": 242392,
+    "Nexus-King's Command": 242400,
 }
 
 export const checkExists = (itemName: string) => {
