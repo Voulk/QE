@@ -17,7 +17,7 @@ An indepth breakdown of all of the raid trinkets coming in Manaforge Omega in Se
 import ITEM from "@site/src/components/ItemLink"
 
 
-The last few tiers we've had some very creative trinket ideas - particularly in raid which they often used as a testing ground for new ideas. In Manaforge Omega we've returned to fairly standard stat sticks with a few exceptions. There are a lot of non-trinket effect options this tier so they might have thought that complex trinkets on top of that would have been too much. In any case this should be a shorter read than usual because the trinkets are a lot more similar to one another. There's nothing here that's as bombastic as <ITEM>Eye of Kezan</ITEM>, <ITEM>Mister Pick-me-up</ITEM> or <ITEM>Mug's Moxie Jug</ITEM>. There are no real S-tier trinkets this tier.
+The last few tiers we've had some very creative trinket ideas - particularly in raid which they often used as a testing ground for new ideas. In Manaforge Omega we've returned to fairly standard stat sticks with a few exceptions. There are a lot of non-trinket effect options this tier so they might have thought that complex trinkets on top of that would have been too much. In any case this should be a shorter read than usual because the trinkets are a lot more similar to one another. There's nothing here that's as bombastic as <ITEM>Eye of Kezan</ITEM>, <ITEM>Mister Pick-me-up</ITEM> or <ITEM>Mug's Moxie Jug</ITEM>. There are no real S-tier trinkets this tier. Just a bunch of well-tuned A-tier options.
 
 
 ## How to Evaluate Trinkets

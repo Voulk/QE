@@ -12,10 +12,12 @@ const itemMap = {
     "Algari Mana Potion": 212241,
     "Tempered Potion": 212265,
     "Crystallized Augment Rune": 224572,
+    "Ethereal Augment Rune": 243191,
     "Dreambound Augment Rune": 211495,
 
     // Enchants
     "Fiery Resolve": 223778,
+    "Stormrider's Fury": 223762,
     "Radiant Power": 223781,
     "Chant of Leeching Fangs": 223737,
     "Crystalline Radiance": 223692,
