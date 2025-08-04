@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Questionably Epic Live',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    img: require('@site/static/img/QELiveExampleCircle.png').default,
+    img: require('@site/static/img/QELiveCircle.png').default,
     link: "https://questionablyepic.com/live",
     description: (
       <>
@@ -45,13 +45,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Undermine',
+    title: 'Manaforge Omega',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    img: require('@site/static/img/GallywixCircle.png').default,
-    link: "https://questionablyepic.com/undermine",
+    img: require('@site/static/img/ManaForgeOmega.png').default,
+    link: "https://questionablyepic.com/manaforge-omega",
     description: (
       <>
-        One page boss guides to teach you the Liberation of Undermine raid in 11.1.
+        One page boss guides to teach you the Manaforge Omega raid in 11.1.
       </>
     ),
   },
