@@ -62,7 +62,7 @@ You probably don't want to read huge passages of text about a fairly typical sta
 
 *Pick your favorite friend and give them... a small shield... sometimes.*
 
-**Initial Rating: <span style={{color: 'blue'}}>B+</span>**
+**Initial Rating: <span style={{color: 'cyan'}}>B+</span>**
 <p style={{lineHeight: '110%'}}>**Dropped By: Nexus-King Salhaddar (Late boss)**</p>
 
 #### The Breakdown
