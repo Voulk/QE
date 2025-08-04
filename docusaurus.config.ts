@@ -119,13 +119,13 @@ const config: Config = {
           label: 'Articles',
           href: '/blog/',
           items: [
+                        {
+              label: 'Season Three Raid Trinkets',
+              href: '/blog/season-three-raid-trinkets',
+            },
             {
               label: 'Season Two Raid Trinkets',
               href: '/blog/season-two-raid-trinkets',
-            },
-            {
-              label: 'Season One Raid Trinkets',
-              href: '/blog/war-within-raid-trinkets',
             },
             {
               label: 'QE Mythic+ Addon',

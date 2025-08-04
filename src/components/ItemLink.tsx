@@ -65,7 +65,7 @@ const itemMap = {
     "Araz's Ritual Forge": 242402,
     "Astral Antenna": 242395,
     "Diamantine Voidcore": 242392,
-    "Loomithar's Living Silk": 242392,
+    "Loomithar's Living Silk": 242393,
     "Nexus-King's Command": 242400,
 }
 
