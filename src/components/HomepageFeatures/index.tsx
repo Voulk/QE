@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
     link: "https://questionablyepic.com/resto-druid/spells",
     description: (
       <>
-        Upgrade your Druid gameplay with the QE comprehensive guide to raid and Mythic+. Updated for 11.1!
+        Upgrade your Druid gameplay with the QE comprehensive guide to raid and Mythic+. Updated for 12.0!
       </>
     ),
   },
@@ -66,7 +66,7 @@ function Feature({title, Svg, description, link, img}: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+        <p style={{color:"#D3D3D3"}}>{description}</p>
       </div></a>
     </div>
   );
