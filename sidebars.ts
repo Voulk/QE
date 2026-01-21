@@ -18,7 +18,7 @@ const sidebars: SidebarsConfig = {
 
   // But you can create a sidebar manually
   tutorialSidebar: [
-    '11.1-FAQ',
+    '12.0-FAQ',
     'spells',
     {
       type: 'category',
@@ -28,7 +28,7 @@ const sidebars: SidebarsConfig = {
     },
     'talents',
     'stats',
-    'userInterface',
+    'user-interface',
     
   ],
 };
