@@ -54,3 +54,10 @@ img[alt$="<"] {
 table tr {
   border-top: none;
 }
+
+/* Target all code blocks in the documentation or general content */
+.theme-code-block {
+  max-height: 300px; /* Set your desired height */
+  overflow-y: auto;  /* Add a scrollbar if the content is taller than max-height */
+  white-space: pre-wrap;
+}
