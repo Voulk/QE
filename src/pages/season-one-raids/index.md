@@ -1,6 +1,6 @@
 ---
 title: Season One Raids
-image: https://imgur.com/a/sRMbOs1.png
+image: https://i.imgur.com/a/sRMbOs1.png
 description: One page PDF boss guides for the Season One Midnight raids
 ---
 
