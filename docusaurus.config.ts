@@ -159,45 +159,64 @@ const config: Config = {
         {
           type: 'dropdown',
           position: 'left',
-          label: 'Manaforge Omega',
-          href: '/manaforge-omega/',
-          to: '/manaforge-omega/',
+          label: 'Season 1 Raids',
+          href: '/season-one-raids/',
+          to: '/season-one-raids/',
           items: [
             {
               label: 'Table of Contents',
-              to: '/manaforge-omega/',
+              to: '/season-one-raids/',
             },
             {
-              label: 'Plexus Sentinel',
-              to: '/manaforge-omega/plexus-sentinel',
+              label: 'The Voidspire',
+              to: '#',
+              className: 'navbar-separator',
             },
             {
-              label: 'Loom\'ithar',
-              to: '/manaforge-omega/loomithar',
+              label: 'Imperator Averzian',
+              to: '/season-one-raids/imperator-averzian',
             },
             {
-              label: 'Soulbinder Naazindhri',
-              to: '/manaforge-omega/soulbinder-naazindhri',
+              label: 'Vorasius',
+              to: '/season-one-raids/vorasius',
             },
             {
-              label: 'Forgeweaver Araz',
-              to: '/manaforge-omega/forgeweaver-araz',
+              label: 'Fallen-King Salhadaar',
+              to: '/season-one-raids/fallen-king-salhadaar',
             },
             {
-              label: "The Soul Hunters",
-              to: '/manaforge-omega/soul-hunters',
+              label: 'Vaelgor and Ezzorak',
+              to: '/season-one-raids/vaelgor-and-ezzorak',
             },
             {
-              label: 'Fractillus',
-              to: '/manaforge-omega/fractillus',
+              label: "Lightblinded Vanguard",
+              to: '/season-one-raids/lightblinded-vanguard',
             },
             {
-              label: "Nexus King Salhadaar",
-              to: '/manaforge-omega/nexus-king-salhadaar',
+              label: 'Crown of the Cosmos',
+              to: '/season-one-raids/crown-of-the-cosmos',
             },
             {
-              label: 'Dimensius',
-              to: '/manaforge-omega/dimensius',
+              label: 'The Dreamrift',
+              to: '#',
+              className: 'navbar-separator',
+            },
+            {
+              label: "Chimaerus",
+              to: '/season-one-raids/chimaerus',
+            },
+            {
+              label: 'March on Quel\'Danas',
+              to: '#',
+              className: 'navbar-separator',
+            },
+            {
+              label: 'Belo\'ren',
+              to: '/season-one-raids/beloren',
+            },
+            {
+              label: 'Midnight Falls',
+              to: '/season-one-raids/midnight-falls',
             },
 
             // ... more items
