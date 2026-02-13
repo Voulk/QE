@@ -159,13 +159,18 @@ const config: Config = {
         {
           type: 'dropdown',
           position: 'left',
-          label: 'S1 Raids',
+          label: 'Season 1 Raids',
           href: '/season-one-raids/',
           to: '/season-one-raids/',
           items: [
             {
               label: 'Table of Contents',
               to: '/season-one-raids/',
+            },
+            {
+              label: 'The Voidspire',
+              to: '#',
+              className: 'navbar-separator',
             },
             {
               label: 'Imperator Averzian',
@@ -192,8 +197,18 @@ const config: Config = {
               to: '/season-one-raids/crown-of-the-cosmos',
             },
             {
+              label: 'The Dreamrift',
+              to: '#',
+              className: 'navbar-separator',
+            },
+            {
               label: "Chimaerus",
               to: '/season-one-raids/chimaerus',
+            },
+            {
+              label: 'March on Quel\'Danas',
+              to: '#',
+              className: 'navbar-separator',
             },
             {
               label: 'Belo\'ren',
