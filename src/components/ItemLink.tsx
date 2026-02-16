@@ -67,6 +67,15 @@ const itemMap = {
     "Diamantine Voidcore": 242392,
     "Loomithar's Living Silk": 242393,
     "Nexus-King's Command": 242400,
+
+    "Darkmoon Sigil: Hunt": 245876,
+    "Loa Worshiper's Band": 251513,
+    "Arcanoweave Lining": 240166,
+    "Voidstone Shielding Array": 251073,
+    "Thalassian Phoenix Torque": 241139,
+    "Sunfire Silk Lining": 240164,
+    "Eye of the Broodmother": 156036,
+
 }
 
 export const checkExists = (itemName: string) => {
