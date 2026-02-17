@@ -2,6 +2,7 @@
 title: Season 1 Embellishments
 description: Learn more about the embellishement effects available in Season 1 of Midnight.
 image: https://i.imgur.com/0IEnNEZ.png
+robots: noindex, nofollow
 ---
 
 
