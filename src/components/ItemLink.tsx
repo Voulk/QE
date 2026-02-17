@@ -81,6 +81,7 @@ const itemMap = {
     "Signet of Azerothian Blessings": 241140,
     "Arcanoweave Cord": 239664,
     "World Tree Rootwraps": 244601,
+    "Blue Silken Lining": 193944,
 
 }
 
