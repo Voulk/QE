@@ -119,18 +119,16 @@ const config: Config = {
           label: 'Articles',
           href: '/blog/',
           items: [
-                        {
+            {
+              label: 'Midnight Embellishments',
+              href: '/blog/midnight-embellishments',
+            },
+             {
               label: 'Season Three Raid Trinkets',
               href: '/blog/season-three-raid-trinkets',
             },
-            {
-              label: 'Season Two Raid Trinkets',
-              href: '/blog/season-two-raid-trinkets',
-            },
-            {
-              label: 'QE Mythic+ Addon',
-              href: '/blog/mythicplus-addon',
-            },
+
+
             // ... more items
             
             {

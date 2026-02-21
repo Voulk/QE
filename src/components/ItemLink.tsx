@@ -76,6 +76,13 @@ const itemMap = {
     "Sunfire Silk Lining": 240164,
     "Eye of the Broodmother": 156036,
 
+    "Primal Spore Binding": 244608,
+    "Blessed Pango Charm": 244603,
+    "Signet of Azerothian Blessings": 241140,
+    "Arcanoweave Cord": 239664,
+    "World Tree Rootwraps": 244601,
+    "Blue Silken Lining": 193944,
+
 }
 
 export const checkExists = (itemName: string) => {
