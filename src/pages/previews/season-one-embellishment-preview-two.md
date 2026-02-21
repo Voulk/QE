@@ -49,9 +49,9 @@ The animations also didn't match the tomfoolery the tooltip suggested I might ge
 <br />
 
 ## Sunfire Silk Trappings & Arcanoweave Trappings
-***Both Sets:***   Bracers, Boots, Cloak.
-***Armor Type:*** Cloth Only  
-![Tailor Trappings](./images/MurderRowMaterials.webp)
+***Both Sets:***   Bracers, Boots, Cloak  
+***Armor Type:*** Cloth Only   
+![Tailor Trappings](./images/TailorTrappings.webp)
 
 Following in the footsteps of <ITEM>Blue Silken Lining</ITEM> from Dragonflight, the two cloth sets are both a large amount of stats whenever you are above 80% health. Just like their ancestors, the power of these will come down to **uptime**. It is not unreasonable to think a healer will be above to keep themselves above 80% health regularly, but you'll need to do so 70-75% of the time for these to beat alternatives. These have always had some awkwardness built-in as healers because we do most of our work when the raid is being hit hardest. I'd suggest something more reliable might be our first choice instead. 
 
