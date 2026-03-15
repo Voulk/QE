@@ -46,10 +46,11 @@ The raids include 4 tiers of item level, increasing its starting base level as y
 - **Tier 1 (Early Boss):** (Imperator) all drop loot at 259 IL in heroic.
 - **Tier 2 (Middle Bosses):** (Vorasius, Fallen-King, Chimaerus) all drop loot at 263 IL in heroic.
 - **Tier 3 (Late Bosses):** (Vael & Ezz, Vanguard, Belo'ren) all drop loot at 266 IL in heroic.
-- **Tier 4 (End Bosses):** (Crown, Midnight Falls) all drop loot at 269 IL in heroic.  End boss loot drops at a track one difficulty higher (so mythic track from heroic).
+- **Tier 4 (End Bosses):** (Crown, Midnight Falls) all drop loot at 269 IL in heroic.  
+End bosses drop additional crests at one track higher than their difficulty (so mythic crests from heroic).
 
-Below are some notable pieces of rare gear that drop at max IL on their upgrade track.
-- **Ring:** Sin'dorei Band of Hope (Midnight Falls in March of Quel'Danas) - Taking shadow damage greater than 15% of your health grants a shield and avoidance.
+Below are some notable pieces of rare gear that drop at max IL on their upgrade track. They also have an extra socket.
+- **Ring:** Eye of MIdnight (Midnight Falls in March of Quel'Danas) - Taking shadow damage greater than 15% of your health grants a shield and avoidance.
 - **Neck:** Eternal Voidsong Chain (Crown of the Cosmos in the Voidspire) - Dealing shadow damage has a chance to proc a DOT on the target.
 
 
