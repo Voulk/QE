@@ -26,9 +26,10 @@ const sidebars: SidebarsConfig = {
       items: ['raid', 'mythicplus'],
       collapsed: false,
     },
-    'talents',
+    //'talents',
     'stats',
     'user-interface',
+    'common-mistakes',
     
   ],
 };
