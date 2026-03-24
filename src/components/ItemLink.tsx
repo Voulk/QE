@@ -8,7 +8,7 @@ const itemMap = {
     // Consumables
     "Flask of Tempered Swiftness": 431972,
     "Algari Mana Oil": 224107,
-    "Feast": 222732,
+    "Feast": 255846,
     "Algari Mana Potion": 212241,
     "Tempered Potion": 212265,
     "Crystallized Augment Rune": 224572,
@@ -82,6 +82,14 @@ const itemMap = {
     "Arcanoweave Cord": 239664,
     "World Tree Rootwraps": 244601,
     "Blue Silken Lining": 193944,
+
+    "Eversong Diamond": 240983,
+    "HasteMastery Gem": 240892,
+    "Thalassian Phoenix Oil": 243734,
+    "Voidtouched Augment Rune": 259085,
+    "Potion of Recklessness": 241288,
+    "Lightfused Mana Potion": 241300,
+    "Acuity of the Ren'dorei": 244029,
 
 }
 

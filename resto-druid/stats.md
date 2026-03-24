@@ -43,26 +43,24 @@ Run your gear through Questionably Epic Live. It has full support for stat dimin
 ## Extras
 
 ### Reagents
-- **Flask:** <span style={{color: '#B59D36'}}>[Flask of Tempered Swiftness](https://www.wowhead.com/spell=431972)</span>
-- **Weapon Rune:** <ITEM>Algari Mana Oil</ITEM>
+- **Flask:** <span style={{color: '#B59D36'}}>[Flask of the Blood Knights](https://www.wowhead.com/spell=1235110)</span>
+- **Weapon Rune:** <ITEM>Thalassian Phoenix Oil</ITEM>
 - **Food:** <ITEM>Feast</ITEM>
-- **Augment Rune:** <ITEM>Crystallized Augment Rune</ITEM> / <ITEM>Ethereal Augment Rune</ITEM>
-- **Potion:** <ITEM>Algari Mana Potion</ITEM> / <ITEM>Tempered Potion</ITEM>. Note that any potion that requires you sit and drink for 10 seconds is much worse now due to Master Shapeshifter.
+- **Augment Rune:** <ITEM>Voidtouched Augment Rune</ITEM>
+- **Potion:** <ITEM>Potion of Recklessness</ITEM> / <ITEM>Lightfused Mana Potion</ITEM>. Ideally you use a stat potion, not a mana potion. It is a very significant power increase while active.
 
 ### Enchants
-- **Weapon:** <ITEM>Stormrider's Fury</ITEM>
-- **Cloak:** <ITEM>Chant of Leeching Fangs</ITEM>
-- **Chest:** <ITEM>Crystalline Radiance</ITEM>
-- **Bracers:** <ITEM>Chant of Armored Leech</ITEM>
-- **Legs:** <ITEM>Sunset Spellthread</ITEM>
-- **Boots:** <ITEM>Defender's March</ITEM>
-- **Ring:** <ITEM>Radiant Haste</ITEM>
+- **Weapon:** <ITEM>Acuity of the Ren'dorei</ITEM>
+- **Helm:** Empowered Hex of Leeching
+- **Shoulders:** Silvermoon's Mending
+- **Chest:** Mark of the Worldsoul
+- **Legs:** Arcanoweave Spellthread
+- **Boots:** Shaladrassil's Roots
+- **Ring:** Silvermoon's Alacrity
 
 ### Gems
-- First Gem Slot: 1x <ITEM>Elusive Blasphemite</ITEM>
-- 1x <ITEM>Quick Onyx</ITEM>
-- 1x <ITEM>Quick Sapphire</ITEM>
-- <ITEM>Masterful Emerald</ITEM> in all other slots.
+- First Gem Slot: 1x <ITEM>Eversong Diamond</ITEM>
+- <ITEM>HasteMastery Gem</ITEM> in all other slots.
 
 The thought process here is to wear one of a few different types of gems to maximize the value of our meta gem, <ITEM>Elusive Blasphemite</ITEM>. Gem value is quite low this expansion so there's minimal loss in trading a few Haste + Mastery gems to get some extra movement speed. Fill your remaining slots with <ITEM>Masterful Emerald</ITEM>. 
 
@@ -79,12 +77,12 @@ You can get custom, personalized trinket rankings on [QE Live](https://questiona
 When you get to a certain amount of a stat you start getting a small penalty on any stats you accumulate above that. These are absolutely not stat caps, and Haste in particular is good enough that you'll happily continue to pick up pieces well past the first DR point. 
 **If you're wondering if you have too much haste the answer is almost definitely no.** You can use QE Live above to double check. Diminishing returns applies to all stat rating which includes any trinket procs. It does not apply to percentage gains like Bloodlust, Lycara's Teachings or Mark of the Wild.
 
-| Stat | First DR (-10%) | Second DR (-20%) | Third DR (-30%) |
-| --- | --- | --- | --- |
-| Haste | 19800 | 26400 | 33000 |
-| Mastery | 21000 | 28000 | 35000 |
-| Crit | 21000 | 28000 | 35000 |
-| Versatility | 23400 | 31200 | 39000 |
+| Stat | First DR (-10%) | Second DR (-20%) | 
+| --- | --- | --- |
+| Haste | 1320 | 1760 | 
+| Mastery | 1380 | 1840 | 
+| Crit | 1380 | 1840 | 
+| Versatility | 1620 | 2160 | 
 
 :::warning[Diminishing Returns]
 
