@@ -128,8 +128,6 @@ Reduces the damage your target takes by 20% for 12 seconds. Use this whenever ta
 ---
 
 ## Passives
-### Ysera's Gift
-<WH>Ysera's Gift</WH> is a free heal on you, or a raid member every 5 seconds. It doesn’t benefit from Haste or Versatility, isn’t increased by your Mastery, and cannot critically heal. It’s just free healing.
 
 ### Omen of Clarity
 <WH>Omen of Clarity</WH> rewards you with some free <WH>Regrowth</WH> casts for having <WH>Lifebloom</WH> up. Once again, it's just free healing.
@@ -142,7 +140,7 @@ Reduces the damage your target takes by 20% for 12 seconds. Use this whenever ta
 
 Allows you, or a targeted ally to cast spells for free for 8 seconds. In raid it’s up to you and your group to decide if this is best on yourself or another healer but the standard is to keep it for yourself.
 
-> **Tip:** <WH>Efflorescence</WH> and <WH>Wild Growth</WH> are both reasonably expensive spells that should be fit into your <WH>Innervate</WH> duration. <WH>Rejuvenation</WH>s are better value than <WH>Regrowth</WH>s unless the <WH>Rejuvenation</WH> will mostly overheal.
+> **Tip:** <WH>Efflorescence</WH> and <WH>Wild Growth</WH> are both reasonably expensive spells that should be fit into your <WH>Innervate</WH> duration. Avoid combining with Regrowth when you have high Abundance stacks.
 
 > **Tip:** Try not to time your <WH>Innervate</WH> as the big damage hits. Instead, cast it 8 seconds beforehand to get a blanket of <WH>Rejuvenation</WH>s out before the damage hits. Getting your HoTs out before damage hits is one of the keys to playing Resto Druid well.
 
@@ -173,23 +171,18 @@ If you recast a hot that has less than 30% of its duration left on a target the 
 ### Mastery: Harmony
 The Resto Druid mastery has been through a few iterations since the stat was introduced, with its current version one of the best. Mastery: Harmony increases all healing done to the target by 4-20%+ for each HoT on them. Each HoT is worth a little less mastery value than the one before it. 
 
-There are currently eleven spells that count toward it: 
+There are currently six spells that count toward it: 
 - <WH>Lifebloom</WH>
 - <WH>Rejuvenation</WH>
 - <WH>Regrowth</WH> (HoT)
 - <WH>Wild Growth</WH>
-- <WH>Cenarion Ward</WH>
-- <WH>Cultivation</WH>
-- <WH>Spring Blossoms</WH>
 - <WH>Germination</WH>
-- <WH>Tranquility</WH> (HoT)
-- <WH>Grove Tending</WH> 
 - <WH>Symbiotic Bloom</WH> (Wildstalker)
 
 > HoTs from trinkets or other non-druid sources don’t count toward Mastery. The Wild Growth cast by <WH>Grove Guardians</WH> benefit from mastery but don't add a stack of their own (so your other healing will not be buffed).
 
 #### Mastery Diminished Returns
-In 11.1 a form of diminished value was added to mastery stacks (in exchange for a large buff). This is pretty mathy for a beginners page and it isn't essential knowledge so feel free to skip it.
+In the last expansion, a form of diminished value was added to mastery stacks (in exchange for a large buff). This is pretty mathy for a beginners page and it isn't essential knowledge so feel free to skip it.
 
 | Stack Number | Mastery Multiplier | 
 | --- | --- | 
