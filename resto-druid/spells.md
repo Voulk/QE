@@ -1,4 +1,5 @@
 ---
+image: https://i.imgur.com/VQ0OtPI.png
 sidebar_label: 'Spells'
 sidebar_position: 3
 ---

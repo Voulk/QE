@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Common Mistakes
+image: https://i.imgur.com/VQ0OtPI.png
 ---
 
 # Common Mistakes & How to Log Review
