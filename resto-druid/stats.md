@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+image: https://i.imgur.com/VQ0OtPI.png
 ---
 
 import SideBySideFlex from "../src/components/SideBySideFlexBox"
