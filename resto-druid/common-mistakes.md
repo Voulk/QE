@@ -4,6 +4,8 @@ title: Common Mistakes
 image: https://i.imgur.com/VQ0OtPI.png
 ---
 
+import ReactPlayer from 'react-player'
+
 # Common Mistakes & How to Log Review
 
 While having someone look over your log is a great way to improve, learning a few key metrics to look out for can enable you to review your own log - even between pulls. I'd recommend picking one of the below that you're not doing well and focus entirely on improving it for a few pulls. Once you're satisfied with it, add a second bullet point. Trying to improve every metric at once can be less effective than doing them one at a time until they are engrained in your gameplay.
@@ -60,5 +62,20 @@ Avoid this:
 - With <WH>Prosperity</WH>, <WH>Swiftmend</WH> casts should mostly be Green and Yellow. Red is not good, but better to have some Red and high cast efficiency (95%+).
 - <WH>Soul of the Forest</WH> - should be all on Rejuv unless it's necessary to <WH>Regrowth</WH> for triage / spothealing on a critically low target.
 - Cooldowns - check that they are all used with <WH>Wild Growth</WH> and a proper Rejuv ramp up.
+
+### Watch Commentary Videos
+
+It can be very useful to watch commentary videos to watch experienced players put into practice Resto Druid fundamentals. Here's one from Phased:
+
+<div style={{ width: '100%', aspectRatio: '16/9' }}>
+  <ReactPlayer 
+    url="https://youtu.be/YcZsfIKv-XY" 
+    controls 
+    style={{ paddingRight: "12px" }} 
+    width="100%"
+    height="100%"
+  />
+</div>
+
 
 *Written by Face2face.*
