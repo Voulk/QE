@@ -2,9 +2,9 @@ import PdfEmbed from '../../components/PdfEmbed';
 import pdf from './pdfs/09MidnightFalls.pdf';
 
 
-# Midnight Falls
+# Ula'tek
 ---
 
-[← Previous Boss](/season-one-raids/beloren) • [Table of Contents](/season-one-raids/)
+[← Previous Boss](/venomous-abyss/coiled-altar) • [Table of Contents](/venomous-abyss/)
 
 <PdfEmbed src={pdf} />
