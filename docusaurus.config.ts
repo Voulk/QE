@@ -202,8 +202,15 @@ const config: Config = {
               label: 'Ula\'tek',
               to: '/venomous-abyss/ulatek',
             },
-
-            // ... more items
+            {
+              label: 'Tidebound Grotto',
+              to: '#',
+              className: 'navbar-separator',
+            },
+            {
+              label: 'Nymrissa Wavecaller',
+              to: '/venomous-abyss/nymrissa',
+            },
           ],
         },
         /*{

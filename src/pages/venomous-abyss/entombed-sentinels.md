@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/02Vorasius.pdf';
+import pdf from './pdfs/02EntombedSentinels.pdf';
 
 
 # Entombed Sentinels

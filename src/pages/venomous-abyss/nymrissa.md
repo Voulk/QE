@@ -2,9 +2,9 @@ import PdfEmbed from '../../components/PdfEmbed';
 import pdf from './pdfs/01Nekzali.pdf';
 
 
-# Nek'zali the Soulcoiler
+# Nymrissa Wavecaller
 ---
 
-[Table of Contents](/venomous-abyss/) • [Next Boss →](/venomous-abyss/entombed-sentinels/)
+[Table of Contents](/venomous-abyss/)
 
 <PdfEmbed src={pdf} />
