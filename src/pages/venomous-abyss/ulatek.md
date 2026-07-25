@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/09MidnightFalls.pdf';
+import pdf from './pdfs/08Ulatek.pdf';
 
 
 # Ula'tek
