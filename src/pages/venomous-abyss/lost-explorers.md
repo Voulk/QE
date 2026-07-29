@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/03FallenKingSalhadaar.pdf';
+import pdf from './pdfs/03LostExplorers.pdf';
 
 
 # The Lost Explorers

@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/04Vaelgor&Ezzorak.pdf';
+import pdf from './pdfs/04Vashnik.pdf';
 
 
 # Vashnik the Malignant
