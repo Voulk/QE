@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/01Nekzali.pdf';
+import pdf from './pdfs/09NymrissaWavecaller.pdf';
 
 
 # Nymrissa Wavecaller
