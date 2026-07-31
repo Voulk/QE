@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/06CrownOfTheCosmos.pdf';
+import pdf from './pdfs/06TwinFangs.pdf';
 
 
 # The Twin Fangs

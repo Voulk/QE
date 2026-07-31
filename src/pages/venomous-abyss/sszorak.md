@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/05LightblindedVanguard.pdf';
+import pdf from './pdfs/05Sszorak.pdf';
 
 
 # Sszorak
