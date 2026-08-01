@@ -1,5 +1,5 @@
 import PdfEmbed from '../../components/PdfEmbed';
-import pdf from './pdfs/07Chimaerus.pdf';
+import pdf from './pdfs/07CoiledAltar.pdf';
 
 
 # The Coiled Altar
