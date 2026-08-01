@@ -157,67 +157,60 @@ const config: Config = {
         {
           type: 'dropdown',
           position: 'left',
-          label: 'Season 1 Raids',
-          href: '/season-one-raids/',
-          to: '/season-one-raids/',
+          label: 'Season 2 Raids',
+          href: '/venomous-abyss/',
+          to: '/venomous-abyss/',
           items: [
             {
               label: 'Table of Contents',
-              to: '/season-one-raids/',
+              to: '/venomous-abyss/',
             },
             {
-              label: 'The Voidspire',
+              label: 'Venomous Abyss',
               to: '#',
               className: 'navbar-separator',
             },
             {
-              label: 'Imperator Averzian',
-              to: '/season-one-raids/imperator-averzian',
+              label: 'Nek\'zali',
+              to: '/venomous-abyss/nekzali',
             },
             {
-              label: 'Vorasius',
-              to: '/season-one-raids/vorasius',
+              label: 'Entombed Sentinels',
+              to: '/venomous-abyss/entombed-sentinels',
             },
             {
-              label: 'Fallen-King Salhadaar',
-              to: '/season-one-raids/fallen-king-salhadaar',
+              label: 'Lost Explorers',
+              to: '/venomous-abyss/lost-explorers',
             },
             {
-              label: 'Vaelgor and Ezzorak',
-              to: '/season-one-raids/vaelgor-and-ezzorak',
+              label: 'Vashnik',
+              to: '/venomous-abyss/vashnik',
             },
             {
-              label: "Lightblinded Vanguard",
-              to: '/season-one-raids/lightblinded-vanguard',
+              label: "Sszorak",
+              to: '/venomous-abyss/sszorak',
             },
             {
-              label: 'Crown of the Cosmos',
-              to: '/season-one-raids/crown-of-the-cosmos',
+              label: 'Twin Fangs',
+              to: '/venomous-abyss/twin-fangs',
             },
             {
-              label: 'The Dreamrift',
+              label: 'Coiled Altar',
+              to: '/venomous-abyss/coiled-altar',
+            },
+            {
+              label: 'Ula\'tek',
+              to: '/venomous-abyss/ulatek',
+            },
+            {
+              label: 'Tidebound Grotto',
               to: '#',
               className: 'navbar-separator',
             },
             {
-              label: "Chimaerus",
-              to: '/season-one-raids/chimaerus',
+              label: 'Nymrissa Wavecaller',
+              to: '/venomous-abyss/nymrissa',
             },
-            {
-              label: 'March on Quel\'Danas',
-              to: '#',
-              className: 'navbar-separator',
-            },
-            {
-              label: 'Belo\'ren',
-              to: '/season-one-raids/beloren',
-            },
-            {
-              label: 'Midnight Falls',
-              to: '/season-one-raids/midnight-falls',
-            },
-
-            // ... more items
           ],
         },
         /*{
