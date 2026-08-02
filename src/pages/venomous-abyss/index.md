@@ -26,7 +26,7 @@ The Venomous Abyss is a new 8 boss raid. The raid opens on Normal, Heroic, and M
 
 
 #### The Tidebound Grotto
-The Tidebound Grotto is a new 1 boss raid.  The raid opens on World Difficulty (equivalent to a World Boss) on August 11th and will feature a special solo-queue system accessible when attempting to enter the instance.  On Aguust 18th, it will release on Normal, Heroic, and Mythic difficulties.  Unlike usual raid instances that allow 20 players in Mythic difficulty, this lair will allow a Flex Mythic Raid of 15-25 players.
+The Tidebound Grotto is a new 1 boss raid.  The raid opens on World Difficulty (equivalent to a World Boss) on August 11th and will feature a special solo-queue system accessible when attempting to enter the instance.  On August 18th, it will release on Normal, Heroic, and Mythic difficulties.  Unlike usual raid instances that allow 20 players in Mythic difficulty, this lair will allow a Flex Mythic Raid of 15-25 players.
 
 <table>
 <tr><td></td></tr>
